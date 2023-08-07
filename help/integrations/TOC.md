@@ -3,10 +3,10 @@ user-guide-title: Tutorials zur Experience Cloud-Integration
 breadcrumb-title: Experience Cloud-Integrationen
 user-guide-description: Integrationen - Lernmaterialien
 mini-toc-levels: 1
-source-git-commit: 97e310186bfbf3f6e3456006a4f8f233364e3453
+source-git-commit: 510253b9fbf510ebdfb7e0cc51b854fa4c4bc07d
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 29%
+source-wordcount: '92'
+ht-degree: 30%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 29%
 + Lösungskategorien{#solution-categories}
    + [Übersicht](./solution-categories/overview.md)
    + [B2B-Marketing](./solution-categories/b2b.md)
-   + [[!DNL Commerce]](./solution-categories/commerce.md)
+   + [Commerce](./solution-categories/commerce.md)
    + [Content Management](./solution-categories/content-management.md)
    + [Inhaltsversorgungskette](./solution-categories/content-supply-chain.md)
    + [Journey von Kunden](./solution-categories/customer-journeys.md)
@@ -48,7 +48,7 @@ ht-degree: 29%
       + [[!DNL Experience Manager]](./integrations-between-applications/commerce/commerce-experience-manager.md)
    + [!DNL Creative Cloud]{#creative-cloud}
       + [[!DNL Workfront]](./integrations-between-applications/creative-cloud/creative-cloud-workfront.md)
-   + [!DNL Customer Journey [!DNL Analytics]]{#cja}
+   + [!DNL Customer Journey Analytics]{#cja}
       + [[!DNL Analytics]](./integrations-between-applications/cja/customer-journey-analytics-analytics.md)
       + [[!DNL Real-Time CDP]](./integrations-between-applications/cja/cja-rtcdp.md)
    + [!DNL Experience Manager]{#experience-manager}
