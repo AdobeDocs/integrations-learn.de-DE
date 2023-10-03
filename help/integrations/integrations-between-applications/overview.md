@@ -1,17 +1,19 @@
 ---
-title: Integrationskonfigurationen für Adobe Experience Cloud-Anwendungen - nach Produkt
-description: Gängige Integrationskonfigurationen für Adobe Experience Cloud-Anwendungen, geordnet nach Produkten.
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: Integrationskonfigurationen - nach Anwendung
+description: Erfahren Sie mehr über die gängigen Integrationskonfigurationen für Experience Cloud, organisiert von Anwendungen.
+exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 9%
+source-wordcount: '105'
+ht-degree: 0%
 
 ---
 
+# Integrationskonfigurationen für Experience Cloud - organisiert nach Anwendung
 
-# Integrationskonfigurationen für Adobe Experience Cloud-Produkte - nach Produkt
+Dieser Abschnitt hilft allen, die mit Adobe-Applikationen vertraut sind, die durch die Integration mehrerer Adobe-Applikationen einen Geschäftswert schaffen möchten. Wir haben viele gängige Integrationskonfigurationen für Adobe-Unternehmensanwendungen organisiert und sie reellen Anwendungsfällen zugeordnet.
 
-Dieser Abschnitt hilft allen, die mit der Adobe-Produktvertrautheit vertraut sind und durch die Integration mehrerer Adobe-Produkte einen Geschäftswert schaffen möchten.  Wir haben viele gängige Integrationskonfigurationen für die Adobe-Unternehmensprodukte organisiert und sie den realen Anwendungsfällen zugeordnet.  Je nach Umgebung gibt es viele Möglichkeiten, die Adobe-Produkte zu konfigurieren.  In diesem Abschnitt erhalten Sie Anleitungen, die Sie bereitstellen oder ändern können, um die Anforderungen Ihrer Umgebung zu erfüllen.
+Je nach Umgebung gibt es viele Möglichkeiten, Adobe-Anwendungen zu konfigurieren. In diesem Abschnitt finden Sie Anleitungen, die Sie bei der Bereitstellung unverändert oder bei der Anpassung an die Anforderungen Ihrer Umgebung unterstützen.
 
 >[!NOTE]
 >
