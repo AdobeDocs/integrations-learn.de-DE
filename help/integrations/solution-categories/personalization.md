@@ -1,13 +1,13 @@
 ---
-title: Skalierte Personalisierung
+title: Anwendungsintegrationen zur Personalisierung im Maßstab
 description: Gestalten Sie personalisierte Erlebnisse in jedem Augenblick.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '516'
 ht-degree: 1%
 
 ---
-
 
 # Skalierte Personalisierung
 
@@ -19,7 +19,7 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
       <th>Anwendungsfall</th>
       <th>Beschreibung</th>
       <th>Beispiele</th>
-      <th>Programme</th>
+      <th>Anwendungen</th>
     </tr>
   </thead>
   <tbody>
@@ -73,7 +73,7 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     </tr>
     <tr>
       <td>
-        Berichterstellung für Personalisierungsaktivitäten<br />Analyse der Ergebnisse von Optimierungstests, einschließlich A/B-Tests, unter Verwendung von Adobe [!DNL Target] und Erstellung umfassender Berichte durch Adobe [!DNL Analytics].
+        Berichterstellung für Personalisierungsaktivitäten<br />Analyse der Ergebnisse von Optimierungstests, einschließlich A/B-Tests, unter Verwendung von Adobe [!DNL Target] Erstellung umfassender Berichte durch Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">

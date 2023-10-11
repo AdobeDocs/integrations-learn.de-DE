@@ -1,13 +1,13 @@
 ---
-title: Dateneinblicke und -aktivierungen
+title: Anwendungsintegrationen für Dateneinblicke und -aktivierungen
 description: Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online- und Offline-Dateneinblicken in Ihrer gesamten Organisation.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
-
 
 # Dateneinblicke und -aktivierungen
 
@@ -20,7 +20,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
       <th>Anwendungsfall</th>
       <th>Beschreibung</th>
       <th>Beispiele</th>
-      <th>Programme</th>
+      <th>Anwendungen</th>
     </tr>
   </thead>
 
@@ -30,7 +30,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
    <td rowspan="8"><b>Datenanalyse und Berichterstellung</b></td>
 
 <!--  ROW 2a  -->
-<td>Analyse der Ergebnisse von Optimierungstests, einschließlich A/B-Tests, mithilfe von Adobe [!DNL Target] und Erstellung umfassender Berichte durch Adobe [!DNL Analytics].</td>
+<td>Analyse der Ergebnisse von Optimierungstests, einschließlich A/B-Tests, mithilfe von Adobe [!DNL Target] Erstellung umfassender Berichte durch Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Anzeigen von A/B-Testergebnissen in Rich-Analytics-Berichten.</li>
        </ul></td>
@@ -67,7 +67,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 
 <!--  ROW 2e  -->
 <tr>
-   <td>Benutzeraktivität auf AEM Sites-Websites mithilfe von Adobe verfolgen, analysieren und in Berichte aufnehmen [!DNL Analytics] für umfassende Berichte und Einblicke.</td>
+   <td>Benutzeraktivitäten auf AEM Sites-Websites mithilfe von Adobe verfolgen, analysieren und melden [!DNL Analytics] für umfassende Berichte und Einblicke.</td>
    <td><ul style="margin-top: 0;">
         <li>Verfolgen, Analysieren und Berichten über Schlüsselmetriken für Site-Seiten.</li>
         <li>Verwendung [!DNL Analytics] Berichte, um datenbasierte Entscheidungen für die Benutzererfahrung und Inhaltsstrategie zu treffen.</li>
@@ -78,7 +78,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 
 <!--  ROW 2f  -->
 <tr>
-   <td>Umfassende Einblicke in die Adobe gewinnen [!DNL Campaign] E-Mail-Marketing-Kampagnen mit Vor-Klick-Metriken und Konversionsraten.</td>
+   <td>Umfassende Einblicke in Adobe gewinnen [!DNL Campaign] E-Mail-Marketing-Kampagnen mit Vor-Klick-Metriken und Konversionsraten.</td>
    <td><ul style="margin-top: 0;">
         <li>Tracking, Analysieren und Reporting zu Konversionsmetriken nach dem Klicken für E-Mail-Kampagnen.</li>
         <li>Drilldown von Kampagnen zu anderen Dimensionen, die in erfasst wurden [!DNL Analytics].</li>
@@ -89,10 +89,10 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 
 <!--  ROW 2g  -->
 <tr>
-   <td>Umfassende Einblicke in die Adobe gewinnen [!DNL Commerce] Speichern Sie die Leistung mithilfe der von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</td>
+   <td>Umfassende Einblicke in Adobe gewinnen [!DNL Commerce] Speichern Sie die Leistung mithilfe der von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</td>
    <td><ul style="margin-top: 0;">
         <li>Data Insights und Reporting zu Commerce-Aktivitäten.</li>
-        <li>Umfassende Einblicke in die Adobe gewinnen [!DNL Commerce] Speichern Sie die Leistung mithilfe der von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</li>
+        <li>Umfassende Einblicke in Adobe gewinnen [!DNL Commerce] Speichern Sie die Leistung mithilfe der von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/commerce/commerce-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Commerce] und [!DNL Analytics]</a></td>
  </tr>

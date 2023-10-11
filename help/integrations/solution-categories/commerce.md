@@ -1,13 +1,13 @@
 ---
-title: Commerce
+title: Anwendungsintegrationen für Commerce
 description: Mit unserer flexiblen, KI-gestützten Commerce-Lösung können Sie auf einer einzigen Plattform Commerce-Erlebnisse für mehrere Kanäle erstellen.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 4%
+source-wordcount: '165'
+ht-degree: 3%
 
 ---
-
 
 # [!DNL Commerce]
 
@@ -20,7 +20,7 @@ Mit unserer flexiblen, KI-gestützten Commerce-Lösung können Sie auf einer ein
       <th>Anwendungsfall</th>
       <th>Beschreibung</th>
       <th>Beispiele</th>
-      <th>Programme</th>
+      <th>Anwendungen</th>
     </tr>
   </thead>
   <tbody>
@@ -50,7 +50,7 @@ Mit unserer flexiblen, KI-gestützten Commerce-Lösung können Sie auf einer ein
  <tr>
    <td><strong>Datenanalyse und Berichterstellung<strong></td>
    <td>Bewerten Sie Commerce-Store-Konversionstrichter, Bestellungen, Umsatz sowie Besuchs- und Besuchermetriken.</td>
-   <td><ul style="margin-top: 0;"><li>Data Insights und Reporting zu Commerce-Aktivitäten.</li><li>Umfassende Einblicke in die Adobe gewinnen [!DNL Commerce] Speichern Sie die Leistung mithilfe der von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</li></ul></td>
+   <td><ul style="margin-top: 0;"><li>Data Insights und Reporting zu Commerce-Aktivitäten.</li><li>Umfassende Einblicke in Adobe gewinnen [!DNL Commerce] Speichern Sie die Leistung mithilfe der von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] und [!DNL Analytics]</a></td>
  </tr>
  </tbody>

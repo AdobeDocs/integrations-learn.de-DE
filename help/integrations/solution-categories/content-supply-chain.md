@@ -1,18 +1,19 @@
 ---
-title: Inhaltsversorgungskette
+title: Anwendungsintegrationen für die Inhaltsversorgungskette
 description: Planen, erstellen, personalisieren und veröffentlichen Sie Inhalte.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
 
-
 # Inhaltsversorgungskette
 
 Planen, erstellen, personalisieren und veröffentlichen Sie unvergessliche Inhalte für jeden Kunden - mit der Geschwindigkeit von jetzt an.
-Die Erfüllung von Echtzeit-Kundenerwartungen für personalisierte Erlebnisse erfordert mehr digitale Inhalte als je zuvor. Mit den kreativen Workflows und Asset-Management-Lösungen von Adobe können Ihre Teams personalisierte Inhalte in großem Maßstab planen, erstellen und bereitstellen, die das Journey an jedem Touchpoint unterstützen.
+
+Die Erfüllung von Echtzeit-Kundenerwartungen für personalisierte Erlebnisse erfordert mehr digitale Inhalte als je zuvor. Mit Adobe-Workflows und Asset-Management-Lösungen können Ihre Teams personalisierte Inhalte in großem Maßstab planen, erstellen und bereitstellen, die das Journey an jedem Touchpoint unterstützen.
 
 <table>
  <thead>
@@ -20,7 +21,7 @@ Die Erfüllung von Echtzeit-Kundenerwartungen für personalisierte Erlebnisse er
       <th>Anwendungsfall</th>
       <th>Beschreibung</th>
       <th>Beispiele</th>
-      <th>Programme</th>
+      <th>Anwendungen</th>
     </tr>
   </thead>
   <tbody>
@@ -60,7 +61,7 @@ Die Erfüllung von Echtzeit-Kundenerwartungen für personalisierte Erlebnisse er
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets Essentials und Workfront</a></td>
 </tr>
 <tr>
-  <td>Erstellen und Verwalten von Asset-Aktualisierungen für Creative Cloud- und Workfront-Anwendungen</td>
+  <td>Erstellen und Verwalten von Asset-Updates für Creative Cloud- und Workfront-Anwendungen</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Hochladen und Freigeben von Assets über mehrere Plattformen hinweg</li>

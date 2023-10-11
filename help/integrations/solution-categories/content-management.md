@@ -1,17 +1,19 @@
 ---
-title: Content Management
-description: In der heutigen digitalen Landschaft stellt die Befriedigung der einzigartigen Bedürfnisse von Millionen von Kunden eine erhebliche Herausforderung dar. Es endet jedoch nicht dort. Um erfolgreich zu sein, müssen Sie außerdem in der Lage sein, genehmigte Assets auf verschiedenen Geräten und Kanälen auf globaler Ebene schnell zu finden, zu verbinden und wiederzuverwenden. Darüber hinaus ist es entscheidend, Einblicke in die Effektivität dieser Erfahrungen zu gewinnen. Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digitale Erlebnisse erstellen und gleichzeitig Echtzeit-Asset-Management, effiziente Bereitstellung und Leistungsbewertung sicherstellen können.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+title: Anwendungsintegrationen für Content Management
+description: Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digitale Erlebnisse erstellen und gleichzeitig Echtzeit-Asset-Management, effiziente Bereitstellung und Leistungsbewertung sicherstellen können.
+exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '671'
 ht-degree: 2%
 
 ---
 
-
 # Content Management
 
-In der heutigen digitalen Landschaft stellt die Befriedigung der einzigartigen Bedürfnisse von Millionen von Kunden eine erhebliche Herausforderung dar. Es endet jedoch nicht dort. Um erfolgreich zu sein, müssen Sie außerdem in der Lage sein, genehmigte Assets auf verschiedenen Geräten und Kanälen auf globaler Ebene schnell zu finden, zu verbinden und wiederzuverwenden. Darüber hinaus ist es entscheidend, Einblicke in die Effektivität dieser Erfahrungen zu gewinnen. Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digitale Erlebnisse erstellen und gleichzeitig Echtzeit-Asset-Management, effiziente Bereitstellung und Leistungsbewertung sicherstellen können.
+In der heutigen digitalen Landschaft stellt die Befriedigung der einzigartigen Bedürfnisse von Millionen von Kunden eine erhebliche Herausforderung dar. Es endet jedoch nicht dort. Um erfolgreich zu sein, müssen Sie außerdem in der Lage sein, genehmigte Assets auf verschiedenen Geräten und Kanälen auf globaler Ebene schnell zu finden, zu verbinden und wiederzuverwenden. Darüber hinaus ist es entscheidend, Einblicke in die Effektivität dieser Erfahrungen zu gewinnen.
+
+Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digitale Erlebnisse erstellen und gleichzeitig Echtzeit-Asset-Management, effiziente Bereitstellung und Leistungsbewertung sicherstellen können.
 
 <table>
  <thead>
@@ -19,7 +21,7 @@ In der heutigen digitalen Landschaft stellt die Befriedigung der einzigartigen B
       <th>Anwendungsfall</th>
       <th>Beschreibung</th>
       <th>Beispiele</th>
-      <th>Programme</th>
+      <th>Anwendungen</th>
     </tr>
   </thead>
   <tbody>
@@ -107,7 +109,7 @@ In der heutigen digitalen Landschaft stellt die Befriedigung der einzigartigen B
     </tr>
     <tr>
       <td>
-        Erstellen und Verwalten von Asset-Aktualisierungen für Creative Cloud- und Workfront-Anwendungen
+        Erstellen und Verwalten von Asset-Updates für Creative Cloud- und Workfront-Anwendungen
       </td>
       <td>
         <ul style="margin-top: 0;">
