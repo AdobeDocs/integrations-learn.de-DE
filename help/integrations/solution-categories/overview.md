@@ -1,11 +1,11 @@
 ---
 title: Anwendungsintegrationskonfigurationen - nach Geschäftslösung
-description: Erfahren Sie mehr über die gängigen Integrationskonfigurationen für Experience Cloud-Apps, organisiert von Geschäftslösungen.
+description: Erfahren Sie mehr über die gängigen Integrationskonfigurationen für Experience Cloud-Anwendungen, organisiert nach Geschäftslösungen.
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 4%
+ht-degree: 11%
 
 ---
 
