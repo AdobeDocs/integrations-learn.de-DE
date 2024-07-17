@@ -4,8 +4,8 @@ description: Erfahren Sie mehr über die gängigen Integrationskonfigurationen f
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 11%
+source-wordcount: '178'
+ht-degree: 10%
 
 ---
 
@@ -25,7 +25,7 @@ Beachten Sie, dass es je nach Umgebung viele Möglichkeiten gibt, die Adobe-Appl
       </p>
     </td>
    <td>
-      <a  href="./commerce.md"><img alt="Commerce" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
+      <a  href="./commerce.md"><img alt="commerce" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
       <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         B2B- und B2C-digitaler Handel
@@ -33,7 +33,7 @@ Beachten Sie, dass es je nach Umgebung viele Möglichkeiten gibt, die Adobe-Appl
    </td>    
    <td>
       <a  href="./content-management.md"><img alt="Content-Management" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
-      <div><strong><a href="./content-management.md">Content Management</a></strong></div>
+      <div><strong><a href="./content-management.md">Content-Management</a></strong></div>
       <p>
         Inhalts- und Asset-Verwaltung
       </p>
@@ -42,14 +42,14 @@ Beachten Sie, dass es je nach Umgebung viele Möglichkeiten gibt, die Adobe-Appl
 <tr>
    <td>
       <a  href="./content-supply-chain.md"><img alt="Inhaltsversorgungskette" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
-      <div><strong><a href="./content-supply-chain.md">Inhaltsversorgungskette</a></strong></div>
+      <div><strong><a href="./content-supply-chain.md">Inhaltslieferkette</a></strong></div>
       <p>
         Beschleunigen der Inhaltserstellung und -bereitstellung
       </p> 
     </td>
    <td>
       <a  href="./customer-journeys.md"><img alt="Customer Journeys" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
-      <div><strong><a href="./customer-journeys.md">Journey von Kunden</a></strong></div>
+      <div><strong><a href="./customer-journeys.md">Kunden-Journey</a></strong></div>
       <p>
         Omnichannel-Orchestrierung und -Bereitstellung
       </p> 
@@ -64,8 +64,8 @@ Beachten Sie, dass es je nach Umgebung viele Möglichkeiten gibt, die Adobe-Appl
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Skalierte Personalisierung" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
-      <div><strong><a href="./personalization.md">Skalierte Personalisierung</a></strong></div>
+      <a  href="./personalization.md"><img alt="Personalization im Maßstab" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">Personalization als Maßstab</a></strong></div>
       <p>
         Wie man jede Verbindung persönlich macht
       </p>

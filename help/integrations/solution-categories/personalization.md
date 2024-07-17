@@ -9,7 +9,7 @@ ht-degree: 1%
 
 ---
 
-# Skalierte Personalisierung
+# Personalization im Maßstab
 
 In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwarten die Kunden nun Erlebnisse, die auf ihre individuellen Wünsche und Bedürfnisse zugeschnitten sind. Die Nutzung der Funktionen von Adobe Experience Cloud ermöglicht es uns, umfassende Kundendaten zu sammeln und zu analysieren und so wertvolle Einblicke in Verhaltensweisen, Interessen und Präferenzen zu erhalten. Dieses tiefe Verständnis erleichtert die Bereitstellung personalisierter Erlebnisse über verschiedene Touchpoints hinweg und sorgt so für sinnvolle und ansprechende Interaktionen. Durch die Nutzung der Leistungsfähigkeit von Adobe Experience Cloud wird das gesamte Personalisierungspotenzial freigesetzt, die Kundenverbindungen gestärkt, die Treue gefördert und das Geschäftswachstum vorangetrieben.
 
@@ -26,12 +26,14 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     <tr>
       <td><strong>Personalisierte PDF-Dokumente erstellen</strong></td>
       <td>
-        Generieren Sie Kommunikationsdokumente zum Signieren basierend auf Benutzerauswahl/Voreinstellungen.
+        Generieren von Kommunikationsdokumenten für das Signieren basierend auf dem Benutzer
+        Auswahl/Voreinstellungen.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Dynamisch generierte NDA auf Grundlage der Daten aus einer AEM Forms-Übermittlung zum Signieren präsentieren
+            Dynamisch generierte NDA auf der Basis von Daten aus einem AEM präsentieren
+            Forms-Übermittlung zum Signieren
           </li>
         </ul>
       </td>
@@ -40,16 +42,16 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
           href="../integrations-between-applications/experience-manager/experience-manager-acrobat-sign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms und Sign</a
+          >AEM Forms und Signieren</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>Datenanalyse und Berichterstellung</strong></td>
       <td>
-        Analysieren von Verhaltensdaten aus digitalen Erlebnissen <br />Adobe verwenden
+        Analysieren von Verhaltensdaten aus digitalen Erlebnissen <br />Verwenden von Adobe
         [!DNL Analytics] Verhaltensdaten in Analysis Workspace in Customer Journey
-        [!DNL Analytics].
+        2.[!DNL Analytics]
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -73,7 +75,9 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     </tr>
     <tr>
       <td>
-        Berichterstellung für Personalisierungsaktivitäten<br />Analyse der Ergebnisse von Optimierungstests, einschließlich A/B-Tests, unter Verwendung von Adobe [!DNL Target] Erstellung umfassender Berichte durch Adobe [!DNL Analytics].
+        Berichterstellung für Personalisierungsaktivitäten<br />Optimierung der Analyse
+        Testergebnisse, einschließlich A/B-Tests, unter Verwendung von Adobe [!DNL Target] und
+        Generieren umfassender Berichte über Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -92,7 +96,8 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     <tr>
       <td><strong>E-Mail-Sendungen personalisieren</strong></td>
       <td>
-        Personalisieren von E-Mail-Sendungen mit dynamischen Inhalten durch Nutzung der Funktionen von Adobe [!DNL Target].
+        Personalisieren Sie E-Mail-Sendungen mit dynamischem Inhalt mithilfe des
+        Funktionen von Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -113,18 +118,22 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
         <strong>Zielgruppen für Personalisierung und Anzeigenplattformen erweitern</strong>
       </td>
       <td>
-        Verwenden Sie Audience Manager-Segmente, um Zielgruppen in Real-Time CDP zu erstellen und diese in der Personalisierungs- und Remarketing-Taktik zu verwenden.
+        Verwenden Sie Audience Manager-Segmente, um Zielgruppen in Real-Time CDP zu erstellen, um
+        Verwendung in Personalisierungs- und Remarketing-Taktiken.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Anonyme Zielgruppenbestimmung und Personalisierung für digitale Zielgruppen auf der Website, in der mobilen App oder in den unterstützten Werbekanälen durchführen
+            Anonyme Zielgruppenbestimmung und Personalisierung für digitale Zielgruppen durchführen
+            Website, mobile App oder unterstützte Werbekanäle
           </li>
           <li>
-            Optimierung von Landingpages und Erlebnissen vor der Authentifizierung basierend auf bekannten Geräte- und Verhaltenseigenschaften
+            Optimieren Sie Landingpage- und Vorauthentifizierungserlebnisse basierend auf
+            bekannte Geräte- und Verhaltensmerkmale
           </li>
           <li>
-            Nutzen Sie das Datennetzwerk von Audience Manager mit Drittanbieterdaten, um Ihre Zielgruppen für das Targeting weiter zu verfeinern und zu erweitern.
+            Nutzung des Drittanbieter-Datennetzwerks von Audience Manager für weitere
+            Zielgruppen für das Targeting verfeinern und erweitern
           </li>
           <li>Audience Manager-Segmente für RTCDP freigeben</li>
         </ul>
@@ -140,15 +149,18 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     </tr>
     <tr>
       <td>
-        Verwendung [!DNL Analytics] Daten zur Erstellung von Zielgruppen zur Verwendung in Personalisierungs- oder Remarketing-Taktiken.
+        Verwenden Sie [!DNL Analytics] -Daten zum Erstellen von Zielgruppen, die in der Personalisierung verwendet werden sollen, oder
+        Remarketing-Taktiken.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Zielgruppenbestimmung und Personalisierung digitaler Zielgruppen auf Geräten oder unterstützten Werbekanälen durchführen.
+            Zielgruppenbestimmung und Personalisierung digitaler Zielgruppen auf Geräten oder
+            unterstützte Werbekanäle.
           </li>
           <li>
-            Optimieren Sie bekannte Kundeneinstiegsseiten und anonyme Erlebnisse basierend auf Geräte- und Verhaltensattributen.
+            Bekannte Kunden-Landingpages und anonyme Erlebnisse optimieren
+            basierend auf Geräte- und Verhaltensattributen.
           </li>
           <li>Aktivieren Sie Zielgruppen für bekannte Kanäle wie E-Mail und SMS.</li>
         </ul>
@@ -165,7 +177,8 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     <tr>
       <td rowspan="2"><strong>Web-Erlebnisse personalisieren</strong></td>
       <td>
-        Anpassen von Erlebnissen für Einzelseiten-Apps (SPA) durch effektive Nutzung AEM Headless in Verbindung mit Adobe [!DNL Target].
+        Anpassen von Erlebnissen für Einzelseiten-Apps (SPA) durch effektive
+        Verwendung AEM Headless in Verbindung mit Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -186,7 +199,8 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     </tr>
     <tr>
       <td>
-        Bereitstellung maßgeschneiderter Website-Erlebnisse durch effektive Nutzung von AEM Sites und Adobe [!DNL Target] zur Personalisierung.
+        Bereitstellung maßgeschneiderter Website-Erlebnisse durch effektive Nutzung von AEM Sites
+        und Adobe [!DNL Target] zur Personalisierung.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -208,7 +222,8 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     <tr>
       <td><strong>Digitale Erlebnisse personalisieren</strong></td>
       <td>
-        Verwenden von Echtzeit-Kundenprofilen und zentral verwaltet [!DNL Platform] Segmente zum Personalisieren von Nachrichten über Web-, Mobile- und andere digitale Kanäle hinweg
+        Verwenden von Echtzeit-Kundenprofilen und zentral verwalteten [!DNL Platform] Segmenten
+        Personalisieren von Nachrichten über Web, Mobile und andere digitale Kanäle hinweg
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -230,7 +245,8 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     <tr>
       <td><strong>Lead-Generierung verbessern</strong></td>
       <td>
-        Verwenden von Echtzeit-Kundenprofilen und zentral verwaltet [!DNL Platform] Segmente zum Personalisieren von Nachrichten über Web-, Mobile- und andere digitale Kanäle hinweg
+        Verwenden von Echtzeit-Kundenprofilen und zentral verwalteten [!DNL Platform] Segmenten
+        Personalisieren von Nachrichten über Web, Mobile und andere digitale Kanäle hinweg
       </td>
       <td>
         <ul style="margin-top: 0;">

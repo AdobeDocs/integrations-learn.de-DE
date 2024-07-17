@@ -5,7 +5,7 @@ exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '671'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -28,7 +28,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td><strong>Marketingmaterial mithilfe von Marken-Assets erstellen</strong></td>
       <td>
-        Erstellen und Überwachen von E-Mail-Marketing-Inhalten und -Vorlagen mithilfe von AEM und Adobe [!DNL Campaign].
+        Erstellen und Überwachen von E-Mail-Marketing-Inhalten und -Vorlagen mithilfe von AEM und
+        Adobe [!DNL Campaign].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -47,7 +48,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td><strong>Messen der Nutzung und Leistung von Marketing-Bildern</strong></td>
       <td>
-        Verfolgen und Analysieren der Effektivität von Marketingbildern durch Integration von AEM Assets und Adobe [!DNL Analytics].
+        Verfolgen und Analysieren der Effektivität von Marketing-Bildern durch Integration von
+        AEM Assets und Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -68,7 +70,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td rowspan="3"><strong>Asset-Erstellung verwalten</strong></td>
       <td>
-        Koordinieren und messen Sie die Erstellung von Assets in einem Unternehmen, indem Sie AEM Assets und Workfront integrieren.
+        die Erstellung von Assets in einem Unternehmen koordinieren und messen
+        durch Integration von AEM Assets und Workfront.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -89,7 +92,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     </tr>
     <tr>
       <td>
-        Koordinieren und messen Sie die Erstellung von Assets in einer Abteilung, indem Sie AEM Assets Essentials und Workfront integrieren.
+        Koordinieren und Messen der Erstellung von Assets in einer Abteilung durch
+        Integration von AEM Assets Essentials und Workfront.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -109,7 +113,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     </tr>
     <tr>
       <td>
-        Erstellen und Verwalten von Asset-Updates für Creative Cloud- und Workfront-Anwendungen
+        Erstellen und Verwalten von Asset-Updates auf Creative Cloud und Workfront
+        Anwendungen
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -130,7 +135,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td><strong>Kundendaten erfassen</strong></td>
       <td>
-        Native Erweiterung [!DNL Campaign] Funktionen zum Erfassen von Kundendaten für die Zielgruppenbestimmung und Personalisierung von Marketing-Kampagnen.
+        Zusätzliche native [!DNL Campaign]-Funktionen zum Erfassen von Kundendaten für
+        Zielgruppenbestimmung und Personalisierung von Marketing-Kampagnen.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -150,12 +156,14 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td><strong>Personalisierte PDF-Dokumente erstellen</strong></td>
       <td>
-        Generieren Sie Kommunikationsdokumente zum Signieren basierend auf Benutzerauswahl/Voreinstellungen.
+        Generieren von Kommunikationsdokumenten für das Signieren basierend auf dem Benutzer
+        Auswahl/Voreinstellungen.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Dynamisch generierte NDA auf Grundlage der Daten aus einer AEM Forms-Übermittlung zum Signieren präsentieren
+            Dynamisch generierte NDA auf der Basis von Daten aus einem AEM präsentieren
+            Forms-Übermittlung zum Signieren
           </li>
         </ul>
       </td>
@@ -171,12 +179,14 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td><strong>Leads generieren</strong></td>
       <td>
-        Verwenden Sie die erfassten Daten aus Formularübermittlungen für die Lead-Generierung, die Kundensegmentierung und personalisierte Marketing-Kampagnen.
+        Verwenden der erfassten Daten aus Formularübermittlungen für die Lead-Generierung,
+        Kundensegmentierung und personalisierte Marketing-Kampagnen.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Entwerfen und veröffentlichen Sie dynamische und interaktive Formulare für Web- und Mobilgeräte für die Lead-Generierung.
+            Erstellen und Veröffentlichen dynamischer und interaktiver Formulare für Web und Mobilgeräte
+            Geräte für die Lead-Generierung.
           </li>
         </ul>
       </td>
@@ -192,7 +202,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td><strong>E-Mail-Sendungen personalisieren</strong></td>
       <td>
-        Personalisieren von E-Mail-Sendungen mit dynamischen Inhalten durch Nutzung der Funktionen von Adobe [!DNL Target].
+        Personalisieren Sie E-Mail-Sendungen mit dynamischem Inhalt mithilfe des
+        Funktionen von Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -211,18 +222,22 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td rowspan="2"><strong>Zielgruppen für Personalisierung und Anzeigenplattformen erweitern</strong></td>
       <td>
-        Verwenden Sie Audience Manager-Segmente, um Zielgruppen in der Echtzeit-Kundendatenplattform zu erstellen und diese in der Personalisierungs- und Remarketing-Taktik zu verwenden.
+        Verwenden von Audience Manager-Segmenten zum Erstellen von Zielgruppen in der Echtzeit-Kundendatenplattform zur Verwendung
+        in Personalisierungs- und Remarketing-Taktiken.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Anonyme Zielgruppenbestimmung und Personalisierung für digitale Zielgruppen auf der Website, in der mobilen App oder in den unterstützten Werbekanälen durchführen
+            Anonyme Zielgruppenbestimmung und Personalisierung für digitale Zielgruppen durchführen
+            Website, mobile App oder unterstützte Werbekanäle
           </li>
           <li>
-            Optimierung von Landingpages und Erlebnissen vor der Authentifizierung basierend auf bekannten Geräte- und Verhaltenseigenschaften
+            Optimieren Sie Landingpage- und Vorauthentifizierungserlebnisse basierend auf
+            bekannte Geräte- und Verhaltensmerkmale
           </li>
           <li>
-            Nutzen Sie das Datennetzwerk von Audience Manager-Drittanbietern, um Ihre Zielgruppen für das Targeting weiter zu verfeinern und zu erweitern.
+            Nutzung des Datennetzwerks von Audience Manager-Drittanbietern für weitere
+            Zielgruppen für das Targeting verfeinern und erweitern
           </li>
           <li>Audience Manager-Segmente für RTCDP freigeben</li>
         </ul>
@@ -238,15 +253,18 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     </tr>
     <tr>
       <td>
-        Verwendung [!DNL Analytics] Daten zur Erstellung von Zielgruppen zur Verwendung in Personalisierungs- oder Remarketing-Taktiken.
+        Verwenden Sie [!DNL Analytics] -Daten zum Erstellen von Zielgruppen, die in der Personalisierung verwendet werden sollen, oder
+        Remarketing-Taktiken.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Zielgruppenbestimmung und Personalisierung digitaler Zielgruppen auf Geräten oder unterstützten Werbekanälen durchführen.
+            Zielgruppenbestimmung und Personalisierung digitaler Zielgruppen auf Geräten oder
+            unterstützte Werbekanäle.
           </li>
           <li>
-            Optimieren Sie bekannte Kundeneinstiegsseiten und anonyme Erlebnisse basierend auf Geräte- und Verhaltensattributen.
+            Bekannte Kunden-Landingpages und anonyme Erlebnisse optimieren
+            basierend auf Geräte- und Verhaltensattributen.
           </li>
           <li>Aktivieren Sie Zielgruppen für bekannte Kanäle wie E-Mail und SMS.</li>
         </ul>
@@ -263,7 +281,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td rowspan="2"><strong>Web-Erlebnisse personalisieren</strong></td>
       <td>
-        Anpassen von Erlebnissen für Einzelseiten-Apps (SPA) durch effektive Nutzung AEM Headless in Verbindung mit Adobe [!DNL Target].
+        Anpassen von Erlebnissen für Einzelseiten-Apps (SPA) durch effektive
+        Verwendung AEM Headless in Verbindung mit Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -283,7 +302,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     </tr>
     <tr>
       <td>
-        Bereitstellung maßgeschneiderter Website-Erlebnisse durch effektive Nutzung von AEM Sites und Adobe [!DNL Target] zur Personalisierung.
+        Bereitstellung maßgeschneiderter Website-Erlebnisse durch effektive Nutzung von AEM Sites
+        und Adobe [!DNL Target] zur Personalisierung.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -304,7 +324,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td><strong>Digitale Erlebnisse personalisieren</strong></td>
       <td>
-        Verwenden von Echtzeit-Kundenprofilen und zentral verwaltet [!DNL Platform] Segmente zum Personalisieren von Nachrichten über Web-, Mobile- und andere digitale Kanäle hinweg
+        Verwenden von Echtzeit-Kundenprofilen und zentral verwalteten [!DNL Platform] Segmenten
+        Personalisieren von Nachrichten über Web, Mobile und andere digitale Kanäle hinweg
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -326,7 +347,8 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td><strong>Lead-Generierung verbessern</strong></td>
       <td>
-        Verwenden von Echtzeit-Kundenprofilen und zentral verwaltet [!DNL Platform] Segmente zum Personalisieren von Nachrichten über Web-, Mobile- und andere digitale Kanäle hinweg
+        Verwenden von Echtzeit-Kundenprofilen und zentral verwalteten [!DNL Platform] Segmenten
+        Personalisieren von Nachrichten über Web, Mobile und andere digitale Kanäle hinweg
       </td>
       <td>
         <ul style="margin-top: 0;">

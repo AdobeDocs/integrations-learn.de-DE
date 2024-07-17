@@ -26,7 +26,7 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
   <tbody>
 <tr>
   <td><strong>Marketingmaterial mithilfe von Marken-Assets erstellen</strong><br></td>
-  <td>Erstellen und Überwachen von E-Mail-Marketing-Inhalten und -Vorlagen mithilfe von AEM und Adobe [!DNL Campaign].</td>
+  <td>Erstellen und überwachen Sie E-Mail-Marketing-Inhalte und -Vorlagen mithilfe von AEM und Adobe [!DNL Campaign].</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Senden von mit AEM erstellten Marketing-E-Mails</li>
@@ -37,7 +37,7 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
 
 <tr>
   <td><strong>Kundendaten erfassen</strong><br></td>
- <td>Native Erweiterung [!DNL Campaign] Funktionen zum Erfassen von Kundendaten für die Zielgruppenbestimmung und Personalisierung von Marketing-Kampagnen.</td>
+ <td>Zusätzliche native [!DNL Campaign]-Funktionen zur Erfassung von Kundendaten für die Zielgruppenbestimmung und Personalisierung von Marketing-Kampagnen.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Erstellen Sie Profile und sammeln Sie zusätzliche Informationen. </li>
@@ -83,7 +83,7 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
 
 <tr>
   <td><strong>E-Mail-Sendungen personalisieren</strong><br></td>
-  <td>Personalisieren von E-Mail-Sendungen mit dynamischen Inhalten durch Nutzung der Funktionen von Adobe [!DNL Target].</td>
+  <td>Personalisieren Sie E-Mail-Sendungen mit dynamischen Inhalten, indem Sie die Funktionen von Adobe [!DNL Target] nutzen.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Personalisierte Angebote zu Kunden-E-Mails hinzufügen</li>
@@ -94,7 +94,7 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
 
 <tr>
   <td><strong>Digitale Erlebnisse personalisieren</strong><br></td>
-  <td>Verwenden von Echtzeit-Kundenprofilen und zentral verwaltet [!DNL Platform] Segmente verwenden, um Nachrichten über Web-, mobile und andere digitale Kanäle hinweg zu personalisieren.</td>
+  <td>Verwenden Sie Echtzeit-Kundenprofile und zentral verwaltete [!DNL Platform] -Segmente, um Nachrichten über Web-, mobile und andere digitale Kanäle hinweg zu personalisieren.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Inhaltspersonalisierung für bekannte Besucher</li>
@@ -108,7 +108,7 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
 
 <tr>
   <td><strong>Lead-Generierung verbessern</strong><br></td>
-  <td>Verwenden von Echtzeit-Kundenprofilen und zentral verwaltet [!DNL Platform] Segmente zum Personalisieren von Nachrichten über Web-, Mobile- und andere digitale Kanäle hinweg</td>
+  <td>Verwenden Sie Echtzeit-Kundenprofile und zentral verwaltete [!DNL Platform]-Segmente, um Nachrichten über Web-, mobile und andere digitale Kanäle zu personalisieren.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Inhaltspersonalisierung für bekannte Besucher</li>

@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 6%
+source-wordcount: '206'
+ht-degree: 1%
 
 ---
 
@@ -15,18 +15,18 @@ ht-degree: 6%
 
 AEM und Workfront optimieren die Inhaltserstellung, sodass verwaltete Inhalte nahtlos von Workfront in AEM importiert werden können, um eine effiziente Organisation und den effizienten Zugriff zu gewährleisten und eine zeitnahe und hochwertige Bereitstellung digitaler Assets zu gewährleisten. Zu den wichtigsten Vorteilen zählen:
 
-+ **Optimierte Inhaltserstellung**: AEM- und Adobe Workfront-Integration optimiert den End-to-End-Inhaltserstellungsprozess.
++ **Optimierte Inhaltserstellung**: Durch die AEM- und Adobe Workfront-Integration wird die durchgängige Inhaltserstellung optimiert.
 + **Verbesserte Zusammenarbeit**: Teams können nahtlos an Inhaltsprojekten zusammenarbeiten, um eine bessere Kommunikation und Effizienz zu fördern.
 + **Verbesserte Ressourcenverwaltung**: Die Projektverfolgungsfunktionen von Workfront ermöglichen eine bessere Ressourcenzuweisung und -nutzung.
-+ **Effiziente Genehmigungen und Überprüfungen**: Die Integration von AEM und Workfront optimiert die Arbeitsabläufe für Inhaltsüberprüfung und -genehmigung.
-+ **Schnellere Markteinführungszeiten**: Die kombinierte Lösung beschleunigt die Bereitstellung von Inhalten und verkürzt die Time-to-Market für Kampagnen und Assets.
++ **Effiziente Genehmigungen und Überprüfungen**: Durch die AEM- und Workfront-Integration werden Workflows für Inhaltsüberprüfung und -genehmigung optimiert.
++ **Schnellere Time-to-Market**: Die kombinierte Lösung beschleunigt die Inhaltsbereitstellung und verkürzt so die Time-to-Market für Kampagnen und Assets.
 
 ## Allgemeine Integrationen
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud Apps</th>
+            <th>Experience Cloud-Anwendungen</th>
             <th>Integration mit</th>
             <th>Verwendungsbereiche</th>
             <th>Häufige Anwendungsfälle</th>
@@ -34,7 +34,7 @@ AEM und Workfront optimieren die Inhaltserstellung, sodass verwaltete Inhalte na
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=de" target="_blank" rel="noreferrer">Grundlagen zu Workfront und AEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Grundlagen zu Workfront und AEM Assets</a></td>
             <td>Nativer Connector</td>
             <td>
               <ul style="margin-top: 0;">

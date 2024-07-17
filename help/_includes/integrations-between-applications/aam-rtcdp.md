@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 3%
+source-wordcount: '147'
+ht-degree: 2%
 
 ---
 
@@ -15,18 +15,18 @@ ht-degree: 3%
 
 Die Integration von Adobe Audience Manager und Adobe Real-Time CDP bietet folgende Vorteile:
 
-+ **Umfassende Kundeneinblicke** mit kombinierten Erstanbieter- und Drittanbieterdaten, um ein tieferes Verständnis der Kundenpräferenzen und -verhaltensweisen zu ermöglichen.
-+ **Echtzeit-Personalisierung** ermöglicht es Marketing-Experten, relevante Erlebnisse bereitzustellen und so die Kundeninteraktion und -zufriedenheit zu verbessern.
-+ **Präzise Zielgruppensegmentierung** optimiert Marketing-Maßnahmen, was zu effektiveren Kampagnen und verbesserter ROI führt.
-+ **Nahtlose kanalübergreifende Erlebnisse** Gewährleistung konsistenter Nachrichten und erhöhter Kundenloyalität.
-+ **Verbesserter Datenschutz und verbesserte Compliance** -Compliance Vertrauen zu Kunden aufbauen und Compliance-Risiken reduzieren.
++ **Umfassende Kundeneinblicke** mit kombinierten Erstanbieter- und Drittanbieterdaten, die ein tieferes Verständnis der Kundenpräferenzen und -verhaltensweisen ermöglichen.
++ Durch die **Echtzeit-Personalisierung** können Marketing-Experten relevante Erlebnisse bereitstellen und so die Kundeninteraktion und -zufriedenheit steigern.
++ **Präzise Zielgruppensegmentierung** optimiert die Marketing-Bemühungen, was zu effektiveren Kampagnen und verbessertem ROI führt.
++ **Nahtlose kanalübergreifende Erlebnisse** sorgen für konsistentes Messaging und eine verbesserte Kundenloyalität.
++ **Verbesserter Datenschutz und bessere Einhaltung von Datenschutzbestimmungen** schaffen Vertrauen mit Kunden und verringern Compliance-Risiken.
 
 ## Allgemeine Integrationen
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud Apps</th>
+            <th>Experience Cloud-Anwendungen</th>
             <th>Integration mit</th>
             <th>Verwendungsbereiche</th>
             <th>Häufige Anwendungsfälle</th>

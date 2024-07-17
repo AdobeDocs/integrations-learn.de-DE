@@ -50,7 +50,7 @@ Mit unserer flexiblen, KI-gestützten Commerce-Lösung können Sie auf einer ein
  <tr>
    <td><strong>Datenanalyse und Berichterstellung<strong></td>
    <td>Bewerten Sie Commerce-Store-Konversionstrichter, Bestellungen, Umsatz sowie Besuchs- und Besuchermetriken.</td>
-   <td><ul style="margin-top: 0;"><li>Data Insights und Reporting zu Commerce-Aktivitäten.</li><li>Umfassende Einblicke in Adobe gewinnen [!DNL Commerce] Speichern Sie die Leistung mithilfe der von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</li></ul></td>
+   <td><ul style="margin-top: 0;"><li>Data Insights und Reporting zu Commerce-Aktivitäten.</li><li>Verschaffen Sie sich umfassende Einblicke in die Adobe [!DNL Commerce]-Store-Leistung mithilfe der von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] und [!DNL Analytics]</a></td>
  </tr>
  </tbody>

@@ -1,6 +1,6 @@
 ---
-title: Integration von  [!DNL Real-Time Customer Data Platform]  mit  [!DNL Analytics]
-description: Erfahren Sie, wie Sie die [!DNL Real-Time Customer Data Platform] mit [!DNL Analytics].
+title: Integrieren von [!DNL Real-Time Customer Data Platform] mit [!DNL Analytics]
+description: Erfahren Sie, wie Sie die [!DNL Real-Time Customer Data Platform] mit [!DNL Analytics] integrieren.
 solution: Real-Time Customer Data Platform, [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -14,7 +14,7 @@ exl-id: 7c29bf9a-8855-4a8e-9a06-f537fbde84a4
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '15'
-ht-degree: 20%
+ht-degree: 6%
 
 ---
 

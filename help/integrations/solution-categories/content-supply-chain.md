@@ -27,7 +27,7 @@ Die Erfüllung von Echtzeit-Kundenerwartungen für personalisierte Erlebnisse er
   <tbody>
 <tr>
   <td><strong>Marketingmaterial mithilfe von Marken-Assets erstellen</strong><br/></td>
-  <td>Erstellen und Überwachen von E-Mail-Marketing-Inhalten und -Vorlagen mithilfe von AEM und Adobe [!DNL Campaign].</td>
+  <td>Erstellen und überwachen Sie E-Mail-Marketing-Inhalte und -Vorlagen mithilfe von AEM und Adobe [!DNL Campaign].</td>
   <td>
     <ul>
       <li>Senden von mit AEM erstellten Marketing-E-Mails</li>
@@ -84,7 +84,7 @@ Die Erfüllung von Echtzeit-Kundenerwartungen für personalisierte Erlebnisse er
 </tr>
 <tr>
   <td><strong>Kundendaten erfassen</strong><br/></td>
-  <td>Native Erweiterung [!DNL Campaign] Funktionen zum Erfassen von Kundendaten für die Zielgruppenbestimmung und Personalisierung von Marketing-Kampagnen.
+  <td>Zusätzliche native [!DNL Campaign]-Funktionen zur Erfassung von Kundendaten für die Zielgruppenbestimmung und Personalisierung von Marketing-Kampagnen.
   </td>
   <td>
     <ul>

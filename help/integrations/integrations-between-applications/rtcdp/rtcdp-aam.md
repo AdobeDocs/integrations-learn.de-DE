@@ -1,6 +1,6 @@
 ---
-title: Integrieren [!DNL Real-Time Customer Data Platform] mit Audience Manager
-description: Erfahren Sie, wie Sie Echtzeit-Kundendaten integrieren. [!DNL Platform] mit Audience Manager.
+title: Integrieren von [!DNL Real-Time Customer Data Platform] mit Audience Manager
+description: Erfahren Sie, wie Sie Echtzeit-Kundendaten [!DNL Platform] in Audience Manager integrieren.
 solution: Real-Time Customer Data Platform, Audience Manager
 feature: Integrations
 topic: Integrations
@@ -14,10 +14,10 @@ exl-id: b3270603-3b62-4ac7-a6e0-236afba5e462
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '17'
-ht-degree: 17%
+ht-degree: 5%
 
 ---
 
-# Integration von [!DNL Real-Time Customer Data Platform] mit [!DNL Audience Manager]
+# Integrieren von [!DNL Real-Time Customer Data Platform] mit [!DNL Audience Manager]
 
 {{$include /help/_includes/integrations-between-applications/aam-rtcdp.md}}

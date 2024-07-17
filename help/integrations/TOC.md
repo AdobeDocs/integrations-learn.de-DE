@@ -5,13 +5,13 @@ user-guide-description: Integrationen – Lernmaterialien.
 mini-toc-levels: 1
 source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 34%
+source-wordcount: '91'
+ht-degree: 19%
 
 ---
 
 
-# [!DNL Experience Cloud] Integrations-Tutorials {#experience-cloud}
+# Integrations-Tutorials für [!DNL Experience Cloud] {#experience-cloud}
 
 + [[!DNL Experience Cloud] Integrationen](./overview.md)
 + Lösungskategorien{#solution-categories}
@@ -22,7 +22,7 @@ ht-degree: 34%
    + [Inhaltsversorgungskette](./solution-categories/content-supply-chain.md)
    + [Journey von Kunden](./solution-categories/customer-journeys.md)
    + [Dateneinblicke und Aktivierung](./solution-categories/data-insights.md)
-   + [Skalierte Personalisierung](./solution-categories/personalization.md)
+   + [Personalization im Maßstab](./solution-categories/personalization.md)
 + Produktintegrationen{#integrations-between-applications}
    + [Übersicht](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
@@ -60,7 +60,7 @@ ht-degree: 34%
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
-   + Erfahrung [!DNL Platform]{#experience-platform}
+   + Erlebnis [!DNL Platform]{#experience-platform}
       + [Übersicht](./integrations-between-applications/experience-platform/platform.md)
    + Journey Optimizer{#journey-optimizer}
       + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
@@ -82,7 +82,7 @@ ht-degree: 34%
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
 + Tutorial{#tutorials}
    + [!DNL Analytics] und [!DNL Commerce]{#analytics-commerce}
-      + [[!DNL Analytics] und [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
+      + [[!DNL Analytics] und  [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics] und CJA{#analytics-cja}
       + [[!DNL Analytics] und CJA](./tutorials/analytics-cja/experience-platform-edge.md)
       + [[!DNL Analytics] und CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
@@ -90,9 +90,9 @@ ht-degree: 34%
       + [[!DNL Analytics] und Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
       + [[!DNL Analytics] und Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] und [!DNL Target]{#analytics-target}
-      + [[!DNL Analytics] und [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
+      + [[!DNL Analytics] und  [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] und [!DNL Analytics]{#campaign-analytics}
-      + [Integrieren [!DNL Campaign] Standard mit [!DNL Analytics] Verwenden des Tutorials zu Trigger](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + [Integrieren von [!DNL Campaign] Standard mit [!DNL Analytics] mithilfe des Tutorials &quot;Trigger&quot;](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign] und Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8 und Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] und Real-Time CDP{#campaign-real-time-cdp}

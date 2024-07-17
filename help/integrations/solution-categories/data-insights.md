@@ -30,7 +30,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
    <td rowspan="8"><b>Datenanalyse und Berichterstellung</b></td>
 
 <!--  ROW 2a  -->
-<td>Analyse der Ergebnisse von Optimierungstests, einschließlich A/B-Tests, mithilfe von Adobe [!DNL Target] Erstellung umfassender Berichte durch Adobe [!DNL Analytics].</td>
+<td>Analysieren Sie die Ergebnisse der Optimierungstests, einschließlich A/B-Tests, mithilfe von Adobe [!DNL Target] und generieren Sie umfassende Berichte über Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Anzeigen von A/B-Testergebnissen in Rich-Analytics-Berichten.</li>
        </ul></td>
@@ -39,10 +39,10 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 
 <!--  ROW 2b  -->
 <tr>
-   <td>Senden von Audience Manager-Segmentdaten an [!DNL Analytics] für eine tiefere Zielgruppenanalyse, Erkennung und Optimierung.</td>
+   <td>Senden Sie Audience Manager-Segmentdaten an [!DNL Analytics] , um eine tiefere Zielgruppenanalyse, -erkennung und -optimierung zu erhalten.</td>
     <td><ul style="margin-top: 0;">
-        <li>Senden von Segmentdaten von Drittanbietern an [!DNL Analytics] für eine tiefere Benutzeranalyse.</li>
-        <li>Senden von CRM-Daten an [!DNL Analytics] für die Aufnahme in die Benutzeranalyse.</li>
+        <li>Senden Sie Segmentdaten von Drittanbietern an [!DNL Analytics] , um eine tiefere Benutzeranalyse zu erhalten.</li>
+        <li>Senden Sie CRM-Daten zur Aufnahme in die Benutzeranalyse an [!DNL Analytics].</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">Audience Manager und [!DNL Analytics]</a></td>
  </tr>
@@ -51,14 +51,14 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 <tr>
    <td>Erweitern Sie Zielgruppen für Personalisierung und Anzeigenplattformen.</td>
     <td><ul style="margin-top: 0;">
-        <li>Verwenden der serverseitigen Weiterleitung zum Senden [!DNL Analytics] Daten an Audience Manager senden, um Segmente zu erstellen.</li>
+        <li>Verwenden Sie die serverseitige Weiterleitung, um [!DNL Analytics] -Daten an Audience Manager zu senden, um Segmente zu erstellen.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">Audience Manager und [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2d  -->
 <tr>
-   <td>Benutzerinteraktion mit digitalen Formularen mithilfe von AEM Forms verfolgen, analysieren und in Berichten darstellen und [!DNL Analytics]. </td>
+   <td>Verfolgen, analysieren und melden Sie die Benutzerinteraktion mit digitalen Formularen mit AEM Forms und [!DNL Analytics]. </td>
    <td><ul style="margin-top: 0;">
         <li>Berichtet über Dimensionen und Metriken für die Formularübermittlung, einschließlich ausgefüllter Formularfelder und fehlerhafter Formularfelder.</li>
        </ul></td>
@@ -67,10 +67,10 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 
 <!--  ROW 2e  -->
 <tr>
-   <td>Benutzeraktivitäten auf AEM Sites-Websites mithilfe von Adobe verfolgen, analysieren und melden [!DNL Analytics] für umfassende Berichte und Einblicke.</td>
+   <td>Verfolgen, Analysieren und Berichten von Benutzeraktivitäten auf AEM Sites-Websites mithilfe von Adobe [!DNL Analytics] für umfassende Berichte und Einblicke.</td>
    <td><ul style="margin-top: 0;">
         <li>Verfolgen, Analysieren und Berichten über Schlüsselmetriken für Site-Seiten.</li>
-        <li>Verwendung [!DNL Analytics] Berichte, um datenbasierte Entscheidungen für die Benutzererfahrung und Inhaltsstrategie zu treffen.</li>
+        <li>Verwenden Sie [!DNL Analytics] -Berichte, um datengesteuerte Entscheidungen für Benutzererlebnisse und Inhaltsstrategien zu treffen.</li>
         <li>Analysieren Sie die Konvertierungspfade oben und unten.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/experience-manager/experience-manager-analytics.md" target="_blank" rel="noopener noreferrer">AEM Sites und [!DNL Analytics]</a></td>
@@ -78,10 +78,10 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 
 <!--  ROW 2f  -->
 <tr>
-   <td>Umfassende Einblicke in Adobe gewinnen [!DNL Campaign] E-Mail-Marketing-Kampagnen mit Vor-Klick-Metriken und Konversionsraten.</td>
+   <td>Verschaffen Sie sich umfassende Einblicke in Adobe [!DNL Campaign] E-Mail-Marketing-Kampagnen mithilfe von Vor-Klick-Metriken und Konversionsraten.</td>
    <td><ul style="margin-top: 0;">
         <li>Tracking, Analysieren und Reporting zu Konversionsmetriken nach dem Klicken für E-Mail-Kampagnen.</li>
-        <li>Drilldown von Kampagnen zu anderen Dimensionen, die in erfasst wurden [!DNL Analytics].</li>
+        <li>Führen Sie einen Drilldown für Kampagnen zu anderen Dimensionen durch, die in [!DNL Analytics] erfasst wurden.</li>
         <li>Anzeigen von Kampagnenmetriken vor und nach dem Klicken in einem einzelnen Bericht.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/campaign/campaign-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Campaign] und [!DNL Analytics]</a></td>
@@ -89,17 +89,17 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 
 <!--  ROW 2g  -->
 <tr>
-   <td>Umfassende Einblicke in Adobe gewinnen [!DNL Commerce] Speichern Sie die Leistung mithilfe der von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</td>
+   <td>Verschaffen Sie sich umfassende Einblicke in die Adobe [!DNL Commerce]-Store-Leistung mithilfe von von von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</td>
    <td><ul style="margin-top: 0;">
         <li>Data Insights und Reporting zu Commerce-Aktivitäten.</li>
-        <li>Umfassende Einblicke in Adobe gewinnen [!DNL Commerce] Speichern Sie die Leistung mithilfe der von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</li>
+        <li>Verschaffen Sie sich umfassende Einblicke in die Adobe [!DNL Commerce]-Store-Leistung mithilfe von von von Ihnen ausgewählten Schlüsselmetriken und Dimensionen.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/commerce/commerce-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Commerce] und [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2h  -->
 <tr>
-   <td>Adobe verwenden [!DNL Analytics] Verhaltensdaten in Analysis Workspace in Customer Journey [!DNL Analytics].</td>
+   <td>Verwenden Sie Adobe [!DNL Analytics] Verhaltensdaten in Analysis Workspace in Customer Journey [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Analyse der Kanalinteraktion und -konversion.</li>
         <li>Machen Sie sich mit den wichtigsten Produktkategorien und Produkten vertraut.</li>
@@ -119,7 +119,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
   <td>Verwenden Sie kanalübergreifende Datenquellen, um Zielgruppen zu erstellen, die für Personalisierungs- und Remarketing-Taktiken verwendet werden können.</td>
   <td><ul style="margin-top: 0;"><li>Senden von Zielgruppensegmenten an Real-Time CDP zur Bereitstellung an Ziele</li>
      </ul></td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-cja.md" target="_blank" rel="noopener noreferrer">Journey [!DNL Analytics] und Echtzeit-Kundendaten [!DNL Platform]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-cja.md" target="_blank" rel="noopener noreferrer">Customer Journey [!DNL Analytics] und Echtzeit-Kundendaten [!DNL Platform]</a></td>
  </tr>
 
 <!--  ROW 3c  -->
@@ -143,7 +143,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
  </tr>
 
 <!--  ROW 3e  -->
-<td>Verwendung [!DNL Analytics] Daten zur Erstellung von Zielgruppen zur Verwendung in Personalisierungs- oder Remarketing-Taktiken.</td>
+<td>Verwenden Sie [!DNL Analytics] -Daten zum Erstellen von Zielgruppen, um sie in Personalisierungs- oder Remarketing-Taktiken zu verwenden.</td>
    <td><ul style="margin-top: 0;"><li>Zielgruppenbestimmung und Personalisierung digitaler Zielgruppen auf Geräten oder unterstützten Werbekanälen durchführen.</li>
            <li>Optimieren Sie bekannte Kundeneinstiegsseiten und anonyme Erlebnisse basierend auf Geräte- und Verhaltensattributen.</li>
            <li>Aktivieren Sie Zielgruppen für bekannte Kanäle wie E-Mail und SMS.</li>
@@ -154,7 +154,7 @@ Gestalten Sie die Echtzeit-Personalisierung auf jedem Kanal mithilfe von Online-
 <!--  ROW 4  -->
 <tr>
    <td><b>Messen der Nutzung und Leistung von Marketing-Bildern</b></td>
-   <td>Verfolgen und Analysieren der Effektivität von Marketingbildern durch Integration von AEM Assets und Adobe [!DNL Analytics].</td>
+   <td>Verfolgen und analysieren Sie die Effektivität von Marketingbildern durch die Integration von AEM Assets und Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;"><li>Tracking und Analysieren der Asset-Leistung.</li>
            <li>Analysieren Sie die Benutzerinteraktion.</li>
            <li>Optimieren Sie die Inhaltsstrategie.</li>

@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 4%
+source-wordcount: '118'
+ht-degree: 2%
 
 ---
 
@@ -24,7 +24,7 @@ Die Integration von Experience Manager und Marketo Engage bietet verschiedene Vo
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud Apps</th>
+            <th>Experience Cloud-Anwendungen</th>
             <th>Verwendungsbereiche</th>
             <th>Häufige Anwendungsfälle</th>
         </tr>

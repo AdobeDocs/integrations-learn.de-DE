@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '109'
+ht-degree: 2%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 5%
 Die wichtigsten Vorteile der Integration von Adobe Workfront und Adobe Creative Cloud sind:
 
 + **Kreativer Workflow**: Durch die Integration werden Aufgaben, Feedback und die Zeitprotokollierung in Creative Cloud-Apps optimiert.
-+ **Effiziente Zusammenarbeit**: Workfront erleichtert kreative Arbeitsüberprüfungen, Genehmigungen und Teamzusammenarbeit.
++ **Effiziente Zusammenarbeit**: Workfront erleichtert kreative Arbeitsüberprüfungen, -genehmigungen und Teamzusammenarbeit.
 + **Verbesserte Produktivität**: Die Voreinstellung nahtloser Umgebungen führt zu einer verbesserten Geschwindigkeit und Qualität bei der Inhaltserstellung.
 
 ## Allgemeine Integrationen
@@ -24,7 +24,7 @@ Die wichtigsten Vorteile der Integration von Adobe Workfront und Adobe Creative 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud Apps</th>
+            <th>Experience Cloud-Anwendungen</th>
             <th>Integration mit</th>
             <th>Verwendungsbereiche</th>
             <th>Häufige Anwendungsfälle</th>

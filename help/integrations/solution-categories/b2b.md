@@ -4,7 +4,7 @@ description: Koordinieren Sie die Lead-Management-, ABM- und Attribution skalier
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '217'
 ht-degree: 2%
 
 ---
@@ -41,7 +41,7 @@ Koordinieren Sie die Lead-Management-, ABM- und Attribution skaliert über Kanä
 
 <tr>
   <td rowspan="1"><strong>Zielgruppen für Personalisierung und Anzeigenplattformen erweitern</strong><br/></td> 
-  <td>Verwendung [!DNL Analytics] Daten zur Erstellung von Zielgruppen zur Verwendung in Personalisierungs- oder Remarketing-Taktiken.</td>
+  <td>Verwenden Sie [!DNL Analytics] -Daten zum Erstellen von Zielgruppen, um sie in Personalisierungs- oder Remarketing-Taktiken zu verwenden.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Zielgruppenbestimmung und Personalisierung digitaler Zielgruppen auf Geräten oder unterstützten Werbekanälen durchführen.</li>
@@ -54,7 +54,7 @@ Koordinieren Sie die Lead-Management-, ABM- und Attribution skaliert über Kanä
 
 <tr>
   <td><strong>Digitale Erlebnisse personalisieren</strong><br/></td>
-  <td> Verwenden von Echtzeit-Kundenprofilen und zentral verwaltet [!DNL Platform] Segmente verwenden, um Nachrichten über Web-, mobile und andere digitale Kanäle hinweg zu personalisieren.
+  <td> Verwenden Sie Echtzeit-Kundenprofile und zentral verwaltete [!DNL Platform] -Segmente, um Nachrichten über Web-, mobile und andere digitale Kanäle hinweg zu personalisieren.
   </td>
   <td>
     <ul style="margin-top: 0;">
@@ -70,7 +70,7 @@ Koordinieren Sie die Lead-Management-, ABM- und Attribution skaliert über Kanä
 <tr>
   <td><strong>Lead-Generierung verbessern</strong><br/></td>
   <td>
-    Verwenden von Echtzeit-Kundenprofilen und zentral verwaltet [!DNL Platform] Segmente zum Personalisieren von Nachrichten über Web-, Mobile- und andere digitale Kanäle hinweg
+    Verwenden Sie Echtzeit-Kundenprofile und zentral verwaltete [!DNL Platform]-Segmente, um Nachrichten über Web-, mobile und andere digitale Kanäle zu personalisieren.
   </td>
   <td>
     <ul style="margin-top: 0;">

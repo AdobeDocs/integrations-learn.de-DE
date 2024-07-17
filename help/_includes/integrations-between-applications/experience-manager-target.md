@@ -1,33 +1,33 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 5%
+source-wordcount: '245'
+ht-degree: 1%
 
 ---
 
 
-# Experience Manager und [!DNL Target] Integration
+# Integration von Experience Manager und [!DNL Target]
 
 {{experience-manager-description}}
 
 {{target-description}}
 
-Bei gemeinsamer Verwendung von Adobe Experience Manager und Adobe [!DNL Target] eine leistungsstarke End-to-End-Lösung zu erstellen, die es Unternehmen ermöglicht, ihre Inhalte zu verwalten und personalisierte Erlebnisse bereitzustellen. Durch die Integration dieser beiden Plattformen können Unternehmen nahtlos personalisierte Erlebnisse über verschiedene Kanäle bereitstellen, einschließlich Web, Mobile und E-Mail, und sie in die Lage versetzen, ihre Inhalte und Marketing-Kampagnen anhand von Echtzeitdaten und Kundeneinblicken zu optimieren.
+Bei der gemeinsamen Verwendung von Adobe Experience Manager und Adobe [!DNL Target] erstellen Sie eine leistungsstarke End-to-End-Lösung, mit der Unternehmen ihre Inhalte verwalten und personalisierte Erlebnisse bereitstellen können. Durch die Integration dieser beiden Plattformen können Unternehmen nahtlos personalisierte Erlebnisse über verschiedene Kanäle bereitstellen, einschließlich Web, Mobile und E-Mail, und sie in die Lage versetzen, ihre Inhalte und Marketing-Kampagnen anhand von Echtzeitdaten und Kundeneinblicken zu optimieren.
 
-Einige Vorteile der Verwendung von Adobe Experience Manager und Adobe [!DNL Target] umfassen:
+Die Verwendung von Adobe Experience Manager und Adobe [!DNL Target] bietet unter anderem folgende Vorteile:
 
-+ **Verbesserte Interaktion**: AEM und Adobe [!DNL Target] Mischung, um maßgeschneiderte Erlebnisse bereitzustellen, die die Zufriedenheit und Interaktion steigern.
-+ **Optimierte Prozesse**: AEM und Adobe [!DNL Target] -Integration optimiert die Erstellung und den Test von Personalisierungen und erhöht so die Effizienz.
-+ **Dynamische Optimierung**: Echtzeit-AEM-Adobe [!DNL Target] -Integration ermöglicht die Optimierung von Inhalten und Kampagnen mithilfe von Kundeneinblicken.
-+ **Detaillierte Analyse**: Kombinierte AEM und Adobe [!DNL Target] -Daten bieten wertvolle Kundeneinblicke, die zielgerichtete Marketing-Kampagnen anregen.
++ **Verbesserte Interaktion**: Mischung von AEM und Adobe [!DNL Target], um maßgeschneiderte Erlebnisse bereitzustellen und so die Zufriedenheit und Interaktion zu steigern.
++ **Optimierte Prozesse**: AEM- und Adobe [!DNL Target]-Integration optimiert die Erstellung und den Test von Personalisierungen und verbessert so die Effizienz.
++ **Dynamische Optimierung**: Die Echtzeit-AEM-Adobe [!DNL Target]-Integration ermöglicht die Inhalts- und Kampagnenoptimierung mithilfe von Kundeneinblicken.
++ **Detaillierte Analysen**: Kombinierte AEM und Adobe [!DNL Target]-Daten bieten wertvolle Kundeneinblicke, die zielgerichtete Marketingkampagnen anregen.
 
 ## Allgemeine Integrationen
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud Apps</th>
+            <th>Experience Cloud-Anwendungen</th>
             <th>Integration mit</th>
             <th>Verwendungsbereiche</th>
             <th>Häufige Anwendungsfälle</th>
@@ -36,7 +36,7 @@ Einige Vorteile der Verwendung von Adobe Experience Manager und Adobe [!DNL Targ
     <tbody>
         <tr>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service und [!DNL Target]</a></td>
-            <td>Erlebnis [!DNL Platform] Web SDK-Tag-Erweiterung oder "legate.js"</td>
+            <td>Erlebnis [!DNL Platform] Web SDK-Tag-Erweiterung oder legierte.js</td>
             <td>
               <ul style="margin-top: 0;">
                 <li>Wenn Sie AEM Headless-Erlebnisse personalisieren möchten.</li>
@@ -64,7 +64,7 @@ Einige Vorteile der Verwendung von Adobe Experience Manager und Adobe [!DNL Targ
               <ul style="margin-top: 0;">
                 <li>A/B-Tests auf Inhaltsvarianten in AEM Sites.</li>
                 <li>[!DNL Target]Personalisierung von AEM Sites-Erlebnissen.</li>
-                <li>Optimieren von AEM Sites mit Echtzeitdaten aus Adobe [!DNL Target].</li>
+                <li>Optimierung von AEM Sites mit Echtzeitdaten von Adobe [!DNL Target].</li>
               </ul>
             </td>
         </tr>

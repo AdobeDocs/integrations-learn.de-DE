@@ -2,27 +2,27 @@
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 4%
+ht-degree: 2%
 
 ---
 
 
-# Echtzeit-Kundendaten der Adobe [!DNL Platform] und Adobe [!DNL Target] Integration
+# Adobe Echtzeit-Kundendatenintegration [!DNL Platform] und Adobe [!DNL Target]
 
 {{real-time-cdp-description}}
 
 {{target-description}}
 
-Integrieren von Real-Time CDP mit [!DNL Target] bietet Ihnen die Möglichkeit, Inhalte mithilfe bekannter Kundendaten zu personalisieren. Die Data Governance- und Zustimmungsfunktionen von Real-Time CDP helfen Ihnen auch dabei sicherzustellen, dass Sie diese bekannten Kundendaten verantwortungsbewusst verwenden, rechtliche, vertragliche und regulatorische Einschränkungen einhalten und Kundenpräferenzen respektieren. Die wichtigsten Vorteile der Integration von Real-Time CDP und [!DNL Target] include:
+Durch die Integration von Real-Time CDP mit [!DNL Target] können Sie Inhalte mithilfe bekannter Kundendaten personalisieren. Die Data Governance- und Zustimmungsfunktionen von Real-Time CDP helfen Ihnen auch dabei sicherzustellen, dass Sie diese bekannten Kundendaten verantwortungsbewusst verwenden, rechtliche, vertragliche und regulatorische Einschränkungen einhalten und Kundenpräferenzen respektieren. Die wichtigsten Vorteile der Integration von Real-Time CDP und [!DNL Target] sind:
 
-+ **Personalisierte Erlebnisse bereitstellen** auf Ihrer Website und in mobilen Apps.
-+ **Segmente und Profilattribute freigeben** von Adobe Real-Time CDP zu Adobe [!DNL Target].
++ **Bereitstellen personalisierter Erlebnisse** auf Ihrer Website und in Ihren mobilen Apps.
++ **Segmente und Profilattribute freigeben** von Adobe Real-Time CDP an Adobe [!DNL Target].
 + **[!DNL Target]content** zu Segmenten hinzu und zeigen Attributwerte an.
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud Apps</th>
+            <th>Experience Cloud-Anwendungen</th>
             <th>Integration mit</th>
             <th>Verwendungsbereiche</th>
             <th>Häufige Anwendungsfälle</th>
@@ -34,7 +34,7 @@ Integrieren von Real-Time CDP mit [!DNL Target] bietet Ihnen die Möglichkeit, I
         <td>Web SDK und [!DNL Target] Ziel</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Die schnellste Datenfreigabe von Real-Time CDP an [!DNL Target] für Ihre Website.</li>
+                <li>Wenn Sie die schnellste Datenfreigabe von Real-Time CDP an [!DNL Target] für Ihre Website wünschen.</li>
             </ul>
         </td>
         <td>

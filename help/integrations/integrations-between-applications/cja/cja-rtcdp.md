@@ -1,6 +1,6 @@
 ---
 title: Integrieren von Customer Journey [!DNL Analytics] mit [!DNL Real-Time Customer Data Platform]
-description: Erfahren Sie, wie Sie Customer Journey integrieren. [!DNL Analytics] mit [!DNL Real-Time Customer Data Platform].
+description: Erfahren Sie, wie Sie Customer Journey [!DNL Analytics] mit [!DNL Real-Time Customer Data Platform] integrieren.
 solution: Customer Journey [!DNL Analytics], Real-Time Customer Data [!DNL Platform]
 feature: Integrations
 topic: Integrations
