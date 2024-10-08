@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: aeefe4dcd0140149b419fc77631b324797547b30
+source-git-commit: e8809d1e8662797ef6c3fdf0370e83f96797f600
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 1%
+source-wordcount: '254'
+ht-degree: 2%
 
 ---
 
@@ -79,12 +79,19 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
- <td><img src="./assets/medium.png"></td>
-  <td> <strong style= "font-size: 2em">FOOFOOFOOO</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrieren</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Anmelden</span></a></td>
+ <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td> <strong style= "font-size: 2em">Üben Sie Ihre Lernprozesse in die Praxis</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Seite öffnen</span></a></td>
 
 </tr>
 </table>
 
+<table>
+ <tr style= "border: 0;">
+ <td><img src="./assets/medium.png"></td>
+  <td> <strong style= "font-size: 2em">FOOFOOFOOO</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Bring mich dorthin</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Anmelden</span></a></td>
+
+</tr>
+</table>
 
 >[!ENDSHADEBOX]
 
