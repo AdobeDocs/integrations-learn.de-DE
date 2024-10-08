@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 3beec04de562b317561163d5570874593f7f1a7f
+source-git-commit: e9a35153024bdf107dcc3f189c3e6d39d43a5924
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td> <H3>Werden Sie Generative KI-Leiter.</H3><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrieren</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Anmelden</span></a></td>
+  <td> <strong>Werden Sie Generativer KI-Leiter.</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrieren</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Anmelden</span></a></td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <h3> Generative KI des Master. Transformieren Sie Ihre Workflows.</h3>
+    <strong> Master Generative KI. Transformieren Sie Ihre Workflows.</strong>
   </td>
  </tr>
  <tr style= "border: 0;">
@@ -37,7 +37,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td><img src="./assets/medium.png"></td>
-  <td align="center"> <H3>Generative KI-Fähigkeiten jederzeit.</h3><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Jetzt erkunden</span></a></td>
+  <td align="center"> <strong style= "font-size: 2em">Generative KI-Fähigkeiten sind jederzeit verfügbar.</strong><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Jetzt erkunden</span></a></td>
  </tr>
 </table>
 
@@ -45,7 +45,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <H3>Die Aufforderung machte einfach.</h3><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.</td>
+  <td align="center"> <strong>Die Aufforderung wurde einfach gemacht.</strong><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
@@ -53,7 +53,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <H3>Aufschlüsseln der generativen KI für das Marketing.</H3><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrieren</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Anmelden</span></a><td>
+  <td> <strong> Aufschlüsseln der generativen KI für das Marketing.</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrieren</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Anmelden</span></a><td>
  </tr>
 </table>
 
@@ -75,7 +75,7 @@ https://video.tv.adobe.com/v/26061?format=jpeg
 <table>
  <tr style= "border: 0;">
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <H3>Praktische Umsetzung von Lernprozessen</H3><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Seite öffnen</span></a><td>
+  <td> <strong>Üben Sie Ihre Lernprozesse in die Praxis</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Seite öffnen</span></a><td>
  </tr>
 </table>
 
