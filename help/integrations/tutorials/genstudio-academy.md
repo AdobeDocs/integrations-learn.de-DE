@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: e296e5d0859af7258ff4dcdd21ec507bfe1e3661
+source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 2%
+source-wordcount: '176'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 <table>
  <tr style= "border: 0;">
   <td> <strong style= "font-size: 2em">Werden Sie Generativer KI-Leiter.</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrieren</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Anmelden</span></a></td>
-  <td><img src="./assets/medium.png"></td>
+  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
@@ -36,7 +36,7 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="./assets/medium.png"></td>
+  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
   <td align="center"> <strong style= "font-size: 2em">Generative KI-Fähigkeiten sind jederzeit verfügbar.</strong><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Jetzt erkunden</span></a></td>
  </tr>
 </table>
@@ -45,26 +45,20 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em"> FOO-Eingabeaufforderung leicht gemacht.</strong><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.</td>
+  <td align="center"> <strong style= "font-size: 2em"> Aufschlüsseln der generativen KI für das Marketing.</strong><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.</td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
-<table>
- <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td> 
-  <td> <strong style= "font-size: 2em"> Aufschlüsseln der generativen KI für das Marketing.</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Seite öffnen</span><td>
- </tr>
-</table>
 
 <table>
  <tr style= "border: 0;colspan: 2;">
   <td> <strong style= "font-size: 2em">In Kürze zur Genstudio Academy kommen</strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 2;"> 
-    <td align="left"><img src="./assets/small.png"></td>
-    <td align="center"><img src="./assets/small.png"></td>
-    <td align="right"><img src="./assets/small.png"></td>
+    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="center"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
