@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: e55be0b347a77cca64cc466ea9188f30ab5f7067
+source-git-commit: 6270ed2ccb04287ff7da3a26e70d154c49ab65a2
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '202'
 ht-degree: 2%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 2%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em">Die Aufforderung wurde einfach gemacht.</strong><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.</td>
+  <td align="center"> <strong style= "font-size: 2em"> FOO-Eingabeaufforderung leicht gemacht.</strong><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
