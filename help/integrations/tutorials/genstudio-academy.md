@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
+source-git-commit: 4d5e0fc3c60fcc91f43d261aa684d0a854071eb0
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 1%
@@ -47,8 +47,8 @@ ht-degree: 1%
 
 
 <table>
- <tr style= "border: 0;colspan: 2;">
-  <td> <strong style= "font-size: 2em">In Kürze zur Genstudio Academy kommen</strong></td>
+ <tr style= "border: 0;">
+  <td> <strong style= "font-size: 2em;colspan: 2;">In Kürze zur Genstudio Academy kommen</strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 2;"> 
     <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
@@ -60,11 +60,12 @@ ht-degree: 1%
 >[!BEGINSHADEBOX]
 
 <table>
+    <tr></tr>
  <tr style= "border: 0;">
  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
   <td> <strong style= "font-size: 2em">Üben Sie Ihre Lernprozesse in die Praxis</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Seite öffnen</span></a></td>
-
-</tr>
+ </tr>
+    <tr></tr>
 </table>
 
 >[!ENDSHADEBOX]
