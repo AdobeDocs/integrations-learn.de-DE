@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: c9395bb9f75f00a816757fc76cb137de1a7bbc63
+source-git-commit: e14b1f5e7a01a9e55aee6be31f9d4d262efe9140
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 1%
@@ -78,7 +78,7 @@ ht-degree: 1%
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em">Üben Sie Ihre Lernprozesse in die Praxis</strong><p>Erkunden Sie GenStudio for Performance Marketing mit einer generativen KI-First-Anwendung, mit der Marketingteams eigene Anzeigen und E-Mails erstellen können, um wirkungsvolle, personalisierte Marketingkampagnen zu erzielen.<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Seite öffnen</span></a></td>
+  <td> <strong style= "font-size: 2em">Üben Sie Ihre Lernprozesse in die Praxis</strong><p>Erkunden Sie GenStudio for Performance Marketing mit einer generativen KI-First-Anwendung, mit der Marketingteams eigene Anzeigen und E-Mails erstellen können, um wirkungsvolle, personalisierte Marketingkampagnen zu erzielen.<p><a href="https://business.adobe.com/products/genstudio-for-performance-marketing.html" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Seite öffnen</span></a></td>
  </tr>
     <tr></tr>
 </table>
