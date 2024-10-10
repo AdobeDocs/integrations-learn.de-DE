@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 54f15c2af2f720ae353f168caf2a066697a8c895
+source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '187'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td> <strong style= "font-size: 2em">Werden Sie Generativer KI-Leiter.</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrieren</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Anmelden</span></a></td>
+  <td> <strong style= "font-size: 2em">Erhöhen Sie Ihr KI-Wissen im Allgemeinen.  </strong><p>Master der generativen KI-Fähigkeiten, um Ihre Kreativ- und Marketing-Workflows zu transformieren. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrieren</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Anmelden</span></a></td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em"> Master Generative KI. Transformieren Sie Ihre Workflows.</strong><p>Lernen Sie die Kernkompetenzen für die Verwendung generativer KI in Marketing-Workflows kennen. Überall. Kostenlos.
+    <strong style= "font-size: 2em"> Master generative KI bei der GenStudio Academy.</strong><p>Einzigartige Fähigkeiten für die Integration generativer KI in kreative und Marketing-Workflows - jederzeit, überall und vollständig kostenlos.
   </td>
  </tr>
 </table>
@@ -31,8 +31,8 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td align="center"> <strong style= "font-size: 2em">Generative KI-Fähigkeiten sind jederzeit verfügbar.</strong><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Jetzt erkunden</span></a></td>
+  <td><img src="./assets/generative-ai-for-marketing-simplified.png"></td>
+  <td align="center"> <strong style= "font-size: 2em">Generative KI für das Marketing. Vereinfacht.</strong><p> GenStudio Academy wandelt komplexe generative KI-Aufgaben in leicht verständliche Kurse um, wie etwa die Umwandlung von Markenrichtlinien. Mithilfe herunterladbarer Handbücher und Videos können Lernende generative KI, jeweils ein Konzept, beherrschen.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Jetzt erkunden</span></a></td>
  </tr>
 </table>
 
@@ -40,20 +40,19 @@ ht-degree: 1%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em"> Aufschlüsseln der generativen KI für das Marketing.</strong><p> Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen.</td>
+  <td align="center"> <strong style= "font-size: 2em"> Lernstufen. Unbeschränkte Gelegenheit entsperrt.</strong><p>Mit den Master-Levels der GenStudio Academy ist es einfach, Inhalte zu finden, die Ihre generativen KI-Fähigkeiten steigern - ob Sie über LLMs lernen, die schnelle Erstellung meistern oder KI-Tools in Aktion sehen. Die GenStudio Academy hat für jeden etwas.</td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
 
 <table>
- <tr style= "border: 0;colspan: 3;">
-  <td colspan="3"> <strong style= "font-size: 2em;">In Kürze zur Genstudio Academy kommen</strong></td>
- </tr> 
+ <!-- <tr style= "border: 0;colspan: 3;">
+  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
+ </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="center"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Tipps und Tricks zur optimalen Verwendung von GenStudio for Performance Marketing. </td>
+    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Fortgeschrittene Kurse zur Erschließung von KI-Kompetenzen auf Expertenebene im Marketing. </td>
  </tr>
 </table>
 
@@ -62,15 +61,13 @@ ht-degree: 1%
 <table>
     <tr></tr>
  <tr style= "border: 0;">
- <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td> <strong style= "font-size: 2em">Üben Sie Ihre Lernprozesse in die Praxis</strong><p> Werden Sie Generative KI-Leiter. Sie können die KI-Fähigkeiten beherrschen, um Ihre Workflows zu transformieren und Ihre Branche voran zu führen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Seite öffnen</span></a></td>
+ <td><img src="./assets/put-your-learnings-into-practice.png"></td>
+  <td> <strong style= "font-size: 2em">Üben Sie Ihre Lernprozesse in die Praxis</strong><p>Erkunden Sie GenStudio for Performance Marketing mit einer generativen KI-First-Anwendung, mit der Marketingteams eigene Anzeigen und E-Mails erstellen können, um wirkungsvolle, personalisierte Marketingkampagnen zu erzielen.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Seite öffnen</span></a></td>
  </tr>
     <tr></tr>
 </table>
 
 >[!ENDSHADEBOX]
-
->[!VIDEO](https://video.tv.adobe.com/v/3434938?autoplay=true&end=replay)
 
 <!--
 ## Heading 2 SHADEBOXES
