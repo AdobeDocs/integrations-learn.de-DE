@@ -3,10 +3,10 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
+source-git-commit: 58659803aa9611d28c8b31c3f879f0df4e10fe32
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td> <strong style= "font-size: 2em">Erhöhen Sie Ihr KI-Wissen im Allgemeinen.  </strong><p>Master der generativen KI-Fähigkeiten, um Ihre Kreativ- und Marketing-Workflows zu transformieren. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Registrieren</span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Anmelden</span></a></td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/elevate-your-generative-ai-knowledge.png"></td>
  </tr>
 </table>
 
@@ -41,7 +41,7 @@ ht-degree: 1%
 <table>
  <tr style= "border: 0;">
   <td align="center"> <strong style= "font-size: 2em"> Lernstufen. Unbeschränkte Gelegenheit entsperrt.</strong><p>Mit den Master-Levels der GenStudio Academy ist es einfach, Inhalte zu finden, die Ihre generativen KI-Fähigkeiten steigern - ob Sie über LLMs lernen, die schnelle Erstellung meistern oder KI-Tools in Aktion sehen. Die GenStudio Academy hat für jeden etwas.</td>
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+  <td><img src="./assets/levels-of-learning.png"></td>
  </tr>
 </table>
 
@@ -51,8 +51,26 @@ ht-degree: 1%
   <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
  </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Tipps und Tricks zur optimalen Verwendung von GenStudio for Performance Marketing. </td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Fortgeschrittene Kurse zur Erschließung von KI-Kompetenzen auf Expertenebene im Marketing. </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="https://www.adobe.com"><strong>Tipps und Tricks </strong>
+      </a>
+      </div>
+      <p>
+      Tipps und Tricks zur optimalen Verwendung von GenStudio for Performance Marketing.
+      </p>
+   </td>
+   <td>
+      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+      <div>
+      <a href="https://www.adobe.com"><strong>Expertenkurse</strong>
+      </a>
+      </div>
+      <p>
+      Fortgeschrittene Kurse zur Erschließung von KI-Kompetenzen auf Expertenebene im Marketing.
+      </p>
+   </td>
  </tr>
 </table>
 
