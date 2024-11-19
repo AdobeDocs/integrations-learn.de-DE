@@ -1,7 +1,7 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '941'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ Adobe [!DNL Analytics] ist eine Analyselösung, mit der Unternehmen das Benutzer
 
 ## Beschreibung des Audience Managers {#audience-manager-description}
 
-Adobe Audience Manager (AAM) ist eine von Adobe bereitgestellte Datenverwaltungsplattform (DMP). Sie ermöglicht es Unternehmen, große Mengen von Zielgruppendaten aus verschiedenen Quellen zu sammeln, zu organisieren und zu segmentieren. So können Marketingexperten zielgerichtete und personalisierte Werbekampagnen erstellen, die Inhaltsbereitstellung optimieren und die Kundenerlebnisse insgesamt basierend auf wertvollen Einblicken aus dem Zielgruppenverhalten und den Vorlieben verbessern.
+Adobe Audience Manager (AAM) ist eine Datenverwaltungsplattform (DMP), die von Adobe bereitgestellt wird. Sie ermöglicht es Unternehmen, große Mengen von Zielgruppendaten aus verschiedenen Quellen zu sammeln, zu organisieren und zu segmentieren. So können Marketingexperten zielgerichtete und personalisierte Werbekampagnen erstellen, die Inhaltsbereitstellung optimieren und die Kundenerlebnisse insgesamt basierend auf wertvollen Einblicken aus dem Zielgruppenverhalten und den Vorlieben verbessern.
 
 ## [!DNL Campaign] description {#campaign-description}
 
@@ -46,6 +46,11 @@ Adobe Experience Manager Forms ist eine Komponente von Adobe Experience Manager,
 ## Erlebnis [!DNL Platform] - Beschreibung {#experience-platform-description}
 
 Adobe Experience [!DNL Platform] ist das leistungsfähigste, flexibelste und offenste System auf dem Markt für die Erstellung und Verwaltung von Komplettlösungen, die das Kundenerlebnis fördern. Mit Erlebnis [!DNL Platform] können Unternehmen Kundendaten und Inhalte aus beliebigen Systemen zentral zusammenführen und standardisieren sowie mithilfe von Datenwissenschaft und maschinellem Lernen die Gestaltung und Bereitstellung umfassender, personalisierter Erlebnisse erheblich verbessern.
+
+
+## GenStudio for Performance Marketing-Beschreibung {#genstudio-for-performance-marketing-description}
+
+Adobe GenStudio for Performance Marketing ist eine leistungsstarke Anwendung, die die Inhaltserstellung und -verwaltung optimiert, indem markenbestätigte Assets integriert werden. Marketingexperten können personalisierte, konsistente Inhalte auf allen Kanälen bereitstellen und so eine bessere Kampagnenleistung erzielen.
 
 ## Journey Optimizer-Beschreibung {#journey-optimizer-description}
 

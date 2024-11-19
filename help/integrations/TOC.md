@@ -3,10 +3,10 @@ user-guide-title: Tutorials zur Integration in Experience Cloud
 breadcrumb-title: Experience Cloud-Integrationen
 user-guide-description: Integrationen – Lernmaterialien.
 mini-toc-levels: 1
-source-git-commit: bb2658916a519c651ebcd350dcc72e3a8593180f
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 19%
+source-wordcount: '113'
+ht-degree: 22%
 
 ---
 
@@ -56,6 +56,7 @@ ht-degree: 19%
       + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
       + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
       + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
+      + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
       + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
@@ -101,3 +102,9 @@ ht-degree: 19%
       + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
+   + GenStudio for Performance Marketing und Experience Manager {#genstudio-for-performance-marketing-experience-manager}
+      + [Übersicht](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
+      + [Einrichten](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
+      + [Integrationsdurchlauf](./tutorials/aem-genstudio-for-performance-marketing/integration-walk-through.md)
+      + [Anwendungsfall 1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+      + [Anwendungsfall 2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
