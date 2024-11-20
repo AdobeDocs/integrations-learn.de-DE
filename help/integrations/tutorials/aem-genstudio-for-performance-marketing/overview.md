@@ -11,13 +11,13 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: 07d927509468090fc560c85167c61bc089b3d4a2
+exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
+source-git-commit: 6eefbeb882a857dc17696181dae7898b91b0866f
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 2%
 
 ---
-
 
 # Adobe GenStudio mit AEM Assets und GenStudio for Performance Marketing
 
@@ -33,6 +33,7 @@ Erkunden Sie zwei umfassende Durchsichten: Die erste führt Sie durch den Einric
 
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup
     {title=Set up}
+    {cta=Learn}
     {image=https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=2000&format=webply&optimize=medium}
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough
     {title=Integration walkthrough}
@@ -68,7 +69,7 @@ Erkunden Sie zwei umfassende Durchsichten: Die erste führt Sie durch den Einric
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="Anleitung zur Integration" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1732052905955" alt="Anleitung zur Integration"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1732112027882" alt="Anleitung zur Integration"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -107,7 +108,7 @@ Erfahren Sie mehr über praktische Anwendungsfälle, die zeigen, wie diese Integ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-1" title="Leichte Überprüfung und Genehmigung in Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1732052906135" alt="Leichte Überprüfung und Genehmigung in Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1732112029889" alt="Leichte Überprüfung und Genehmigung in Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -130,7 +131,7 @@ Erfahren Sie mehr über praktische Anwendungsfälle, die zeigen, wie diese Integ
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-2" title="Varianten mit Adobe GenStudio erstellen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1732052906136" alt="Varianten mit Adobe GenStudio erstellen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1732112029524" alt="Varianten mit Adobe GenStudio erstellen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
