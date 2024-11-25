@@ -11,17 +11,20 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-20T00:00:00Z
 jira: KT-16483
+index: true
+hidefromtoc: true
+badgeIntegration: label="AEM Asset und GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: 6b108fc5a24d8949417a2ef14fa0d5a376f0b1aa
+source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Leichte Überprüfung und Genehmigung in Adobe GenStudio
 
-[Überblick über die Rückkehr zur Integration](./overview.md)
+[Zurück zu AEM Asset und GenStudio for Performance Marketing - Übersicht](./overview.md)
 
 Erfahren Sie, wie Sie Assets in AEM Assets as a Cloud Service hochladen, überprüfen und genehmigen können, um Ihren Content-Workflow zu optimieren. Nach der Genehmigung werden diese Assets nahtlos in GenStudio for Performance Marketing integriert, sodass Sie mühelos auf markenbestätigte Materialien für Ihre Kampagnen zugreifen können.
 
