@@ -1,6 +1,6 @@
 ---
-title: Leichte Überprüfung und Genehmigung in Adobe GenStudio
-description: Erfahren Sie mehr über das Anwendungsbeispiel für das Hochladen, Überprüfen und Genehmigen von Assets in AEM Assets, um sie für die Verwendung in GenStudio for Performance Marketing verfügbar zu machen.
+title: Einfache Überprüfung und Genehmigung in Adobe GenStudio
+description: Erkunden Sie den Anwendungsfall des Hochladens, Überprüfens und Genehmigens von Assets in AEM Assets, um sie für die Verwendung in GenStudio for Performance Marketing verfügbar zu machen.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 ---
 
-# Leichte Überprüfung und Genehmigung in Adobe GenStudio
+# Einfache Überprüfung und Genehmigung in Adobe GenStudio
 
-[Zurück zu AEM Asset und GenStudio for Performance Marketing - Übersicht](./overview.md)
+[‹ Zurück zur Übersicht über AEM Asset und GenStudio for Performance Marketing](./overview.md)
 
-Erfahren Sie, wie Sie Assets in AEM Assets as a Cloud Service hochladen, überprüfen und genehmigen können, um Ihren Content-Workflow zu optimieren. Nach der Genehmigung werden diese Assets nahtlos in GenStudio for Performance Marketing integriert, sodass Sie mühelos auf markenbestätigte Materialien für Ihre Kampagnen zugreifen können.
+Erfahren Sie, wie Sie Assets in AEM Assets as a Cloud Service hochladen, überprüfen und genehmigen, um Ihren Inhalts-Workflow zu optimieren. Nach der Genehmigung lassen sich diese Assets nahtlos in GenStudio for Performance Marketing integrieren, sodass Sie problemlos auf markenbestätigte Materialien für Ihre Kampagnen zugreifen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)

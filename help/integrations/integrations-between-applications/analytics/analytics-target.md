@@ -1,6 +1,6 @@
 ---
-title: Integrieren von [!DNL Analytics] mit [!DNL Target]
-description: Erfahren Sie, wie Sie Adobe [!DNL Analytics] in Adobe Target integrieren.
+title: Integrieren  [!DNL Analytics] mit [!DNL Target]
+description: Erfahren Sie, wie Sie Adobe  [!DNL Analytics]  Adobe Target integrieren.
 solution: Analytics, Target
 feature: Integrations
 topic: Integrations

@@ -1,6 +1,6 @@
 ---
-title: Integrieren von [!DNL Campaign] mit [!DNL Real-Time Customer Data Platform]
-description: Erfahren Sie, wie Sie [!DNL Campaign] mit [!DNL Real-Time Customer Data Platform] integrieren.
+title: Integrieren  [!DNL Campaign] mit [!DNL Real-Time Customer Data Platform]
+description: Erfahren Sie, wie Sie  [!DNL Campaign]  mit  [!DNL Real-Time Customer Data Platform].
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -17,6 +17,6 @@ ht-degree: 7%
 
 ---
 
-# Integrieren von [!DNL Campaign] mit Echtzeit-Kundendaten [!DNL Platform]
+# Integrieren von [!DNL Campaign] mit Real-time Customer Data [!DNL Platform]
 
 {{$include /help/_includes/integrations-between-applications/campaign-rtcdp.md}}

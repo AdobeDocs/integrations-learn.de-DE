@@ -1,6 +1,6 @@
 ---
-title: Anwendungsintegrationen für die Inhaltsversorgungskette
-description: Planen, erstellen, personalisieren und veröffentlichen Sie Inhalte.
+title: Anwendungsintegrationen für die Content-Supply Chain
+description: Inhalte planen, erstellen, personalisieren und veröffentlichen.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
 source-git-commit: 03f958e6a2754b23a4a7d21ee87107a777f10406
 workflow-type: tm+mt
@@ -9,11 +9,11 @@ ht-degree: 1%
 
 ---
 
-# Inhaltsversorgungskette
+# Inhaltslieferkette
 
-Planen, erstellen, personalisieren und veröffentlichen Sie unvergessliche Inhalte für jeden Kunden - mit der Geschwindigkeit von jetzt an.
+Planen, erstellen, personalisieren und veröffentlichen Sie unvergessliche Inhalte für jeden Kunden - in der Geschwindigkeit von jetzt.
 
-Die Erfüllung von Echtzeit-Kundenerwartungen für personalisierte Erlebnisse erfordert mehr digitale Inhalte als je zuvor. Mit Adobe-Workflows und Asset-Management-Lösungen können Ihre Teams personalisierte Inhalte in großem Maßstab planen, erstellen und bereitstellen, die das Journey an jedem Touchpoint unterstützen.
+Die Erfüllung der Echtzeit-Kundenerwartungen an personalisierte Erlebnisse erfordert mehr digitale Inhalte denn je. Mit den Kreativ-Workflow- und Asset-Management-Lösungen von Adobe können Ihre Teams personalisierte Inhalte in jedem Maßstab planen, erstellen und bereitstellen, der das Kunden-Journey an jedem Touchpoint unterstützt.
 
 <table>
  <thead>
@@ -26,21 +26,21 @@ Die Erfüllung von Echtzeit-Kundenerwartungen für personalisierte Erlebnisse er
   </thead>
   <tbody>
 <tr>
-  <td rowspan="2"><strong>Marketingmaterial mithilfe von Marken-Assets erstellen</strong><br/></td>
-  <td>Erstellen und überwachen Sie E-Mail-Marketing-Inhalte und -Vorlagen mithilfe von AEM und Adobe [!DNL Campaign].</td>
+  <td rowspan="2"><strong>Erstellen von Marketingmaterial mit Marken-Assets</strong><br/></td>
+  <td>Erstellen und überwachen Sie E-Mail-Marketing-Inhalte und -Vorlagen mithilfe von AEM- und Adobe-[!DNL Campaign].</td>
   <td>
     <ul>
-      <li>Senden von mit AEM erstellten Marketing-E-Mails</li>
+      <li>Mit AEM erstellte Marketing-E-Mails senden</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] und AEM</a></td>
 </tr>
 <tr>
-  <td>Erstellen Sie personalisierte Markenerlebnisse.</td>
+  <td>Erstellen Sie markeninterne, personalisierte Marketing-Erlebnisse.</td>
   <td>
     <ul>
-      <li>Senden Sie in GenStudio for Performance Marketing erstellte Marketing-E-Mails mit Markenbildern von AEM Assets.</li>
-      <li>Erstellen Sie markeninterne Metaanzeigen in GenStudio for Performance Marketing mithilfe von Markenbildern aus AEM Assets.</li>
+      <li>Senden Sie in GenStudio for Performance Marketing erstellte Marketing-E-Mails mit Markenbildern aus AEM Assets.</li>
+      <li>Erstellen Sie markeninterne Meta-Anzeigen in GenStudio for Performance Marketing mithilfe von markeninternen Bildern aus AEM Assets.</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing und AEM</a></td>
@@ -52,53 +52,53 @@ Die Erfüllung von Echtzeit-Kundenerwartungen für personalisierte Erlebnisse er
     <ul style="margin-top: 0;">
       <li>Enterprise Asset Management</li>
       <li>Asset-Workflows optimieren</li>
-      <li>Verbesserung der Zusammenarbeit und Genehmigung</li>
-      <li>Verbesserung des Projektmanagements</li>
+      <li>Verbesserung von Zusammenarbeit und Genehmigung</li>
+      <li>Verbessertes Projektmanagement</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets und Workfront</a></td>
 </tr>
 <tr>
-  <td>Koordinieren und messen Sie die Erstellung und Verwendung von Assets in einer Abteilung, indem Sie AEM Assets Essentials und Workfront integrieren.</td>
+  <td>Koordinieren und messen Sie die Erstellung und Verwendung von Assets in einer Abteilung durch die Integration von AEM Assets Essentials und Workfront.</td>
   <td>
     <ul style="margin-top: 0;">
-      <li>Vermögensverwaltung</li>
-      <li>Optimieren der Asset-Verwaltung</li>
+      <li>Asset-Management in der Abteilung</li>
+      <li>Optimieren des Asset-Managements</li>
       <li>Zusammenarbeit und Genehmigung aktivieren</li>
-      <li>Verbesserung des Projektmanagements</li>
+      <li>Verbessertes Projektmanagement</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets Essentials und Workfront</a></td>
 </tr>
 <tr>
-  <td>Erstellen und Verwalten von Asset-Updates für Creative Cloud- und Workfront-Anwendungen</td>
+  <td>Erstellen und Verwalten von Asset-Aktualisierungen für Creative Cloud- und Workfront-Anwendungen</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Hochladen und Freigeben von Assets über mehrere Plattformen hinweg</li>
-      <li>Starten von Asset-Überprüfungs- und Genehmigungsprozessen</li>
-      <li>Asset-Anforderungen und -Feedback plattformübergreifend anzeigen</li>
+      <li>Starten von Asset-Prüfungs- und Genehmigungsprozessen</li>
+      <li>Anzeigen von Asset-Anforderungen und -Feedback plattformübergreifend</li>
     </ul>    
   </td>
   <td><a href="/help/integrations/integrations-between-applications/workfront/workfront-creative-cloud.md">Creative Cloud und Workfront</a></td>
 </tr>
 <tr>
-  <td><strong>Marketingmaterial mithilfe von Marken-Assets erstellen</strong><br/></td>
-  <td>Nutzen Sie Marken-Assets effizient über Marketingkampagnen hinweg, indem Sie Adobe Experience Manager Assets Essentials und Adobe Journey Optimizer verwenden.
+  <td><strong>Erstellen von Marketingmaterial mit Marken-Assets</strong><br/></td>
+  <td>Nutzen Sie Marken-Assets effizient für alle Marketing-Kampagnen unter Verwendung von Adobe Experience Manager Assets Essentials und Adobe Journey Optimizer.
   </td>
   <td>
     <ul>
-      <li>Erstellen und verwalten Sie Assets in Experience Manager Assets Essentials und verwenden Sie sie in Adobe Journey Optimizer</li>
+      <li>Erstellen und Verwalten von Assets in Experience Manager Assets Essentials und deren Verwendung in Adobe Journey Optimizer</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md">Journey Optimizer und AEM Asset-Grundlagen</a></td>
+  <td><a href="../integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md">Journey Optimizer und AEM Asset Essentials</a></td>
 </tr>
 <tr>
-  <td><strong>Kundendaten erfassen</strong><br/></td>
-  <td>Zusätzliche native [!DNL Campaign]-Funktionen zur Erfassung von Kundendaten für die Zielgruppenbestimmung und Personalisierung von Marketing-Kampagnen.
+  <td><strong>Erfassen von Kundendaten</strong><br/></td>
+  <td>Erweiterung der nativen [!DNL Campaign] zur Erfassung von Kundendaten für Targeting und Personalisierung von Marketing-Kampagnen.
   </td>
   <td>
     <ul>
-      <li>Erstellen Sie Profile und sammeln Sie zusätzliche Informationen. </li>
+      <li>Erstellen von Profilen und Erfassen zusätzlicher Informationen. </li>
       <li>Abonnements</li>
     </ul>
   </td>

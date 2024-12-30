@@ -1,6 +1,6 @@
 ---
-title: Integrieren von [!DNL Campaign] v8 in das Experience Manager-Tutorial
-description: Erfahren Sie, wie Sie Adobe [!DNL Campaign] mit Adobe Experience Manager verbinden, um Vorlagen, Assets und Formulare für E-Mail-Sendungen in Experience Manager zu verwalten.
+title: Tutorial  [!DNL Campaign]  Integration von v8 mit Experience Manager
+description: Erfahren Sie, wie Sie Adobe [!DNL Campaign]  mit Adobe Experience Manager verbinden, um E-Mail-Versandvorlagen, Assets und Formulare im Experience Manager zu verwalten.
 solution: Campaign, Campaign v8 Client Console, Campaign v8 Web User Interface, Experience Manager
 feature: Integrations
 topic: Integrations
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 ---
 
-# Integrieren von [!DNL Campaign] v8 in das Experience Manager-Tutorial
+# Tutorial zur Integration von [!DNL Campaign] v8 mit Experience Manager
 
-Erfahren Sie, wie Sie Adobe [!DNL Campaign] mit Adobe Experience Manager verbinden, um Vorlagen, Assets und Formulare für den E-Mail-Versand in Experience Manager zu verwalten.
+Erfahren Sie, wie Sie Adobe-[!DNL Campaign] mit Adobe Experience Manager verbinden, um E-Mail-Versandvorlagen, Assets und Formulare im Experience Manager zu verwalten.
 
 Im folgenden Video erfahren Sie, was Sie lernen.
 
@@ -30,18 +30,18 @@ Im folgenden Video erfahren Sie, was Sie lernen.
 
 ## Konfigurieren von [!DNL Campaign] für die Experience Manager-Integration
 
-Erfahren Sie, wie Sie die Integration zwischen Experience Manager und [!DNL Campaign] einrichten, einschließlich wichtiger Einstellungen, nach denen gesucht werden soll, und möglicher &quot;Fallstricke&quot;, die vermieden werden können.
+Erfahren Sie, wie Sie die Integration zwischen Experience Manager und [!DNL Campaign] einrichten, einschließlich wichtiger Einstellungen, auf die Sie achten müssen, und potenzieller „Fallstricke“, die Sie vermeiden sollten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
 
 ## Genehmigen und Veröffentlichen einer Experience Manager-Seite in [!DNL Campaign]
 
-Erfahren Sie, wie Sie einen Newsletter in Experience Manager erstellen und genehmigen und in [!DNL Campaign] veröffentlichen.
+Erfahren Sie, wie Sie einen Newsletter in der Experience Manager erstellen und genehmigen und in [!DNL Campaign] veröffentlichen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
 
-## Experience Manager-E-Mail-Versand in [!DNL Campaign] synchronisieren und senden
+## Synchronisieren und Durchführen eines Experience Manager-E-Mail-Versands in [!DNL Campaign]
 
-Erfahren Sie, wie Sie einen Newsletter testen und senden, der in Experience Manager erstellt wurde, in [!DNL Campaign].
+Erfahren Sie, wie Sie einen Newsletter, der in Experience Manager erstellt wurde, in [!DNL Campaign] testen und senden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)

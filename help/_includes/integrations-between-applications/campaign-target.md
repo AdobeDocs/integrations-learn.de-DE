@@ -13,11 +13,11 @@ ht-degree: 2%
 
 {{target-description}}
 
-Verwenden Sie Adobe [!DNL Campaign] mit Adobe [!DNL Target], um Ihren E-Mail-Inhalt zu personalisieren und zu optimieren. Zu den wichtigsten Vorteilen zählen:
+Verwenden Sie Adobe [!DNL Campaign] mit Adobe [!DNL Target], um Ihren E-Mail-Inhalt zu personalisieren und zu optimieren. Zu den wichtigsten Vorteilen gehören:
 
-+ **Adobe [!DNL Campaign] data**: Erhöhen Sie das Targeting in Adobe [!DNL Target] mit dem Adobe [!DNL Campaign]-Datamart.
-+ **Zielgruppensegmentierung**: Verknüpfen Sie Segmente mit der Besucher-ID, um ein optimiertes Targeting und personalisierte Erlebnisse zu erzielen.
-+ **[!DNL Target]ing-Verbesserungen**: Greifen Sie auf wertvolle Daten (Benutzeragent, IP-Adresse, Geolocation) zu, um Targeting und Kampagnen zu verbessern.
++ **Adobe [!DNL Campaign]-Daten**: Verbessern Sie das Targeting in Adobe-[!DNL Target] mit Adobe [!DNL Campaign] Data Mart.
++ **Zielgruppensegmentierung**: Verknüpfen von Segmenten mit der Besucher-ID für optimierte Zielgruppenbestimmung und personalisierte Erlebnisse.
++ **[!DNL Target]Verbesserungen**: Zugriff auf wertvolle Daten (Benutzeragent, IP-Adresse, Geolokalisierung) für eine verbesserte Zielgruppenbestimmung und Kampagnen.
 
 ## Allgemeine Integrationen
 
@@ -25,7 +25,7 @@ Verwenden Sie Adobe [!DNL Campaign] mit Adobe [!DNL Target], um Ihren E-Mail-Inh
     <thead>
         <tr>
             <th>Experience Cloud-Anwendungen</th>
-            <th>Verwendungsbereiche</th>
+            <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
         </tr>
     </thead>
@@ -34,14 +34,14 @@ Verwenden Sie Adobe [!DNL Campaign] mit Adobe [!DNL Target], um Ihren E-Mail-Inh
             <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 mit [!DNL Target]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wenn Sie E-Mail-Inhalt personalisieren möchten.</li>
-                    <li>Wenn Sie E-Mails dynamischen Inhalt basierend auf dem Empfänger hinzufügen möchten.</li>
+                    <li>Wenn Sie E-Mail-Inhalte personalisieren möchten.</li>
+                    <li>Wenn Sie E-Mails je nach Empfänger dynamische Inhalte hinzufügen möchten.</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>Bieten Sie verschiedene Rabatte basierend auf dem Treuestatus an. </li>
-                <li>Anzeigen verschiedener Produktangebote für männliche und weibliche Kunden.
+                <li>Bieten Sie je nach Treuestatus unterschiedliche Rabatte an. </li>
+                <li>Zeigen Sie verschiedene Produktangebote für männliche und weibliche Kunden an.
               </ul>
             </td>
         </tr>     

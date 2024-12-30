@@ -13,15 +13,15 @@ ht-degree: 2%
 
 {{analytics-description}}
 
-Die wichtigsten Vorteile der Integration von Adobe [!DNL Commerce] und Adobe [!DNL Analytics] sind:
+Zu den wichtigsten Vorteilen der Integration von Adobe [!DNL Commerce] und Adobe [!DNL Analytics] gehören:
 
-+ **Umfassende Kundeneinblicke**: Die Integration bietet eine einheitliche Sicht auf Kundeninteraktionen, sodass Unternehmen tiefere Einblicke in Kundenverhalten, Präferenzen und Kaufmuster erhalten.
-+ **Verbesserte Marketing-Attribution**: Durch die Kombination von Daten aus Adobe [!DNL Commerce] und Adobe [!DNL Analytics] können Marketingexperten Verkäufe und Konversionen gezielten Marketing-Maßnahmen besser zuordnen, wodurch eine präzisere ROI-Messung und -Optimierung ermöglicht wird.
-+ **Personalisierte Kundenerlebnisse**: Die Integration beider Plattformen ermöglicht personalisierte Erlebnisse auf der Grundlage von Kundendaten, was zu relevanteren Produktempfehlungen, gezielten Angeboten und einer verbesserten Kundenzufriedenheit führt.
-+ **Effiziente E-Commerce-Optimierung**: Unternehmen können Analysedaten verwenden, um Möglichkeiten zur Website- und Benutzererlebnisoptimierung zu identifizieren. Dies führt zu höheren Konversionen, weniger Warenkorbabbrüche und einer verbesserten E-Commerce-Gesamtleistung.
-+ **Datengesteuerte Entscheidungsfindung**: Die Integration ermöglicht datengesteuerte Entscheidungsfindung, indem sie einen umfassenden Überblick über die Journey von Kunden bietet und Unternehmen in die Lage versetzt, fundierte Marketing-, Verkaufs- und Produktentscheidungen auf der Grundlage echter Einblicke zu treffen.
++ **Umfassende Kundeneinblicke**: Die Integration bietet eine einheitliche Ansicht der Kundeninteraktionen, sodass Unternehmen tiefere Einblicke in das Kundenverhalten, die Vorlieben und die Kaufmuster erhalten.
++ **Verbesserte Marketing-Attribution**: Durch die Kombination von Daten aus Adobe-[!DNL Commerce] und Adobe-[!DNL Analytics] können Marketing-Fachleute Verkäufe und Konversionen besser spezifischen Marketing-Maßnahmen zuordnen, was eine genauere Messung und Optimierung des ROI ermöglicht.
++ **Personalisierte Kundenerlebnisse**: Die Integration beider Plattformen ermöglicht personalisierte Erlebnisse auf der Grundlage von Kundendaten, was zu relevanteren Produktempfehlungen, zielgerichteten Angeboten und verbesserter Kundenzufriedenheit führt.
++ **Effiziente E-Commerce-Optimierung**: Unternehmen können mithilfe von Analysedaten Möglichkeiten zur Optimierung von Websites und Benutzererlebnissen ermitteln, was zu mehr Konversionen, weniger Warenkorbabbrüchen und einer verbesserten E-Commerce-Gesamtleistung führt.
++ **Datengestützte Entscheidungsfindung**: Die Integration ermöglicht datengestützte Entscheidungsfindung, indem sie einen umfassenden Überblick über Kunden-Journey bietet und es Unternehmen ermöglicht, fundierte Marketing-, Verkaufs- und Produktentscheidungen auf der Grundlage echter Einblicke zu treffen.
 
-Insgesamt schafft die Integration von Adobe [!DNL Commerce] und Adobe [!DNL Analytics] ein leistungsfähiges E-Commerce-Ökosystem, das datengesteuerte Einblicke mit personalisierten Erlebnissen kombiniert und so zu einer besseren Kundeninteraktion, mehr Umsatz und einem allgemeinen Geschäftswachstum führt.
+Insgesamt führt die Integration von Adobe [!DNL Commerce] und Adobe [!DNL Analytics] zu einem leistungsstarken E-Commerce-Ökosystem, das datengesteuerte Einblicke mit personalisierten Erlebnissen kombiniert, was zu besserer Kundeninteraktion, höheren Umsätzen und einem allgemeinen Geschäftswachstum führt.
 
 ## Allgemeine Integrationen
 
@@ -29,8 +29,8 @@ Insgesamt schafft die Integration von Adobe [!DNL Commerce] und Adobe [!DNL Anal
     <thead>
         <tr>
             <th>Experience Cloud-Anwendungen</th>
-            <th>Integration mit</th>
-            <th>Verwendungsbereiche</th>
+            <th>Integriert mit</th>
+            <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
         </tr>
     </thead>
@@ -41,14 +41,14 @@ Insgesamt schafft die Integration von Adobe [!DNL Commerce] und Adobe [!DNL Anal
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Adobe-Modul installiert [!DNL Commerce]</li>
+                    <li>Auf Adobe installiertes Modul [!DNL Commerce]</li>
                     <li>Adobe Experience Edge Network</li>
-                    <li>Adobe Client Data Layer (ACDL)</li>
+                    <li>Adobe Client-Datenschicht (ACDL)</li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wenn Sie ein vollständiges Bild der Gesamtleistung Ihres Stores erhalten möchten. Genauer gesagt bietet die Adobe [!DNL Analytics]-Integration für [!DNL Commerce] Intelligence Händlern die Möglichkeit, ihre Adobe [!DNL Commerce]- und Adobe [!DNL Analytics]-Datensätze zu kombinieren.</li>
+                    <li>Wenn Sie ein vollständiges Bild der Gesamtleistung Ihres Stores erhalten möchten. Genauer gesagt bietet die Adobe-[!DNL Analytics]-Integration für [!DNL Commerce] Intelligence Funktionen, mit denen Händler ihre Adobe-[!DNL Commerce] und Adobe-[!DNL Analytics] kombinieren können.</li>
                 </ul>
             </td>
             <td>

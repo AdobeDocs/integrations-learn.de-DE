@@ -1,6 +1,6 @@
 ---
-title: Einrichten von Self-Service-Downloads auf dem Creative Cloud Desktop
-description: Erstellen Sie ein Tutorial, um Benutzer zu führen, die Self-Service-Downloads auf dem Creative Cloud Desktop einrichten möchten.
+title: Einrichten von Self-Service-Downloads auf dem Creative Cloud-Desktop
+description: Erstellen Sie ein Tutorial, das Benutzende anleitet, die Self-Service-Downloads auf dem Creative Cloud-Desktop einrichten möchten.
 solution: Creative Cloud, Workfront
 feature: Integrations
 topic: Integrations

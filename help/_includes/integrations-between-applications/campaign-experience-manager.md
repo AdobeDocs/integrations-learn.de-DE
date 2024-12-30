@@ -7,16 +7,16 @@ ht-degree: 2%
 ---
 
 
-# Integration von [!DNL Campaign] und Experience Managern
+# Integration von [!DNL Campaign] und Experience Manager
 
 {{campaign-description}}
 
 {{experience-manager-description}}
 
-Die wichtigsten Vorteile der Integration von Adobe [!DNL Campaign] und AEM Experience Manager sind:
+Die Integration von Adobe-[!DNL Campaign] und AEM-Experience Manager bietet folgende Vorteile:
 
-+ **Verwalten Sie den Inhalt Ihrer E-Mail-Sendungen** und Ihrer Formulare direkt in Adobe Experience Manager.
-+ **Verwenden Sie Marken-Assets beim Bearbeiten einer E-Mail oder Landingpage** in Adobe [!DNL Campaign] von Adobe Experience Manager Assets aus.
++ **Verwalten des Inhalts Ihrer E-Mail-Sendungen** Ihrer Formulare direkt in Adobe Experience Manager.
++ **Verwenden von Marken-Assets beim Bearbeiten einer E-Mail oder Landingpage** in Adobe [!DNL Campaign] über Adobe Experience Manager Assets.
 
 ## Allgemeine Integrationen
 
@@ -24,15 +24,15 @@ Die wichtigsten Vorteile der Integration von Adobe [!DNL Campaign] und AEM Exper
     <thead>
         <tr>
             <th>Experience Cloud-Anwendungen</th>
-            <th>Integration mit</th>
-            <th>Verwendungsbereiche</th>
+            <th>Integriert mit</th>
+            <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="../../integrations/tutorials/campaign-aem/campaign-v8-with-experience-manager.md" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 mit AEM Assets 6.5</a></td>
-            <td>AEM Integrationspaket</td>
+            <td>AEM-Integrationspaket</td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Wenn Sie E-Mail-Vorlagen oder Landingpages mit WYSIWYG-Authoring erstellen möchten.</li>
@@ -41,7 +41,7 @@ Die wichtigsten Vorteile der Integration von Adobe [!DNL Campaign] und AEM Exper
             <td>
               <ul style="margin-top: 0;">
                 <li>Personalisierte E-Mail-Kampagnen.</li>
-                <li>Dynamische Inhalte und Angebote</li>
+                <li>Dynamische Inhalte und Angebote.</li>
                 <li>Einheitliches Kundenerlebnis.</li>
               </ul>
             </td>
@@ -51,14 +51,14 @@ Die wichtigsten Vorteile der Integration von Adobe [!DNL Campaign] und AEM Exper
             <td>Adobe IMS-Zugriffstoken</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wenn Sie E-Mails basierend auf digitalen Formularübermittlungen automatisch senden möchten.</li>
+                    <li>Wenn Sie E-Mails automatisch senden möchten, die auf Übermittlungen digitaler Formulare basieren.</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>Lead-Erzeugung und -Pflege.</li>
-                <li>Ereignisregistrierung und -verfolgung.</li>
-                <li>Kundenfeedback und -interaktion.</li>
+                <li>Lead-Generierung und -Pflege.</li>
+                <li>Ereignisregistrierungen und Folgemaßnahmen.</li>
+                <li>Kundenfeedback und Interaktion.</li>
               </ul>
             </td>
         </tr>              

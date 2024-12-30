@@ -13,11 +13,11 @@ ht-degree: 2%
 
 {{experience-manager-description}}
 
-Die Integration von Adobe GenStudio for Performance Marketing und Experience Manager Assets Essentials bietet verschiedene Vorteile, darunter:
+Die Integration von Adobe GenStudio for Performance Marketing und Experience Manager Assets Essentials bietet mehrere Vorteile, darunter:
 
-+ **Lightweight review and approval**: Schnelles Hochladen, Überprüfen und Genehmigen von Assets zur Verwendung in Marketingerlebnissen.
-+ **Zentralisieren von Assets**: Zentrales Speichern markeninterner, genehmigter Assets, um kanalübergreifende Marketinginitiativen zu unterstützen.
-+ **Personalization im Maßstab**: Schnelles und einfaches Erstellen personalisierter Markenerlebnisse in großem Maßstab.
++ **Einfache Überprüfung und Genehmigung**: Schnelles Hochladen, Überprüfen und Genehmigen von Assets zur Verwendung in Marketing-Erlebnissen.
++ **Assets zentralisieren**: Speichern Sie markeninterne, genehmigte Assets zentral, um Omni-Channel-Marketing-Initiativen zu unterstützen.
++ **Maßstabsgerechte Personalization**: Erstellen Sie schnell und einfach markeninterne, personalisierte Marketing-Erlebnisse in großem Umfang.
 
 ## Allgemeine Integrationen
 
@@ -25,8 +25,8 @@ Die Integration von Adobe GenStudio for Performance Marketing und Experience Man
     <thead>
         <tr>
             <th>Experience Cloud-Anwendungen</th>
-            <th>Integration mit</th>
-            <th>Verwendungsbereiche</th>
+            <th>Integriert mit</th>
+            <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
         </tr>
     </thead>
@@ -36,13 +36,13 @@ Die Integration von Adobe GenStudio for Performance Marketing und Experience Man
             <td>AEM Assets in GenStudio for Performance Marketing verfügbar</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Erstellen Sie personalisierte Marketing-Erlebnisse für Ihre Marke und Ihr Unternehmen.</li>
+                    <li>Skalierte Erstellung markeninterner, personalisierter Marketing-Erlebnisse</li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Hochladen, Überprüfen und Genehmigen von Marken-Assets.</li>
-                    <li>Erstellen Sie Bildvarianten genehmigter Marken-Assets zur Verwendung in Marketingerlebnissen.</li>
+                    <li>Erstellen Sie Bildvarianten genehmigter Marken-Assets zur Verwendung in Marketing-Erlebnissen.</li>
                 </ul>
             </td>
         </tr>        

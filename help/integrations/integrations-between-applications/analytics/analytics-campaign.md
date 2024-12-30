@@ -1,6 +1,6 @@
 ---
-title: Integrieren von [!DNL Analytics] mit [!DNL Campaign]
-description: Erfahren Sie, wie Sie Adobe [!DNL Analytics] mit [!DNL Campaign] integrieren.
+title: Integrieren  [!DNL Analytics] mit [!DNL Campaign]
+description: Erfahren Sie, wie Sie Adobe [!DNL Analytics] with [!DNL Campaign] integrieren.
 solution: Analytics, Campaign, Campaign Standard
 feature: Integrations
 topic: Integrations

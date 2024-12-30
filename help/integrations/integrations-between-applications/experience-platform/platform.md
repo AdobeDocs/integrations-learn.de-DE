@@ -1,6 +1,6 @@
 ---
-title: Integrieren von Adobe [!DNL Experience Platform] mit anderen Adobe-Applikationen
-description: Erfahren Sie, wie Sie [!DNL Experience Platform] mit anderen Adobe-Anwendungen integrieren.
+title: Integrieren von Adobe [!DNL Experience Platform] mit anderen Adobe-Anwendungen
+description: Erfahren Sie, wie Sie  [!DNL Experience Platform]  mit anderen Adobe-Anwendungen integrieren.
 solution: Experience [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -17,26 +17,26 @@ ht-degree: 1%
 
 ---
 
-# Integrieren von Erlebnis [!DNL Platform] mit anderen Adobe-Applikationen
+# Integrieren von Experience [!DNL Platform] mit anderen Adobe-Anwendungen
 
-Adobe Experience [!DNL Platform] ist das leistungsfähigste, flexibelste und offenste System auf dem Markt für die Erstellung und Verwaltung von Komplettlösungen, die das Kundenerlebnis fördern. Viele neue Adobe-Anwendungen wurden auf Erlebnis [!DNL Platform] aufbauen, darunter:
+Adobe Experience [!DNL Platform] ist das leistungsfähigste, flexibelste und offenste System auf dem Markt für die Erstellung und Verwaltung kompletter Lösungen, die das Kundenerlebnis steigern. Viele neue Adobe-Anwendungen basieren auf Experience [!DNL Platform], darunter:
 
-* Customer Journey [!DNL Analytics]
+* Kunden-Journey [!DNL Analytics]
 * Journey Optimizer
-* Echtzeit-Kundendaten [!DNL Platform] (Real-Time CDP)
+* Real-time Customer Data [!DNL Platform] (Real-Time CDP)
 
-Die Integration von Anwendungen mit _mehreren [!DNL Platform] nativen Anwendungen_ führt zu einer Reihe gängiger Schritte. Je nachdem, welche Anwendungen Sie integrieren, werden jedoch unterschiedliche Anwendungsfälle entsperrt. Der Integrationsinhalt wird daher nach Anwendung geordnet. Siehe die Ressourcen unten.
+Die Integration von Anwendungen mit _mehreren [!DNL Platform]-nativen Anwendungen_ führt zu vielen gemeinsamen Schritten, aber je nachdem, welche Anwendungen integriert werden, können unterschiedliche Anwendungsfälle entsperrt werden. Der Integrationsinhalt ist daher nach Anwendung organisiert. Siehe Ressourcen unten.
 
 
-## Customer Journey [!DNL Analytics]
+## Kunden-Journey [!DNL Analytics]
 
-* [mit [!DNL Analytics]](../cja/customer-journey-analytics-analytics.md)
+* [durch [!DNL Analytics]](../cja/customer-journey-analytics-analytics.md)
 * [mit Real-Time CDP](../cja/cja-rtcdp.md)
 
-## Echtzeit-Kundendaten [!DNL Platform]
+## Real-time Customer Data [!DNL Platform]
 
-* [mit [!DNL Analytics]](../rtcdp/rtcdp-analytics.md)
+* [durch [!DNL Analytics]](../rtcdp/rtcdp-analytics.md)
 * [mit Audience Manager](../rtcdp/rtcdp-aam.md)
-* [mit [!DNL Campaign] v8](../rtcdp/rtcdp-campaign.md)
-* [mit Customer Journey [!DNL Analytics]](../rtcdp/rtcdp-cja.md)
-* [mit [!DNL Target]](../rtcdp/rtcdp-target.md)
+* [with [!DNL Campaign] v8](../rtcdp/rtcdp-campaign.md)
+* [mit Kunden-Journey [!DNL Analytics]](../rtcdp/rtcdp-cja.md)
+* [durch [!DNL Target]](../rtcdp/rtcdp-target.md)

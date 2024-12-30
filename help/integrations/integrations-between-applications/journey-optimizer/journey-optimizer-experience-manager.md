@@ -1,6 +1,6 @@
 ---
 title: Integrieren von Journey Optimizer mit Experience Manager
-description: Integrieren Sie AEM in Adobe Journey Optimizer, um Journey für Kunden zu erstellen und zu verwalten.
+description: Integrieren von AEM mit Adobe Journey Optimizer zum Erstellen und Verwalten von Kunden-Journey.
 solution: Journey Optimizer, Experience Manager
 feature: Integrations
 topic: Integrations

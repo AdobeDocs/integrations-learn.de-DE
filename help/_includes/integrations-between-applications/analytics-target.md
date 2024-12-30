@@ -13,19 +13,19 @@ ht-degree: 6%
 
 {{target-description}}
 
-Die wichtigsten Vorteile der Integration von Adobe [!DNL Analytics] und Adobe [!DNL Target] (A4T) sind:
+Die Integration von Adobe [!DNL Analytics] und Adobe [!DNL Target] (A4T) bietet folgende Hauptvorteile:
 
-+ **Datengesteuerte Personalisierung**: Verwenden Sie [!DNL Analytics] für zielgerichtete Aktivitäten in Adobe [!DNL Target], wodurch Personalisierungsstrategien verbessert werden.
-+ **Einheitliche Berichterstellung**: Bei der A4T-Integration werden [!DNL Target] - und [!DNL Analytics] -Berichte für eine umfassende Analyse kombiniert.
-+ **Optimiertes Targeting**: Stützen Sie Entscheidungen auf [!DNL Analytics] -Daten, um eine präzise Zielgruppensegmentierung und Inhaltsoptimierung zu erzielen.
-+ **Freigegebene Zielgruppen**: Verwenden Sie [!DNL Analytics], um detaillierte Segmente zu erstellen, und geben Sie diese für [!DNL Target] frei, um sie als Zielgruppen für Tests zu verwenden.
++ **Datengesteuerte Personalisierung**: Verwenden Sie [!DNL Analytics] für zielgerichtete Aktivitäten in Adobe-[!DNL Target], um Personalisierungsstrategien zu verbessern.
++ **Einheitliches Reporting**: Die A4T-Integration kombiniert [!DNL Target]- und [!DNL Analytics]-Berichte, um eine umfassende Analyse zu ermöglichen.
++ **Optimiertes Targeting**: basieren Entscheidungen auf [!DNL Analytics] Daten für eine präzise Zielgruppensegmentierung und Inhaltsoptimierung.
++ **Freigegebene Zielgruppen**: Verwenden Sie [!DNL Analytics], um detaillierte Segmente zu erstellen, und geben Sie sie für [!DNL Target] frei, die als Zielgruppen für Tests verwendet werden können.
 
 <table>
     <thead>
             <tr>
                 <th>Experience Cloud-Anwendungen</th>
-                <th>Integration mit</th>
-                <th>Verwendungsbereiche</th>
+                <th>Integriert mit</th>
+                <th>Verwendungszeitpunkt</th>
                 <th>Häufige Anwendungsfälle</th>
             </tr>
     </thead>
@@ -34,12 +34,12 @@ Die wichtigsten Vorteile der Integration von Adobe [!DNL Analytics] und Adobe [!
             <td rowspan="2">[!DNL Analytics] und [!DNL Target]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">at.js-Bibliothek für [!DNL Target] und appmeasurement.js-Bibliothek für [!DNL Analytics]</a></li>
+                    <li><a href="../../integrations/tutorials/analytics-target/analytics-target.md" target="_blank" rel="noreferrer">at.js-Bibliothek für [!DNL Target] und AppMeasurement.js-Bibliothek für [!DNL Analytics]</a></li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Sie möchten die Rich-Reporting-Funktionen von Adobe [!DNL Analytics] verwenden, um [!DNL Target]-Aktivitätsergebnisse anzuzeigen und zu analysieren.</li>
+                    <li>Sie möchten die umfangreichen Reporting-Funktionen von Adobe [!DNL Analytics] verwenden, um [!DNL Target] Aktivitätsergebnisse anzuzeigen und zu analysieren.</li>
                 </ul>
             </td>
             <td>
@@ -57,7 +57,7 @@ Die wichtigsten Vorteile der Integration von Adobe [!DNL Analytics] und Adobe [!
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Sie möchten [!DNL Analytics] -Segmente für [!DNL Target] -Zielgruppen freigeben.</li>
+                    <li>Sie [!DNL Analytics] Segmente für [!DNL Target] Audiences freigeben möchten.</li>
                 </ul>
             </td>
             <td>

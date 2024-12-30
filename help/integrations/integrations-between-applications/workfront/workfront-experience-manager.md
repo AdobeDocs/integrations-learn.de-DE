@@ -1,6 +1,6 @@
 ---
 title: Integrieren von Workfront mit Experience Manager
-description: Integrieren Sie Adobe Experience Manager (AEM) in Workfront, um Ihre Marketingvorgänge zu optimieren.
+description: Integrieren Sie Adobe Experience Manager (AEM) mit Workfront, um Ihre Marketing-Vorgänge zu optimieren.
 solution: Workfront, Experience Manager, Experience Manager Assets
 feature: Integrations
 topic: Integrations

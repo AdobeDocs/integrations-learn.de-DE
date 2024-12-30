@@ -1,6 +1,6 @@
 ---
-title: Integrieren von [!DNL Real-Time Customer Data Platform] mit Audience Manager
-description: Erfahren Sie, wie Sie Echtzeit-Kundendaten [!DNL Platform] in Audience Manager integrieren.
+title: Integration  [!DNL Real-Time Customer Data Platform]  Audience Manager
+description: Erfahren Sie, wie Sie Echtzeit-Kundendaten  [!DNL Platform]  Audience Manager integrieren.
 solution: Real-Time Customer Data Platform, Audience Manager
 feature: Integrations
 topic: Integrations

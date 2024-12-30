@@ -1,6 +1,6 @@
 ---
-title: Integrieren von [!DNL Analytics] mit [!DNL Commerce]
-description: Erfahren Sie, wie Sie [!DNL Analytics] mit Adobe [!DNL Commerce]  integrieren.
+title: Integrieren  [!DNL Analytics] mit [!DNL Commerce]
+description: Erfahren Sie, wie Sie  [!DNL Analytics]  mit Adobe  [!DNL Commerce] .
 solution: Analytics, Commerce
 feature: Integrations
 topic: Integrations

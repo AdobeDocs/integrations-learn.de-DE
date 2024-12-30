@@ -10,8 +10,8 @@ git-repo: https://github.com/AdobeDocs/integrations-learn.de-DE
 index: true
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 93%
+source-wordcount: '53'
+ht-degree: 98%
 
 ---
 

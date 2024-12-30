@@ -11,7 +11,7 @@ ht-degree: 22%
 ---
 
 
-# Integrations-Tutorials für [!DNL Experience Cloud] {#experience-cloud}
+# Tutorials zur [!DNL Experience Cloud] {#experience-cloud}
 
 + [[!DNL Experience Cloud] Integrationen](./overview.md)
 + Lösungskategorien{#solution-categories}
@@ -19,10 +19,10 @@ ht-degree: 22%
    + [B2B-Marketing](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
    + [Content-Management](./solution-categories/content-management.md)
-   + [Inhaltsversorgungskette](./solution-categories/content-supply-chain.md)
-   + [Journey von Kunden](./solution-categories/customer-journeys.md)
+   + [Inhaltslieferkette](./solution-categories/content-supply-chain.md)
+   + [Kunden-Journey](./solution-categories/customer-journeys.md)
    + [Dateneinblicke und Aktivierung](./solution-categories/data-insights.md)
-   + [Personalization im Maßstab](./solution-categories/personalization.md)
+   + [Personalization im großen Maßstab](./solution-categories/personalization.md)
 + Produktintegrationen{#integrations-between-applications}
    + [Übersicht](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
@@ -61,7 +61,7 @@ ht-degree: 22%
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
-   + Erlebnis [!DNL Platform]{#experience-platform}
+   + Experience [!DNL Platform]{#experience-platform}
       + [Übersicht](./integrations-between-applications/experience-platform/platform.md)
    + Journey Optimizer{#journey-optimizer}
       + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
@@ -83,7 +83,7 @@ ht-degree: 22%
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
 + Tutorial{#tutorials}
    + [!DNL Analytics] und [!DNL Commerce]{#analytics-commerce}
-      + [[!DNL Analytics] und  [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
+      + [[!DNL Analytics] und [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics] und CJA{#analytics-cja}
       + [[!DNL Analytics] und CJA](./tutorials/analytics-cja/experience-platform-edge.md)
       + [[!DNL Analytics] und CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
@@ -91,14 +91,14 @@ ht-degree: 22%
       + [[!DNL Analytics] und Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
       + [[!DNL Analytics] und Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] und [!DNL Target]{#analytics-target}
-      + [[!DNL Analytics] und  [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
+      + [[!DNL Analytics] und [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] und [!DNL Analytics]{#campaign-analytics}
-      + [Integrieren von [!DNL Campaign] Standard mit [!DNL Analytics] mithilfe des Tutorials &quot;Trigger&quot;](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + [Tutorial  [!DNL Campaign]  Integration von Standard mit  [!DNL Analytics]  Verwendung von Trigger](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign] und Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8 und Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] und Real-Time CDP{#campaign-real-time-cdp}
       + [[!DNL Campaign] v8 und Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
-   + Echtzeit-Kundendatenplattform{#rtcdp-target}
+   + Real-Team CDP{#rtcdp-target}
       + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
@@ -108,4 +108,4 @@ ht-degree: 22%
       + [Anleitung zur Integration](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
       + Anwendungsfälle {#use-cases}
          + [Überprüfung und Genehmigung in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-         + [Varianten mit Adobe GenStudio erstellen](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+         + [Erstellen von Varianten mit Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)

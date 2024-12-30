@@ -1,6 +1,6 @@
 ---
-title: Integrieren von [!DNL Analytics] und Echtzeit-Kundendaten [!DNL Platform] in das Quell-Connector-Tutorial für Experience [!DNL Platform] 1
-description: Erfahren Sie, wie Sie Adobe [!DNL Analytics] mit Echtzeit-Kundendaten [!DNL Platform] integrieren, indem Sie den Experience [!DNL Platform] Quell-Connector verwenden.
+title: Tutorial  [!DNL Analytics]  Integration und Echtzeit-Kundendaten  [!DNL Platform]  Experience  [!DNL Platform] -Quell-Connector
+description: Erfahren Sie, wie Sie  [!DNL Analytics]  Adobe mit Echtzeit-Kundendaten  [!DNL Platform]  Experience  [!DNL Platform] -Quell-Connector integrieren.
 solution: Real-Time Customer Data [!DNL Platform], [!DNL Analytics]
 feature: Integrations
 topic: Integrations
@@ -20,18 +20,18 @@ ht-degree: 2%
 
 ---
 
-# Integrieren von Adobe [!DNL Analytics] und Echtzeit-Kundendaten [!DNL Platform] in den Quell-Connector von Experience [!DNL Platform]
+# Integrieren von Adobe [!DNL Analytics] und Real-Time Customer Data [!DNL Platform] mit dem Quell-Connector von Experience [!DNL Platform]
 
 <ol>
-    <li><a href="https://experienceleague.adobe.com/?lang=de#dashboard/learning" _target="_blank" rel="noopener noreferrer">Erstellen Sie Schemas</a> , damit Daten erfasst werden.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html" _target="_blank" rel="noopener noreferrer">Erstellen Sie Datensätze</a> , damit Daten erfasst werden.</a></li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en" _target="_blank" rel="noopener noreferrer">Konfigurieren Sie die richtigen Identitäten und Identitäts-Namespaces für das Schema</a>, um sicherzustellen, dass die erfassten Daten einem einheitlichen Profil zugeordnet werden können.</li> 
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html?lang=de" _target="_blank" rel="noopener noreferrer">Aktivieren Sie die Schemas und Datensätze für profile</a>.</li>
-    <li>Erfassen Sie [!DNL Analytics] Daten über den Quell-Connector <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-adobe-analytics.html?lang=de" _target="_blank" rel="noopener noreferrer">Adobe [!DNL Analytics] </a> in die Experience-Plattform.</li>
-    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html" _target="_blank" rel="noopener noreferrer">Erstellen Sie Segmente in Erlebnis [!DNL Platform].</a> Das System bestimmt automatisch, ob das Segment als Batch (Data Connector) oder Streaming (Edge-Netzwerk) ausgewertet wird.</li>
+    <li><a href="https://experienceleague.adobe.com/?lang=de#dashboard/learning" _target="_blank" rel="noopener noreferrer">Schemata erstellen</a> für aufzunehmende Daten.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html" _target="_blank" rel="noopener noreferrer">Erstellen von </a>) für aufzunehmende Daten.</a></li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/label-ingest-and-verify-identity-data.html?lang=en" _target="_blank" rel="noopener noreferrer">Konfigurieren Sie die richtigen Identitäten und Identity-Namespaces im Schema</a> um sicherzustellen, dass die aufgenommenen Daten mit einem einheitlichen Profil verknüpft werden können.</li> 
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/bring-data-into-the-real-time-customer-profile.html?lang=de" _target="_blank" rel="noopener noreferrer">Aktivieren der Schemata und Datensätze für das Profil</a>.</li>
+    <li>Nehmen Sie [!DNL Analytics] Daten mithilfe des <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-adobe-analytics.html?lang=de" _target="_blank" rel="noopener noreferrer">Adobe [!DNL Analytics]-Quell-Connectors in Experience Platform </a>.</li>
+    <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/audiences/create-audiences.html" _target="_blank" rel="noopener noreferrer">Erstellen von Segmenten in Experience [!DNL Platform].</a> Das System bestimmt automatisch, ob das Segment als Batch (Daten-Connector) oder Streaming (Edge-Netzwerk) ausgewertet wird.</li>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data.html" _target="_blank" rel="noopener noreferrer">Konfigurieren Sie Ziele für die Freigabe von Profilattributen und Zielgruppenmitgliedschaften für die gewünschten Ziele.</a></li>   
 </ol>
 
 >[!NOTE]
 >
->Die standardmäßigen Workflow-Schritte für den Quell-Connector Adobe [!DNL Analytics] erstellen das Schema und den Datensatz, die zur Erfassung der Daten von [!DNL Analytics] &quot;unverändert&quot;verwendet werden. Daher werden die ersten beiden Schritte vom System verarbeitet. Der Zuordnungs-Workflow erfordert die Erstellung benutzerdefinierter Attribute. Befolgen Sie daher die Schritte in vollem Umfang.
+>Die standardmäßigen Workflow-Schritte für den Quell-Connector für Adobe-[!DNL Analytics] erstellen das Schema und den Datensatz, die verwendet werden, um die Daten aus [!DNL Analytics] Istzustand aufzunehmen. Daher werden die ersten beiden Schritte vom System verarbeitet. Der Zuordnungs-Workflow erfordert das Erstellen benutzerdefinierter Attribute. Befolgen Sie daher die Sequenz der Schritte vollständig.

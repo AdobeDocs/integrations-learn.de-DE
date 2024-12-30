@@ -1,6 +1,6 @@
 ---
 title: Integrieren von Acrobat Sign mit Experience Manager
-description: Integrieren Sie Adobe Experience Manager (AEM) in Acrobat Sign, um das Senden von Dokumenten zur Signatur zu optimieren.
+description: Integrieren Sie Adobe Experience Manager (AEM) mit Acrobat Sign, um das Senden von Dokumenten zur Signatur zu optimieren.
 solution: Acrobat Sign, Experience Manager, Experience Manager Forms
 feature: Integrations
 topic: Integrations

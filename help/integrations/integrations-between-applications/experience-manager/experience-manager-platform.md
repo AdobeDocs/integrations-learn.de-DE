@@ -1,6 +1,6 @@
 ---
-title: AEM mit Erlebnis integrieren [!DNL Platform]
-description: Integrieren Sie Adobe Experience Manager (AEM) in Experience [!DNL Platform] s, um den Wert Ihrer Daten zu maximieren.
+title: Integrieren von AEM mit Experience Platform [!DNL Platform]
+description: Integrieren Sie Adobe Experience Manager (AEM) mit Experience  [!DNL Platform] , um den Wert Ihrer Daten zu maximieren.
 solution: Experience Manager, Experience Manager Sites, Experience [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 4%
 ---
 
 
-# Integrieren von Experience Manager mit Erlebnis [!DNL Platform]
+# Integrieren von Experience Manager mit Experience [!DNL Platform]
 
 {{$include /help/_includes/integrations-between-applications/experience-manager-platform.md}}

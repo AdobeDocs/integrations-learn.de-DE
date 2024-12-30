@@ -1,6 +1,6 @@
 ---
-title: Integrieren von [!DNL Analytics] mit [!DNL Real-Time Customer Data Platform]
-description: Erfahren Sie, wie Sie [!DNL Analytics] mit den Echtzeit-Kundendaten [!DNL Platform] integrieren.
+title: Integrieren  [!DNL Analytics] mit [!DNL Real-Time Customer Data Platform]
+description: Erfahren Sie, wie  [!DNL Analytics]  mit den Echtzeit-Kundendaten integriert  [!DNL Platform].
 solution: Analytics, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 5%
 
 ---
 
-# Integrieren von [!DNL Analytics] mit Echtzeit-Kundendaten [!DNL Platform]
+# Integrieren von [!DNL Analytics] mit Real-time Customer Data [!DNL Platform]
 
 {{$include /help/_includes/integrations-between-applications/analytics-rtcdp.md}}

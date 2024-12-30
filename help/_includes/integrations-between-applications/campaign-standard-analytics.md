@@ -13,11 +13,11 @@ ht-degree: 3%
 
 {{analytics-description}}
 
-Die Adobe [!DNL Analytics]-Integration mit Adobe [!DNL Campaign] ermöglicht die nahtlose Datenfreigabe und E-Mail-Tracking:
+Die Integration von Adobe [!DNL Analytics] mit Adobe [!DNL Campaign] ermöglicht die nahtlose Datenfreigabe und das E-Mail-Tracking:
 
-+ **KPI-Daten freigeben** von Adobe [!DNL Campaign] an Adobe [!DNL Analytics].
-+ **Richten Sie die Tracking-Formeln** mit Adobe [!DNL Analytics] -Parametern ein.
-+ Verwenden Sie Trigger, um **personalisierte E-Mails zu senden**, basierend auf bestimmten verfolgten Verhaltensweisen.
++ **KPI-Daten freigeben** vom Adobe-[!DNL Campaign] zum Adobe-[!DNL Analytics].
++ **Anreicherung von Tracking** Formeln mit Adobe-[!DNL Analytics].
++ Verwenden Sie Trigger, um **personalisierte E-Mails** basierend auf bestimmten verfolgten Verhaltensweisen zu senden.
 
 ## Allgemeine Integrationen
 
@@ -25,24 +25,24 @@ Die Adobe [!DNL Analytics]-Integration mit Adobe [!DNL Campaign] ermöglicht die
     <thead>
         <tr>
             <th>Experience Cloud-Anwendungen</th>
-            <th>Integration mit</th>
-            <th>Verwendungsbereiche</th>
+            <th>Integriert mit</th>
+            <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
         </tr>
     </thead>
      <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] Standard mit [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Externes [!DNL Campaign]-Konto in Verbindung mit Adobe [!DNL Analytics] und der Admin-Konfiguration in [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Externes [!DNL Campaign], das mit der Adobe-[!DNL Analytics] und der Admin-Konfiguration in verknüpft ist [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wenn Sie den Erfolg Ihres E-Mail-Versands von [!DNL Campaign] direkt in Adobe [!DNL Analytics] verfolgen möchten.</li>
+                    <li>Wenn Sie den Erfolg Ihrer E-Mail-Sendungen von [!DNL Campaign] direkt in Adobe [!DNL Analytics] verfolgen möchten.</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>Erweitern Sie Ihre Analyseberichte mit [!DNL Campaign] Versanddaten, einschließlich gesendeter E-Mails, angeklickter E-Mails, geöffneter E-Mails, zugestellter E-Mails, Abmeldungen und Bounces.</li>
-                <li>Analysieren Sie nachgelagerte Konversionsereignisse für [!DNL Campaign] -Klicks, die Traffic zu Ihren digitalen Eigenschaften leiten, z. B. Formularempfänger, Online-Bestellungen oder andere in [!DNL Analytics] erfasste Ereignisse.</li>
+                <li>Verbessern Sie Ihre Analytics-Berichte mit [!DNL Campaign] Versanddaten, einschließlich gesendeter E-Mails, angeklickter, geöffneter E-Mails, zugestellter E-Mails, Abmeldungen und Bounces.</li>
+                <li>Analysieren Sie nachgelagerte Konversionsereignisse auf [!DNL Campaign] Klicks, die den Traffic auf Ihre digitalen Eigenschaften lenken, z. B. Formular-Leads, Online-Bestellungen oder andere in [!DNL Analytics] erfasste Ereignisse.</li>
               </ul>
             </td>
         </tr>
@@ -50,13 +50,13 @@ Die Adobe [!DNL Analytics]-Integration mit Adobe [!DNL Campaign] ermöglicht die
             <td><a href="../../integrations/tutorials/campaign-analytics/campaign-analytics-trigger.md" target="_blank" rel="noreferrer">Trigger</a></li>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Trigger-Transaktionsnachrichten mit Echtzeit-Ereignisdaten.</li>
+                    <li>Trigger von Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten.</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>Registrierungsbestätigung.</li>
-                <li>Warenkorb zum Checkout.</li>
+                <li>Anmeldebestätigung.</li>
+                <li>Warenkorb-Checkout.</li>
               </ul>
             </td>
         </tr>              

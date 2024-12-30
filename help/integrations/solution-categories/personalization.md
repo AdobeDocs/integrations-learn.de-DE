@@ -1,6 +1,6 @@
 ---
-title: Anwendungsintegrationen zur Personalisierung im Maßstab
-description: Gestalten Sie personalisierte Erlebnisse in jedem Augenblick.
+title: Anwendungsintegrationen für skalierbare Personalisierung
+description: Gestalten Sie personalisierte Erlebnisse zu einem Teil jedes Augenblicks.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
@@ -9,9 +9,9 @@ ht-degree: 1%
 
 ---
 
-# Personalization im Maßstab
+# Personalization im großen Maßstab
 
-In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwarten die Kunden nun Erlebnisse, die auf ihre individuellen Wünsche und Bedürfnisse zugeschnitten sind. Die Nutzung der Funktionen von Adobe Experience Cloud ermöglicht es uns, umfassende Kundendaten zu sammeln und zu analysieren und so wertvolle Einblicke in Verhaltensweisen, Interessen und Präferenzen zu erhalten. Dieses tiefe Verständnis erleichtert die Bereitstellung personalisierter Erlebnisse über verschiedene Touchpoints hinweg und sorgt so für sinnvolle und ansprechende Interaktionen. Durch die Nutzung der Leistungsfähigkeit von Adobe Experience Cloud wird das gesamte Personalisierungspotenzial freigesetzt, die Kundenverbindungen gestärkt, die Treue gefördert und das Geschäftswachstum vorangetrieben.
+In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landschaft erwarten Kunden immer mehr Erlebnisse, die auf ihre individuellen Präferenzen und Bedürfnisse zugeschnitten sind. Durch die Nutzung der Funktionen von Adobe Experience Cloud können wir umfangreiche Kundendaten erfassen und analysieren und so wertvolle Einblicke in Verhaltensweisen, Interessen und Vorlieben gewinnen. Dieses tiefe Verständnis erleichtert die Bereitstellung personalisierter Erlebnisse über verschiedene Touchpoints hinweg und stellt so aussagekräftige und ansprechende Interaktionen sicher. Durch die Nutzung der Leistungsfähigkeit von Adobe Experience Cloud wird das volle Potenzial der Personalisierung ausgeschöpft, was stärkere Kundenverbindungen fördert, die Kundentreue stärkt und das Geschäftswachstum steigert.
 
 <table>
  <thead>
@@ -24,15 +24,15 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
   </thead>
   <tbody>
     <tr>
-      <td><strong>Personalisierte PDF-Dokumente erstellen</strong></td>
+      <td><strong>Erstellen personalisierter PDF-Dokumente</strong></td>
       <td>
         Generieren von Kommunikationsdokumenten für das Signieren basierend auf dem Benutzer
-        Auswahl/Voreinstellungen.
+        Auswahlen/Voreinstellungen.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Dynamisch generierte NDA auf der Basis von Daten aus einem AEM präsentieren
+            Dynamisch generierte NDA basierend auf den Daten einer AEM präsentieren
             Forms-Übermittlung zum Signieren
           </li>
         </ul>
@@ -42,22 +42,22 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
           href="../integrations-between-applications/experience-manager/experience-manager-acrobat-sign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms und Signieren</a
+          >AEM Forms und Sign</a
         >
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>Datenanalyse und Berichterstellung</strong></td>
+      <td rowspan="2"><strong>Datenanalyse und Reporting</strong></td>
       <td>
-        Analysieren von Verhaltensdaten aus digitalen Erlebnissen <br />Verwenden von Adobe
-        [!DNL Analytics] Verhaltensdaten in Analysis Workspace in Customer Journey
-        2.[!DNL Analytics]
+        Analysieren von Verhaltensdaten aus digitalen Erlebnissen <br />Adobe verwenden
+        [!DNL Analytics] von Verhaltensdaten in Analysis Workspace auf Kunden-Journey
+        [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Analyse der Konvertierungspfade oben/unten</li>
-          <li>Analyse der Kanalinteraktion und -konversion</li>
-          <li>Erläuterung der am häufigsten angezeigten Inhalte</li>
+          <li>Konvertierungspfade oben/unten analysieren</li>
+          <li>Kanalinteraktion und -konvertierung analysieren</li>
+          <li>Grundlegendes zu am häufigsten angezeigten Inhalten</li>
           <li>Die wichtigsten Produktkategorien und Produkte</li>
           <li>
             Durchführen einer Tool-Nutzungsanalyse zur Optimierung von Self-Service-Erlebnissen
@@ -69,19 +69,19 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] und Customer Journey [!DNL Analytics]</a
+          >[!DNL Analytics] und Kunden-Journey [!DNL Analytics]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Berichterstellung für Personalisierungsaktivitäten<br />Optimierung der Analyse
-        Testergebnisse, einschließlich A/B-Tests, unter Verwendung von Adobe [!DNL Target] und
-        Generieren umfassender Berichte über Adobe [!DNL Analytics].
+        Reporting für Personalisierungsaktivitäten<br />Optimierung analysieren
+        Testergebnisse, einschließlich A/B-Tests, unter Verwendung von Adobe-[!DNL Target] und
+        Erstellung umfassender Berichte durch Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Anzeigen von A/B-Testergebnissen in Rich-Analytics-Berichten</li>
+          <li>Anzeigen von A/B-Testergebnissen in umfangreichen Analyseberichten</li>
         </ul>
       </td>
       <td>
@@ -96,12 +96,12 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     <tr>
       <td><strong>E-Mail-Sendungen personalisieren</strong></td>
       <td>
-        Personalisieren Sie E-Mail-Sendungen mit dynamischem Inhalt mithilfe des
+        Personalisieren von E-Mail-Sendungen mit dynamischen Inhalten mithilfe der
         Funktionen von Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Personalisierte Angebote zu Kunden-E-Mails hinzufügen</li>
+          <li>Hinzufügen personalisierter Angebote zu Kunden-E-Mails</li>
         </ul>
       </td>
       <td>
@@ -115,27 +115,27 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     </tr>
     <tr>
       <td rowspan="2">
-        <strong>Zielgruppen für Personalisierung und Anzeigenplattformen erweitern</strong>
+        <strong>Erweiterung der Zielgruppen für Personalisierungs- und Anzeigenplattformen</strong>
       </td>
       <td>
-        Verwenden Sie Audience Manager-Segmente, um Zielgruppen in Real-Time CDP zu erstellen, um
-        Verwendung in Personalisierungs- und Remarketing-Taktiken.
+        Verwenden von Audience Manager-Segmenten zum Erstellen von Zielgruppen in Real-Time CDP, um
+        wird in Personalisierungs- und Remarketing-Taktiken verwendet.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Anonyme Zielgruppenbestimmung und Personalisierung für digitale Zielgruppen durchführen
-            Website, mobile App oder unterstützte Werbekanäle
+            Anonymes Targeting digitaler Zielgruppen und Personalisierung für
+            Die Website, die Mobile App oder auf unterstützten Werbekanälen
           </li>
           <li>
-            Optimieren Sie Landingpage- und Vorauthentifizierungserlebnisse basierend auf
-            bekannte Geräte- und Verhaltensmerkmale
+            Optimieren Sie die Erlebnisse auf der Landingpage und vor der Authentifizierung auf der Grundlage von
+            Bekannte Geräte- und Verhaltenseigenschaften
           </li>
           <li>
-            Nutzung des Drittanbieter-Datennetzwerks von Audience Manager für weitere
+            Nutzen des Audience Manager-Datennetzwerks von Drittanbietern, um
             Zielgruppen für das Targeting verfeinern und erweitern
           </li>
-          <li>Audience Manager-Segmente für RTCDP freigeben</li>
+          <li>Freigeben von Audience Manager-Segmenten für RTCDP</li>
         </ul>
       </td>
       <td>
@@ -143,26 +143,26 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager- und Echtzeit-Kundendaten [!DNL Platform]</a
+          >Audience Manager- und Echtzeit-[!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Verwenden Sie [!DNL Analytics] -Daten zum Erstellen von Zielgruppen, die in der Personalisierung verwendet werden sollen, oder
+        Verwenden Sie [!DNL Analytics] Daten zum Erstellen von Zielgruppen, die in der Personalisierung oder
         Remarketing-Taktiken.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Zielgruppenbestimmung und Personalisierung digitaler Zielgruppen auf Geräten oder
-            unterstützte Werbekanäle.
+            Zielgruppen-Targeting und Personalisierung für digitale Medien auf Geräten oder
+            Unterstützte Werbekanäle.
           </li>
           <li>
-            Bekannte Kunden-Landingpages und anonyme Erlebnisse optimieren
+            Bekannte Landingpages und anonyme Erlebnisse von Kunden optimieren
             basierend auf Geräte- und Verhaltensattributen.
           </li>
-          <li>Aktivieren Sie Zielgruppen für bekannte Kanäle wie E-Mail und SMS.</li>
+          <li>Zielgruppen für bekannte Kanäle wie E-Mail und SMS aktivieren.</li>
         </ul>
       </td>
       <td>
@@ -170,22 +170,22 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] und Echtzeit-Kundendaten [!DNL Platform]</a
+          >[!DNL Analytics] und Real-time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>Web-Erlebnisse personalisieren</strong></td>
       <td>
-        Anpassen von Erlebnissen für Einzelseiten-Apps (SPA) durch effektive
-        Verwendung AEM Headless in Verbindung mit Adobe [!DNL Target].
+        Anpassen von Single Page Application (SPA)-Erlebnissen durch effektive
+        Verwendung von AEM Headless in Verbindung mit Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Personalisierung von SPA und mobilen Apps</li>
+          <li>Personalisierung von SPA und Mobile Apps</li>
           <li>Personalisierte API-Antworten.</li>
-          <li>[!DNL Target]n Inhaltsbereitstellung.</li>
-          <li>A/B-Testvarianten.</li>
+          <li>[!DNL Target]Inhaltsbereitstellung bearbeiten.</li>
+          <li>A/B-Testvarianzen.</li>
         </ul>
       </td>
       <td>
@@ -199,15 +199,15 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     </tr>
     <tr>
       <td>
-        Bereitstellung maßgeschneiderter Website-Erlebnisse durch effektive Nutzung von AEM Sites
-        und Adobe [!DNL Target] zur Personalisierung.
+        Bereitstellen maßgeschneiderter Website-Erlebnisse durch effektive Nutzung von AEM Sites
+        und Adobe-[!DNL Target] zur Personalisierung.
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Personalisierung AEM Website.</li>
-          <li>Personalisieren des Website-Inhalts.</li>
-          <li>Benutzererlebnisse optimieren.</li>
-          <li>A/B-Testvarianten.</li>
+          <li>AEM-Website-Personalisierung.</li>
+          <li>Personalisieren von Website-Inhalten</li>
+          <li>Optimieren Sie Benutzererlebnisse.</li>
+          <li>A/B-Testvarianzen.</li>
         </ul>
       </td>
       <td>
@@ -222,13 +222,13 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
     <tr>
       <td><strong>Digitale Erlebnisse personalisieren</strong></td>
       <td>
-        Verwenden von Echtzeit-Kundenprofilen und zentral verwalteten [!DNL Platform] Segmenten
-        Personalisieren von Nachrichten über Web, Mobile und andere digitale Kanäle hinweg
+        Verwenden von Echtzeit-Kundenprofilen und zentral verwalteten [!DNL Platform]
+        So personalisieren Sie Nachrichten über Web-, Mobile- und andere digitale Kanäle
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Inhaltspersonalisierung für bekannte Besucher</li>
-          <li>Treueanmeldung und -beteiligung erhöhen</li>
+          <li>Personalisierung von Inhalten für bekannte Besucher</li>
+          <li>Erhöhen der Treue, Anmeldung und Teilnahme</li>
           <li>Identifizieren und Interagieren von Kunden mit Abwanderungsrisiko</li>
           <li>Personalisierung von Angeboten in Echtzeit</li>
         </ul>
@@ -238,19 +238,19 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Echtzeit-Kundendaten [!DNL Platform] und [!DNL Target]</a
+          >Real-time Customer Data [!DNL Platform] und [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
-      <td><strong>Lead-Generierung verbessern</strong></td>
+      <td><strong>Verbessern der Lead-Generierung</strong></td>
       <td>
-        Verwenden von Echtzeit-Kundenprofilen und zentral verwalteten [!DNL Platform] Segmenten
-        Personalisieren von Nachrichten über Web, Mobile und andere digitale Kanäle hinweg
+        Verwenden von Echtzeit-Kundenprofilen und zentral verwalteten [!DNL Platform]
+        So personalisieren Sie Nachrichten über Web-, Mobile- und andere digitale Kanäle
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Inhaltspersonalisierung für bekannte Besucher</li>
+          <li>Personalisierung von Inhalten für bekannte Besucher</li>
         </ul>
       </td>
       <td>
@@ -258,7 +258,7 @@ In der heutigen, hochwettbewerbsfähigen und digital gesteuerten Landschaft erwa
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Echtzeit-Kundendaten [!DNL Platform] und [!DNL Target]</a
+          >Real-time Customer Data [!DNL Platform] und [!DNL Target]</a
         >
       </td>
     </tr>

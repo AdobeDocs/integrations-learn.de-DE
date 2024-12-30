@@ -1,5 +1,5 @@
 ---
-title: Integrieren von [!DNL Campaign] Standard mit [!DNL Analytics] mithilfe des Tutorials "Trigger"
+title: Tutorial  [!DNL Campaign]  Integration von Standard mit  [!DNL Analytics]  Verwendung von Trigger
 description: Erfahren Sie, wie Sie Trigger für Transaktionsnachrichten konfigurieren und verwenden.
 solution: Analytics, Campaign, Campaign Standard
 feature: Integrations
@@ -20,17 +20,17 @@ ht-degree: 44%
 
 ---
 
-# Integrieren von [!DNL Campaign] Standard mit [!DNL Analytics] mithilfe des Trigger-Tutorials
+# Tutorial zur Integration von [!DNL Campaign] Standard mit [!DNL Analytics] mithilfe von Trigger
 
 Erfahren Sie, wie Sie Trigger für Transaktionsnachrichten konfigurieren und verwenden.
 
-## Adobe Experience [!DNL Platform]-Datenerfassung für Trigger konfigurieren
+## Konfigurieren der Adobe Experience [!DNL Platform]-Datenerfassung für Trigger
 
-Erfahren Sie, wie Sie die Datenerfassung von Erlebnis [!DNL Platform] Adobe durchführen und die erforderlichen Eigenschaften zu Ihrer Website hinzufügen, um Ihre Konfiguration zu testen.
+Erfahren Sie, wie Sie die Experience [!DNL Platform]-Datenerfassung Adobe und die erforderlichen Eigenschaften zu Ihrer Website hinzufügen, um Ihre Konfiguration zu testen.
 
 >[!IMPORTANT]
 >
-> Launch ist jetzt die Funktion Tags von Adobe Experience [!DNL Platform]. Sie finden sie unter **Adobe Erlebnis [!DNL Platform] Datenerfassungen**.
+> Launch ist jetzt die Tag-Funktion von Adobe Experience [!DNL Platform]. Sie finden sie unter **Adobe Experience [!DNL Platform]-Datenerfassungen**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
 
@@ -42,7 +42,7 @@ Erfahren Sie, wie Sie in Experience Cloud Trigger konfigurieren.
 
 ## Erstellen eines Triggers in [!DNL Campaign] Standard
 
-Erfahren Sie, wie Sie ein Trigger-Ereignis in [!DNL Campaign] Standard erstellen.
+Erfahren Sie, wie Sie in [!DNL Campaign] Standard ein Trigger-Ereignis erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: Integrieren von Audience Manager mit  [!DNL Analytics]
-description: Erfahren Sie, wie Sie Audience Manager mit [!DNL Analytics] integrieren.
+title: Integrieren von Audience Manager mit [!DNL Analytics]
+description: Erfahren Sie, wie Sie Audience Manager mit  [!DNL Analytics] integrieren.
 solution: Audience Manager, [!DNL Analytics]
 feature: Integrations
 topic: Integrations

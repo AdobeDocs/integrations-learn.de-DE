@@ -1,6 +1,6 @@
 ---
-title: AEM mit GenStudio for Performance Marketing integrieren
-description: Integrieren Sie AEM in GenStudio for Performance Marketing, um die Inhaltsbereitstellungskette zu beschleunigen.
+title: Integrieren von AEM mit GenStudio for Performance Marketing
+description: Integrieren Sie AEM mit GenStudio for Performance Marketing, um die Bereitstellung von Inhalten zu beschleunigen.
 solution: Experience Manager, GenStudio for Performance Marketing
 feature: Integrations
 topic: Integrations

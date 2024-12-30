@@ -7,23 +7,23 @@ ht-degree: 0%
 ---
 
 
-# Integration von [!DNL Analytics] und Audience Managern
+# Integration von [!DNL Analytics] und Audience Manager
 
 {{analytics-description}}
 
 {{audience-manager-description}}
 
-Durch die Aktivierung dieser Integration, die serverseitige Weiterleitung von Adobe [!DNL Analytics] -Daten an Audience Manager, erhalten Audience Manager eine der wichtigsten Datenquellen, nämlich Online-Kundenverhaltensdaten. Diese Daten können dann mit anderen Daten kombiniert werden, z. B. Erstanbieter-CRM-Daten oder Partnerdaten von Drittanbietern, um umfangreiche Kundensegmente zu erstellen. Darüber hinaus werden Audience Manager-Segmente in der Antwort zur weiteren Besucheranalyse zurück an die Webseite gesendet. Beide dieser wertvollen Anwendungsfälle werden nachfolgend beschrieben.
+Durch die Aktivierung dieser Integration und die Server-seitige Weiterleitung von Adobe-[!DNL Analytics] an den Audience Manager erhält Audience Manager eine seiner wichtigsten Datenquellen, nämlich Online-Kundenverhaltensdaten. Diese Daten können dann mit anderen Daten kombiniert werden, z. B. Erstanbieter-CRM-Daten oder Partnerdaten von Drittanbietern, um umfangreiche Kundensegmente zu erstellen. Audience Manager Darüber hinaus werden Besuchersegmente in der Antwort zur weiteren Besucheranalyse an die Web-Seite zurückgesendet. Beide wertvollen Anwendungsfälle werden nachfolgend beschrieben.
 
-Die wichtigsten Vorteile der Integration von Adobe [!DNL Analytics] und Audience Manager sind:
+Die Integration von Adobe [!DNL Analytics] und Audience Manager bietet folgende Vorteile:
 
-+ **Verbesserte Segmentierung**: Kombinieren Sie Adobe [!DNL Analytics]- und Audience Manager-Daten für präzise, personalisierte Zielgruppensegmente in Marketingkampagnen.
++ **Erweiterte Segmentierung**: Kombinieren Sie Adobe-[!DNL Analytics]- und Audience Manager-Daten, um präzise, personalisierte Zielgruppensegmente in Marketing-Kampagnen zu erhalten.
 + **Einheitliche Kundenprofile**: Integrieren Sie Datenquellen, um Interaktionen und Verhaltensweisen zu verstehen, und erstellen Sie umfassende Kundenprofile.
-+ **Verbesserte Anzeigeneffizienz**: Optimieren Sie Anzeigen mit datengesteuertem Targeting aus der Adobe [!DNL Analytics]- und Audience Manager-Integration.
-+ **Datenbasierte Entscheidungen**: Informieren Sie über detaillierte Einblicke, führen Sie Adobe [!DNL Analytics]- und Audience Manager-Daten zusammen.
-+ **Personalisierte Erlebnisse**: Passen Sie Ihre Inhalte und Angebote an und bereichern Sie die Kundeninteraktionen über Touchpoints hinweg mithilfe beider Plattformen.
++ **Verbesserte Anzeigeneffektivität**: Optimieren Sie Anzeigen mit datengesteuertem Targeting durch die Integration von Adobe-[!DNL Analytics] und Audience Manager.
++ **Datengesteuerte Entscheidungen**: Informieren Sie Entscheidungen durch detaillierte Einblicke und das Zusammenführen von Adobe-[!DNL Analytics]- und Audience Manager-Daten.
++ **Personalisierte Erlebnisse**: Passen Sie Ihre Inhalte und Angebote an und bereichern Sie mithilfe beider Plattformen die Kundeninteraktionen über Touchpoints hinweg.
 
-Insgesamt führt diese Integration wertvolle Daten und Zielgruppeneinblicke zusammen. Sie ermöglicht es Unternehmen, zielgerichtetere und relevantere Marketing-Kampagnen zu erstellen und gleichzeitig ein tieferes Verständnis der Präferenzen und Verhaltensweisen ihrer Kunden zu gewinnen.
+Insgesamt bringt diese Integration wertvolle Daten und Zielgruppeneinblicke zusammen. Es ermöglicht Unternehmen, zielgerichtetere und relevantere Marketing-Kampagnen zu erstellen und dabei ein tieferes Verständnis der Vorlieben und Verhaltensweisen ihrer Kunden zu gewinnen.
 
 ## Allgemeine Integrationen
 
@@ -31,45 +31,45 @@ Insgesamt führt diese Integration wertvolle Daten und Zielgruppeneinblicke zusa
     <thead>
         <tr>
             <th>Experience Cloud-Anwendungen</th>
-            <th>Integration mit</th>
-            <th>Verwendungsbereiche</th>
+            <th>Integriert mit</th>
+            <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                <a href="/docs/analytics-learn/tutorials/integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.html" target="_blank" rel="noreferrer">[!DNL Analytics] Senden von Daten an Audience Manager</a>
+                <a href="/docs/analytics-learn/tutorials/integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.html" target="_blank" rel="noreferrer">[!DNL Analytics] Senden von Daten an Audience Manager </a>
             </td>
-            <td>Adobe [!DNL Analytics] tags-Erweiterung oder AppMeasurement.js mit aktivierter serverseitiger Weiterleitung</td>
+            <td>Adobe [!DNL Analytics] Tags-Erweiterung oder AppMeasurement.js mit aktivierter Server-seitiger Weiterleitung</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wenn Sie Adobe [!DNL Analytics] -Daten an Audience Manager senden möchten, um Segmente zu erstellen, die für andere Adobe Experience Cloud-Ziele, personenbasierte Ziele oder andere gerätebasierte und benutzerdefinierte Ziele, die von Audience Manager unterstützt werden, freigegeben werden können.</li>
+                    <li>Wenn Sie Adobe-[!DNL Analytics]-Daten an Audience Manager senden möchten, um Segmente zu erstellen, die für andere Adobe Experience Cloud-Ziele, personenbasierte Ziele oder andere gerätebasierte und benutzerdefinierte Ziele, die von Audience Manager unterstützt werden, freigegeben werden können.</li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Geben Sie Segmente für Anzeigenplattformen frei, die in [!DNL Analytics] erfasste Verhaltensattribute enthalten.</li>
-                    <li>Reichern Sie Segmente mit [!DNL Analytics] -Daten an, um hochwertige, kanalübergreifende Segmente zu erstellen, die für das On-site-Targeting verwendet werden.</li>
-                    <li>Ebene der [!DNL Analytics] -Daten in Segmente, die von Hash-Kennungen (z. B. E-Mail) zur Verwendung in Social-Media-Plattformen abgeleitet wurden.</li>
+                    <li>Reichern Sie Segmente mit [!DNL Analytics] an, um hochwertige kanalübergreifende Segmente zu erstellen, die beim Targeting auf der Site verwendet werden können.</li>
+                    <li>Datenschicht [!DNL Analytics] Segmenten, die über Hash-Kennungen wie E-Mail verschlüsselt wurden, um sie auf Social-Media-Plattformen zu verwenden.</li>
                 </ul>
             </td>
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Manager, der Daten an [!DNL Analytics]</a> zurücksendet
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Manager beim Zurücksenden von Daten an [!DNL Analytics]</a>
             </td>
-            <td>Adobe [!DNL Analytics] tags-Erweiterung oder AppMeasurement.js mit aktivierter serverseitiger Weiterleitung</td>
+            <td>Adobe [!DNL Analytics] Tags-Erweiterung oder AppMeasurement.js mit aktivierter Server-seitiger Weiterleitung</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wenn Sie Segmente von Audience Manager für [!DNL Analytics] freigeben möchten, um die Zielgruppenerkennung, -segmentierung und -optimierung zu unterstützen.</li>
+                    <li>Wenn Sie Segmente von Audience Manager für [!DNL Analytics] freigeben möchten, um Informationen zu Zielgruppenerkennung, Segmentierung und Optimierung bereitzustellen.</li>
                 </ul>
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Verwenden Sie Audience Manager-Segmente, die demografische Daten von Drittanbietern in [!DNL Analytics] -Berichten enthalten.</li>
-                    <li>Verwenden Sie Audience Manager-Segmente, die Kampagnendaten von Anzeigen-Servern in [!DNL Analytics] -Berichten enthalten.</li>
-                    <li>Verwenden Sie Audience Manager-Segmente, die integrierte CRM-Daten in [!DNL Analytics] -Berichten enthalten.</li>
+                    <li>Verwenden Sie Audience Manager-Segmente, die demografische Daten von Drittanbietern in [!DNL Analytics] enthalten.</li>
+                    <li>Verwenden Sie Audience Manager-Segmente, die Kampagnendaten von Werbeservern in [!DNL Analytics] enthalten.</li>
+                    <li>Verwenden Sie Audience Manager-Segmente, die integrierte CRM-Daten in [!DNL Analytics] enthalten.</li>
                 </ul>
             </td>
         </tr>

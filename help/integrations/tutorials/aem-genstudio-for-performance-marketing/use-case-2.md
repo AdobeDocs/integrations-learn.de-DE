@@ -1,6 +1,6 @@
 ---
-title: Varianten mit Adobe GenStudio erstellen
-description: Erfahren Sie, wie Sie mit AEM Assets und Adobe Express Asset-Varianten erstellen können, die in E-Mail- und Meta-Anzeigen verwendet werden, um dasselbe Marketing-Erlebnis zu fördern.
+title: Erstellen von Varianten mit Adobe GenStudio
+description: Erkunden Sie das Nutzungsszenario der Verwendung von AEM Assets und Adobe Express zum Erstellen von Asset-Varianten, die in E-Mail- und Meta-Anzeigen verwendet werden, um dasselbe Marketing-Erlebnis zu bewerben.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 ---
 
-# Varianten mit Adobe GenStudio erstellen
+# Erstellen von Varianten mit Adobe GenStudio
 
-[Zurück zu AEM Asset und GenStudio for Performance Marketing - Übersicht](./overview.md)
+[‹ Zurück zur Übersicht über AEM Asset und GenStudio for Performance Marketing](./overview.md)
 
-Erfahren Sie, wie AEM Assets as a Cloud Service und Adobe Express mit GenStudio for Performance Marketing zusammenarbeiten, um schnell maßgeschneiderte Asset-Varianten für kohärente Marketingkampagnen zu erstellen. Einfaches Generieren und Anpassen von Visualisierungen für E-Mail-Promotions und Meta-Anzeigen, wodurch Konsistenz bei der Zielgruppenbestimmung für verschiedene Zielgruppen für dasselbe Marketing-Erlebnis sichergestellt wird.
+Erfahren Sie, wie AEM Assets as a Cloud Service und Adobe Express mit GenStudio for Performance Marketing zusammenarbeiten, um schnell maßgeschneiderte Asset-Varianten für kohärente Marketing-Kampagnen zu erstellen. Einfaches Generieren und Anpassen von Visualisierungen für E-Mail-Promotions und Meta-Anzeigen, um Konsistenz zu gewährleisten und gleichzeitig verschiedene Zielgruppen für dasselbe Marketing-Erlebnis anzusprechen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439266/?learn=on&enablevpops)

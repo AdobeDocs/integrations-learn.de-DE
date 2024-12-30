@@ -13,11 +13,11 @@ ht-degree: 2%
 
 {{workfront-description}}
 
-Die wichtigsten Vorteile der Integration von Adobe Workfront und Adobe Creative Cloud sind:
+Die Integration von Adobe Workfront und Adobe Creative Cloud bietet folgende Hauptvorteile:
 
-+ **Kreativer Workflow**: Durch die Integration werden Aufgaben, Feedback und die Zeitprotokollierung in Creative Cloud-Apps optimiert.
-+ **Effiziente Zusammenarbeit**: Workfront erleichtert kreative Arbeitsüberprüfungen, -genehmigungen und Teamzusammenarbeit.
-+ **Verbesserte Produktivität**: Die Voreinstellung nahtloser Umgebungen führt zu einer verbesserten Geschwindigkeit und Qualität bei der Inhaltserstellung.
++ **Kreativ-Workflow**: Die Integration optimiert Aufgaben, Feedback und die Zeitprotokollierung in Creative Cloud-Apps.
++ **Effiziente Zusammenarbeit**: Workfront erleichtert die Überprüfung, Genehmigung und Zusammenarbeit von Kreativprofis.
++ **Höhere Produktivität**: Die Vorlieben einer nahtlosen Umgebung führen zu einer schnelleren und hochwertigeren Erstellung von Inhalten.
 
 ## Allgemeine Integrationen
 
@@ -25,8 +25,8 @@ Die wichtigsten Vorteile der Integration von Adobe Workfront und Adobe Creative 
     <thead>
         <tr>
             <th>Experience Cloud-Anwendungen</th>
-            <th>Integration mit</th>
-            <th>Verwendungsbereiche</th>
+            <th>Integriert mit</th>
+            <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
         </tr>
     </thead>
@@ -36,14 +36,14 @@ Die wichtigsten Vorteile der Integration von Adobe Workfront und Adobe Creative 
             <td>Nativer Connector</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wenn Kreative zugewiesene Arbeit finden und aktualisieren möchten, ohne Creative Cloud-Apps zu verlassen.</li>
+                    <li>Wenn Kreative zugewiesene Arbeit suchen und aktualisieren möchten, ohne Creative Cloud-Apps zu verlassen.</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>Hochladen und Freigeben von Assets über mehrere Plattformen hinweg.</li>
-                <li>Starten Sie Asset-Überprüfungs- und Genehmigungsprozesse.</li>
-                <li>Zeigen Sie Asset-Anforderungen und Feedback plattformübergreifend an.</li>  
+                <li>Hochladen und Freigeben von Assets auf mehreren Plattformen</li>
+                <li>Starten von Asset-Prüfungs- und Genehmigungsprozessen.</li>
+                <li>Anzeigen von Asset-Anforderungen und -Feedback plattformübergreifend.</li>  
               </ul>
             </td>
         </tr>       
