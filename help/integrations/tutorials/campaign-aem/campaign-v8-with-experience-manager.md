@@ -26,22 +26,22 @@ Erfahren Sie, wie Sie Adobe-[!DNL Campaign] mit Adobe Experience Manager verbind
 
 Im folgenden Video erfahren Sie, was Sie lernen.
 
->[!VIDEO](https://video.tv.adobe.com/v/340319?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346034?quality=12&learn=on&captions=ger)
 
 ## Konfigurieren von [!DNL Campaign] für die Experience Manager-Integration
 
 Erfahren Sie, wie Sie die Integration zwischen Experience Manager und [!DNL Campaign] einrichten, einschließlich wichtiger Einstellungen, auf die Sie achten müssen, und potenzieller „Fallstricke“, die Sie vermeiden sollten.
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445905?quality=12&learn=on&captions=ger)
 
 ## Genehmigen und Veröffentlichen einer Experience Manager-Seite in [!DNL Campaign]
 
 Erfahren Sie, wie Sie einen Newsletter in der Experience Manager erstellen und genehmigen und in [!DNL Campaign] veröffentlichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447580?quality=12&learn=on&captions=ger)
 
 ## Synchronisieren und Durchführen eines Experience Manager-E-Mail-Versands in [!DNL Campaign]
 
 Erfahren Sie, wie Sie einen Newsletter, der in Experience Manager erstellt wurde, in [!DNL Campaign] testen und senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444757?quality=12&learn=on&captions=ger)

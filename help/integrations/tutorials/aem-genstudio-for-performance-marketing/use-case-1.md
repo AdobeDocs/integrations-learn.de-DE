@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Assets in AEM Assets as a Cloud Service hochladen, überprüfen und genehmigen, um Ihren Inhalts-Workflow zu optimieren. Nach der Genehmigung lassen sich diese Assets nahtlos in GenStudio for Performance Marketing integrieren, sodass Sie problemlos auf markenbestätigte Materialien für Ihre Kampagnen zugreifen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439297/?learn=on&enablevpops&captions=ger)

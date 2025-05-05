@@ -59,7 +59,7 @@ Die folgenden Videos zeigen verschiedene Funktionen, Aktivitätstypen und Vortei
 
 Mit dem Bedienfeld [!DNL Analytics] for [!DNL Target] (A4T) können Sie Ihre Adobe-[!DNL Target]-Aktivitäten und -Erlebnisse in Analysis Workspace analysieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/326708/?quality=12&learn=on&captions=ger)
 
 ### Analysieren einer Aktivität vom Typ „Automatisches [!DNL Target]&quot; mithilfe des A4T-Bedienfelds
 

@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Lernen Sie die Grundlagen der Verwendung der Integration von AEM Assets as a Cloud Service und GenStudio for Performance Marketing kennen: Hochladen von Assets in AEM Assets, Asset-Genehmigung in AEM Assets und Verwendung genehmigter Assets in GenStudio for Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439286/?learn=on&enablevpops&captions=ger)
