@@ -32,7 +32,7 @@ Die Integration von Adobe Workfront und Adobe Creative Cloud bietet folgende Hau
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html" target="_blank" rel="noreferrer">Creative Cloud und Workfront</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=de" target="_blank" rel="noreferrer">Creative Cloud und Workfront</a></td>
             <td>Nativer Connector</td>
             <td>
                 <ul style="margin-top: 0;">

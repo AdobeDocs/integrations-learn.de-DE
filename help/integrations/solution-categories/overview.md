@@ -18,21 +18,21 @@ Beachten Sie, dass es je nach Umgebung viele Möglichkeiten gibt, die Adobe-Anwe
 <table>
 <tr>
     <td>
-      <a  href="./b2b.md"><img alt="B2B-Marketing" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png"/></a>
+      <a  href="./b2b.md"><img alt="B2B-Marketing" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png?lang=de"/></a>
       <div><strong><a href="./b2b.md">B2B-Marketing</a></strong></div>
       <p>
         Marketing-Automatisierung und Vertriebspartnerschaft
       </p>
     </td>
    <td>
-      <a  href="./commerce.md"><img alt="Handel" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
+      <a  href="./commerce.md"><img alt="Handel" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png?lang=de"/></a>
       <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         B2B und B2C digitaler Handel
       </p>
    </td>    
    <td>
-      <a  href="./content-management.md"><img alt="Content-Management" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
+      <a  href="./content-management.md"><img alt="Content-Management" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png?lang=de"/></a>
       <div><strong><a href="./content-management.md">Content-Management</a></strong></div>
       <p>
         Content- und Asset-Management
@@ -41,21 +41,21 @@ Beachten Sie, dass es je nach Umgebung viele Möglichkeiten gibt, die Adobe-Anwe
 </tr>
 <tr>
    <td>
-      <a  href="./content-supply-chain.md"><img alt="Inhaltslieferkette" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
+      <a  href="./content-supply-chain.md"><img alt="Inhaltslieferkette" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png?lang=de"/></a>
       <div><strong><a href="./content-supply-chain.md">Inhaltslieferkette</a></strong></div>
       <p>
         Beschleunigung der Inhaltserstellung und -bereitstellung
       </p> 
     </td>
    <td>
-      <a  href="./customer-journeys.md"><img alt="Customer Journeys" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
+      <a  href="./customer-journeys.md"><img alt="Customer Journeys" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png?lang=de"/></a>
       <div><strong><a href="./customer-journeys.md">Kunden-Journey</a></strong></div>
       <p>
         Omni-Channel-Orchestrierung und -Bereitstellung
       </p> 
     </td>
    <td>
-      <a  href="./data-insights.md"><img alt="Dateneinblicke und Aktivierung" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
+      <a  href="./data-insights.md"><img alt="Dateneinblicke und Aktivierung" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png?lang=de"/></a>
       <div><strong><a href="./data-insights.md"> Dateneinblicke und Aktivierung</a></strong></div>
       <p>
         [!DNL Analytics]- und Zielgruppen-Management
@@ -64,7 +64,7 @@ Beachten Sie, dass es je nach Umgebung viele Möglichkeiten gibt, die Adobe-Anwe
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Personalization im großen Maßstab" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <a  href="./personalization.md"><img alt="Personalization im großen Maßstab" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png?lang=de"/></a>
       <div><strong><a href="./personalization.md">Personalization als Maßstab</a></strong></div>
       <p>
         Wie man jede Verbindung persönlich macht

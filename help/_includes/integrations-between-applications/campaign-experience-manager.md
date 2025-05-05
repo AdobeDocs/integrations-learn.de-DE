@@ -47,7 +47,7 @@ Die Integration von Adobe-[!DNL Campaign] und AEM-Experience Manager bietet folg
             </td>
         </tr>      
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html" target="_blank" rel="noreferrer">[!DNL Campaign] Standard mit AEM Forms</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-adobe-campaign/aem-forms-with-campaign-standard-getting-started-tutorial.html?lang=de" target="_blank" rel="noreferrer">[!DNL Campaign] Standard mit AEM Forms</a></td>
             <td>Adobe IMS-Zugriffstoken</td>
             <td>
                 <ul style="margin-top: 0;">

@@ -35,7 +35,7 @@ Einige Vorteile der gemeinsamen Verwendung von Adobe Experience Manager und Adob
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service und [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=de" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service und [!DNL Target]</a></td>
             <td>Experience [!DNL Platform] Web SDK Tags-Erweiterung oder alloy.js</td>
             <td>
               <ul style="margin-top: 0;">

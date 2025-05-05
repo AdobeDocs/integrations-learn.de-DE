@@ -52,7 +52,7 @@ Die Integration von Adobe [!DNL Analytics] und Adobe [!DNL Target] (A4T) bietet 
         <tr>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">Experience Cloud – Hauptdienste</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html?lang=de" target="_blank" rel="noreferrer">Experience Cloud – Hauptdienste</a></li>
                 </ul>
             </td>
             <td>

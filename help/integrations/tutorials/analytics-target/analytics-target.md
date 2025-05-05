@@ -29,7 +29,7 @@ Die folgenden Videos zeigen den Wert dieser Integration sowie Details zur Einric
 
 >[!NOTE]
 >
->In diesen Videos werden die Implementierung und Validierung für [!DNL Target] at.js und [!DNL Analytics] appMeasurement.js veranschaulicht. Die erforderlichen Bibliotheksversionen in beiden Tools finden [ in der ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html)-Dokumentation.
+>In diesen Videos werden die Implementierung und Validierung für [!DNL Target] at.js und [!DNL Analytics] appMeasurement.js veranschaulicht. Die erforderlichen Bibliotheksversionen in beiden Tools finden [ in der ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=de)-Dokumentation.
 
 ### Einrichten von A4T ([!DNL Analytics] für [!DNL Target])
 
@@ -73,7 +73,7 @@ Wir haben auch zwei Tutorials, in denen Sie Schritt für Schritt erfahren, wie S
 
 Eine Aktivität der automatischen Zuordnung identifiziert einen Gewinner aus zwei oder mehr Erlebnissen und ordnet automatisch dem Gewinner während der Fortführung des Tests und des Lernens mehr Traffic zu. Mit der Integration von [!DNL Analytics] for [!DNL Target] (A4T) für die automatische Zuordnung können Sie Ihre Berichtsdaten auf Adobe-[!DNL Analytics] anzeigen und sogar für benutzerdefinierte Ereignisse oder Metriken optimieren, die in [!DNL Analytics] definiert sind.
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=de" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Einrichten von A4T-Berichten für Aktivitäten des Typs Automatische Zuordnung</span>
 </a>
 
@@ -83,6 +83,6 @@ Die Integration von [!DNL Analytics] for [!DNL Target] (A4T) für automatische [
 
 Obwohl in Adobe [!DNL Analytics] Analysis Workspace umfangreiche Analysefunktionen verfügbar sind, sind aufgrund der Unterschiede zwischen Experimentieraktivitäten (manueller A/B-Test und automatische Zuordnung) und Personalisierungsaktivitäten (automatische [!DNL Target]) einige Änderungen am [!DNL Analytics] für [!DNL Target] Bedienfeld erforderlich, um [!DNL Target] Aktivitäten korrekt zu interpretieren.
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=de" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Einrichten von A4T-Berichten für automatische [!DNL Target]-Aktivitäten</span>
 </a>

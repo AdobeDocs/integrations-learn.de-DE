@@ -39,13 +39,13 @@ Wenn diese Adobe-Produkte noch nicht eingerichtet und aktiviert sind, finden Sie
 
 <!-- CARDS 
 
-* https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view
+* https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/video-playlists/assets-view
    {title=Set up AEM Assets}
-* https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up
+* https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/content-hub/set-up
    {title=Enable AEM Assets Content Hub}
-* https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started
+* https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/get-started
    {title=Set up GenStudio for Performance Marketing}
-   {image=https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=2000&format=webply&optimize=medium}
+   {image=https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=2000&format=webply&optimize=medium}
 
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
@@ -54,8 +54,8 @@ Wenn diese Adobe-Produkte noch nicht eingerichtet und aktiviert sind, finden Sie
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" title="Einrichten von AEM Assets" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="Einrichten von AEM Assets"
+                    <a href="https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/video-playlists/assets-view" title="Einrichten von AEM Assets" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/video-playlists/assets-view./media_1e4b209baa6169af9b0aefff8a2f1f39816aa6b42.png?width=400&format=png&optimize=medium" alt="Einrichten von AEM Assets"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -63,11 +63,11 @@ Wenn diese Adobe-Produkte noch nicht eingerichtet und aktiviert sind, finden Sie
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="Einrichten von AEM Assets">Einrichten von AEM Assets</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" title="Einrichten von AEM Assets">Einrichten von AEM Assets</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie in dieser kuratierten Auswahl von Videowiedergabelisten, wie Sie in AEM Assets as a Cloud Service in der Assets-Ansicht navigieren, um Ihr Produktwissen zu verbessern.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/video-playlists/assets-view" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>
@@ -77,7 +77,7 @@ Wenn diese Adobe-Produkte noch nicht eingerichtet und aktiviert sind, finden Sie
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up" title="AEM Assets Content Hub aktivieren" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/content-hub/set-up" title="AEM Assets Content Hub aktivieren" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1733417775065" alt="AEM Assets Content Hub aktivieren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -86,11 +86,11 @@ Wenn diese Adobe-Produkte noch nicht eingerichtet und aktiviert sind, finden Sie
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up" target="_blank" rel="referrer" title="AEM Assets Content Hub aktivieren">Aktivieren von AEM Assets Content Hub</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/content-hub/set-up" target="_blank" rel="referrer" title="AEM Assets Content Hub aktivieren">Aktivieren von AEM Assets Content Hub</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Adobe Experience Manager Assets Content Hub in AEM as a Cloud Service einrichten.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/experience-manager-learn/assets/content-hub/set-up" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
                 </a>
             </div>
@@ -100,8 +100,8 @@ Wenn diese Adobe-Produkte noch nicht eingerichtet und aktiviert sind, finden Sie
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" title="Einrichten von GenStudio for Performance Marketing" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=400&format=webply&optimize=medium" alt="Einrichten von GenStudio for Performance Marketing"
+                    <a href="https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/get-started" title="Einrichten von GenStudio for Performance Marketing" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/media_1dd8829962c9e37e1251f3d2d92f5d72c8a58cdaf.png?width=400&format=webply&optimize=medium" alt="Einrichten von GenStudio for Performance Marketing"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -109,11 +109,11 @@ Wenn diese Adobe-Produkte noch nicht eingerichtet und aktiviert sind, finden Sie
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="Einrichten von GenStudio for Performance Marketing">Einrichten von GenStudio for Performance Marketing</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" title="Einrichten von GenStudio for Performance Marketing">Einrichten von GenStudio for Performance Marketing</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie mit GenStudio for Performance Marketing beginnen, um neue Marketing-Inhalte zu generieren, die auf Ihre Marken abgestimmt sind.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/genstudio-for-performance-marketing/user-guide/get-started" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Weitere Informationen</span>
                 </a>
             </div>

@@ -18,10 +18,10 @@ Diese Experience Cloud-Integrations-Tutorials beschreiben einige der gängigsten
 <table>
 <tr>
    <td style="vertical-align: middle; text-align: center;">
-      <a  href="./integrations-between-applications/overview.md"><img alt="Nach Produkt" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
+      <a  href="./integrations-between-applications/overview.md"><img alt="Nach Produkt" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png?lang=de"/></a>
    </td>
    <td>
-      <a  href="./solution-categories/overview.md"><img alt="Nach Unternehmenslösung" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
+      <a  href="./solution-categories/overview.md"><img alt="Nach Unternehmenslösung" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png?lang=de"/></a>
    </td>  
 </tr>
 <tr>

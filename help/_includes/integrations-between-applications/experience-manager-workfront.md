@@ -34,7 +34,7 @@ AEM und Workfront optimieren die Inhaltserstellung und ermöglichen den nahtlose
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront und AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=de" target="_blank" rel="noreferrer">Workfront und AEM Assets Essentials</a></td>
             <td>Nativer Connector</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +50,7 @@ AEM und Workfront optimieren die Inhaltserstellung und ermöglichen den nahtlose
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">Workfront und AEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=de" target="_blank" rel="noreferrer">Workfront und AEM Assets</a></td>
             <td>Verbesserter Connector</td>
             <td>
                 <ul style="margin-top: 0;">

@@ -32,7 +32,7 @@ Die Integration von AEM und Experience [!DNL Platform] bietet verschiedene Vorte
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html" target="_blank" rel="noreferrer">Experience Manager und Erfahrung [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html?lang=de" target="_blank" rel="noreferrer">Experience Manager und Erfahrung [!DNL Platform]</a></td>
             <td>Experience [!DNL Platform] Web SDK</td>
             <td>
                 <ul style="margin-top: 0;">

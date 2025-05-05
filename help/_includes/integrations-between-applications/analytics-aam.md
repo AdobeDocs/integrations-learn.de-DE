@@ -57,7 +57,7 @@ Insgesamt bringt diese Integration wertvolle Daten und Zielgruppeneinblicke zusa
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer">Audience Manager beim Zurücksenden von Daten an [!DNL Analytics]</a>
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=de" target="_blank" rel="noreferrer">Audience Manager beim Zurücksenden von Daten an [!DNL Analytics]</a>
             </td>
             <td>Adobe [!DNL Analytics] Tags-Erweiterung oder AppMeasurement.js mit aktivierter Server-seitiger Weiterleitung</td>
             <td>
