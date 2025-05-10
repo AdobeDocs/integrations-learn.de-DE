@@ -41,7 +41,7 @@ ht-degree: 3%
                 </ul></li>
             <li>Edge Network-Server-API:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">Tutorial</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=de" _target="_blank" rel="noopener noreferrer">Tutorial</a></li>
                 </ul>
        </ul>
     <li><i>(optional)</i>. Wenn Sie mehrere Datensätze verwenden, fügen Sie die Personen-IDs zusammen, um <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=de" _target="_blank" rel="noopener noreferrer">einen kombinierten Datensatz zu generieren</a>. Überspringen Sie diesen Schritt, wenn Sie einen einzelnen [!DNL Analytics]-Datensatz verwenden oder wenn für alle Datensätze, die Sie in Kunden-Journey-[!DNL Analytics] verwenden möchten, eine gemeinsame Kennung vorhanden ist.</li>
