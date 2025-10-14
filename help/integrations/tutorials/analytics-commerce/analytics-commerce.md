@@ -49,11 +49,11 @@ Weitere Informationen zu den einzelnen Phasen und Schritten des Onboarding-Proze
 
 ## Konfiguration von Experience Edge und Adobe [!DNL Analytics]
 
-1. Stellen Sie sicher, dass Ihr Unternehmen Zugriff auf Adobe [!DNL Analytics] hat (und Sie Zugriff darauf haben). Dies können Sie bestätigen, indem Sie auf der Startseite von [Adobe Experience Cloud ](https://experience.adobe.com/) und auf den Programmumschalter (neun Punkte) in der oberen Navigationsleiste klicken.
+1. Stellen Sie sicher, dass Ihr Unternehmen Zugriff auf Adobe [!DNL Analytics] hat (und Sie Zugriff darauf haben). Dies können Sie bestätigen, indem Sie auf der Startseite von [Adobe Experience Cloud &#x200B;](https://experience.adobe.com/) und auf den Programmumschalter (neun Punkte) in der oberen Navigationsleiste klicken.
 
-1. Erstellen Sie eine neue Report Suite im Adobe-[!DNL Analytics] oder identifizieren Sie die ID der Report Suite, in die Sie [!DNL Commerce] Daten pushen. Weitere Informationen finden Sie in einem Tutorial [ Erstellen einer neuen Report Suite](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=de). Sie benötigen diese Report Suite-ID im folgenden Schritt zum Datenstrom.
+1. Erstellen Sie eine neue Report Suite im Adobe-[!DNL Analytics] oder identifizieren Sie die ID der Report Suite, in die Sie [!DNL Commerce] Daten pushen. Weitere Informationen finden Sie in einem Tutorial [&#x200B; Erstellen einer neuen Report Suite](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=de). Sie benötigen diese Report Suite-ID im folgenden Schritt zum Datenstrom.
 
-1. Navigieren Sie zur [Adobe Experience [!DNL Platform] Interface](https://platform.adobe.com), wenn Sie Zugriff auf Experience [!DNL Platform] haben. Wenn Sie keinen Zugriff auf diese Benutzeroberfläche haben, können Sie alle erforderlichen Schritte ausführen, die unten in der Benutzeroberfläche „Datenerfassung[!DNL Platform] von Adobe [ aufgeführt ](https://experience.adobe.com/#/data-collection).
+1. Navigieren Sie zur [Adobe Experience [!DNL Platform] Interface](https://platform.adobe.com), wenn Sie Zugriff auf Experience [!DNL Platform] haben. Wenn Sie keinen Zugriff auf diese Benutzeroberfläche haben, können Sie alle erforderlichen Schritte ausführen, die unten in der Benutzeroberfläche „Datenerfassung[!DNL Platform] von Adobe [&#x200B; aufgeführt &#x200B;](https://experience.adobe.com/#/data-collection).
 
 1. Erstellen oder aktualisieren Sie Ihr XDM-Schema mit [!DNL Commerce] Feldergruppen. Weiterführende Informationen zum Erstellen eines Schemas finden Sie im Tutorial [Erstellen von Schemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=de) .
    * Sie müssen dieses Schema aus den Optionen im unten stehenden Schritt „Datenstrom“ auswählen. Um ein Schema zu erstellen, suchen Sie in der linken Spalte unter **Daten-Management** nach **Schemata**. Klicken Sie nun oben rechts in der Benutzeroberfläche auf **Schema erstellen**. XDM ExperienceEvent auswählen.
@@ -92,4 +92,4 @@ Weitere Informationen zu den einzelnen Phasen und Schritten des Onboarding-Proze
    * [Verwenden von Tabellen, Visualisierungen und Bedienfeldern in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=de)
    * [Anwendungsfälle für Visualisierungen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=de)
 
-   Darüber hinaus gibt es kostenlose Kurse auf Experience League. Siehe [!DNL Analytics] verfügbaren Kurse [HIER](https://experienceleague.adobe.com/de?lang=en&amp;Solution=Analytics#courses).
+   Darüber hinaus gibt es kostenlose Kurse auf Experience League. Siehe [!DNL Analytics] verfügbaren Kurse [HIER](https://experienceleague.adobe.com/de?lang=en&Solution=Analytics#courses).

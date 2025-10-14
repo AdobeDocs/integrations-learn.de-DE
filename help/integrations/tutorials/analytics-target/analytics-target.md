@@ -29,7 +29,7 @@ Die folgenden Videos zeigen den Wert dieser Integration sowie Details zur Einric
 
 >[!NOTE]
 >
->In diesen Videos werden die Implementierung und Validierung für [!DNL Target] at.js und [!DNL Analytics] appMeasurement.js veranschaulicht. Die erforderlichen Bibliotheksversionen in beiden Tools finden [ in der ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=de)-Dokumentation.
+>In diesen Videos werden die Implementierung und Validierung für [!DNL Target] at.js und [!DNL Analytics] appMeasurement.js veranschaulicht. Die erforderlichen Bibliotheksversionen in beiden Tools finden [&#x200B; in der &#x200B;](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=de)-Dokumentation.
 
 ### Einrichten von A4T ([!DNL Analytics] für [!DNL Target])
 
