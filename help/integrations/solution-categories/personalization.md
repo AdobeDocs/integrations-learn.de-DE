@@ -2,9 +2,9 @@
 title: Anwendungsintegrationen für skalierbare Personalisierung
 description: Gestalten Sie personalisierte Erlebnisse zu einem Teil jedes Augenblicks.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Dynamisch generierte NDA basierend auf den Daten einer AEM präsentieren
+            Dynamisch generierte NDA basierend auf den Daten aus einer AEM präsentieren
             Forms-Übermittlung zum Signieren
           </li>
         </ul>
@@ -49,7 +49,7 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
     <tr>
       <td rowspan="2"><strong>Datenanalyse und Reporting</strong></td>
       <td>
-        Analysieren von Verhaltensdaten aus digitalen Erlebnissen <br />Adobe verwenden
+        Analysieren von Verhaltensdaten aus digitalen Erlebnissen <br />Verwenden von Adobe
         [!DNL Analytics] von Verhaltensdaten in Analysis Workspace auf Kunden-Journey
         [!DNL Analytics].
       </td>
@@ -76,8 +76,8 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
     <tr>
       <td>
         Reporting für Personalisierungsaktivitäten<br />Optimierung analysieren
-        Testergebnisse, einschließlich A/B-Tests, unter Verwendung von Adobe-[!DNL Target] und
-        Erstellung umfassender Berichte durch Adobe [!DNL Analytics].
+        Testergebnisse, einschließlich A/B-Tests, unter Verwendung von Adobe [!DNL Target] und
+        Generieren umfassender Berichte über Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -118,7 +118,7 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
         <strong>Erweiterung der Zielgruppen für Personalisierungs- und Anzeigenplattformen</strong>
       </td>
       <td>
-        Verwenden von Audience Manager-Segmenten zum Erstellen von Zielgruppen in Real-Time CDP, um
+        Verwenden Sie Audience Manager-Segmente, um Zielgruppen in Real-Time CDP zu erstellen, um
         wird in Personalisierungs- und Remarketing-Taktiken verwendet.
       </td>
       <td>
@@ -132,7 +132,7 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
             Bekannte Geräte- und Verhaltenseigenschaften
           </li>
           <li>
-            Nutzen des Audience Manager-Datennetzwerks von Drittanbietern, um
+            Nutzen Sie das Audience Manager-Datennetzwerk von Drittanbietern, um
             Zielgruppen für das Targeting verfeinern und erweitern
           </li>
           <li>Freigeben von Audience Manager-Segmenten für RTCDP</li>
@@ -143,7 +143,7 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager- und Echtzeit-[!DNL Platform]</a
+          >Audience Manager und Real-time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>
@@ -178,11 +178,11 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
       <td rowspan="2"><strong>Web-Erlebnisse personalisieren</strong></td>
       <td>
         Anpassen von Single Page Application (SPA)-Erlebnissen durch effektive
-        Verwendung von AEM Headless in Verbindung mit Adobe [!DNL Target].
+        Verwenden von AEM Headless in Verbindung mit Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Personalisierung von SPA und Mobile Apps</li>
+          <li>SPA- und Mobile-App-Personalisierung</li>
           <li>Personalisierte API-Antworten.</li>
           <li>[!DNL Target]Inhaltsbereitstellung bearbeiten.</li>
           <li>A/B-Testvarianzen.</li>
@@ -200,14 +200,14 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
     <tr>
       <td>
         Bereitstellen maßgeschneiderter Website-Erlebnisse durch effektive Nutzung von AEM Sites
-        und Adobe-[!DNL Target] zur Personalisierung.
+        und Adobe [!DNL Target] für Personalisierung.
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>AEM-Website-Personalisierung.</li>
-          <li>Personalisieren von Website-Inhalten</li>
-          <li>Optimieren Sie Benutzererlebnisse.</li>
+          <li>Personalisierung der AEM-Website.</li>
           <li>A/B-Testvarianzen.</li>
+          <li>Verhaltens-Targeting basierend auf dem Benutzerverhalten.</li>
+          <li>Bekannte Benutzerpersonalisierung durch Zusammenfügen von Benutzerdaten aus mehreren Systemen, wodurch eine 360-Grad-Sicht auf den Kunden geboten wird.</li>
         </ul>
       </td>
       <td>

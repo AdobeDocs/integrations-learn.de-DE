@@ -3,10 +3,10 @@ user-guide-title: Tutorials zur Integration in Experience Cloud
 breadcrumb-title: Experience Cloud-Integrationen
 user-guide-description: Integrationen – Lernmaterialien.
 mini-toc-levels: 1
-source-git-commit: 2e76baa106c833668b7d966e4cfdbfaef8aabbd2
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 22%
+source-wordcount: '142'
+ht-degree: 27%
 
 ---
 
@@ -15,16 +15,16 @@ ht-degree: 22%
 
 + [[!DNL Experience Cloud] Integrationen](./overview.md)
 + Lösungskategorien{#solution-categories}
-   + [Übersicht](./solution-categories/overview.md)
+   + [Überblick](./solution-categories/overview.md)
    + [B2B-Marketing](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
    + [Content-Management](./solution-categories/content-management.md)
-   + [Inhaltslieferkette](./solution-categories/content-supply-chain.md)
+   + [Content supply chain](./solution-categories/content-supply-chain.md)
    + [Kunden-Journey](./solution-categories/customer-journeys.md)
    + [Dateneinblicke und Aktivierung](./solution-categories/data-insights.md)
    + [Personalization im großen Maßstab](./solution-categories/personalization.md)
 + Produktintegrationen{#integrations-between-applications}
-   + [Übersicht](./integrations-between-applications/overview.md)
+   + [Überblick](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
    + [!DNL Analytics]{#analytics}
@@ -62,7 +62,7 @@ ht-degree: 22%
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
    + Experience [!DNL Platform]{#experience-platform}
-      + [Übersicht](./integrations-between-applications/experience-platform/platform.md)
+      + [Überblick](./integrations-between-applications/experience-platform/platform.md)
    + Journey Optimizer{#journey-optimizer}
       + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
    + [!DNL Marketo Engage]{#marketo}
@@ -103,9 +103,16 @@ ht-degree: 22%
       + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
    + GenStudio for Performance Marketing und Experience Manager {#genstudio-for-performance-marketing-experience-manager}
-      + [Übersicht](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
+      + [Überblick](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [Einrichten](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [Anleitung zur Integration](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
-      + Anwendungsfälle {#use-cases}
+      + Anwendungsfälle{#use-cases}
          + [Überprüfung und Genehmigung in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Erstellen von Varianten mit Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+   + Experience Manager und Target{#experience-manager-target}
+      + [Übersicht](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Einrichten](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + Anwendungsfälle{#use-cases}
+         + [Experimentieren (A/B-Tests)](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [Behavioral Targeting](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [Personalization für bekannten Benutzer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
