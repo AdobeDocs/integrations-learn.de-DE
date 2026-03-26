@@ -32,22 +32,22 @@ Erfahren Sie, wie Sie die Datenerfassung in Adobe Experience [!DNL Platform] dur
 >
 > Launch ist jetzt die Tag-Funktion von Adobe Experience [!DNL Platform]. Sie finden sie unter **Datenerfassungen in Adobe Experience [!DNL Platform]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454025?captions=ger&quality=12&learn=on)
 
 ## Trigger in Experience Cloud erstellen
 
 Erfahren Sie, wie Sie in Experience Cloud Trigger konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446147?captions=ger&quality=12&learn=on)
 
 ## Erstellen eines Triggers in [!DNL Campaign] Standard
 
 Erfahren Sie, wie Sie in [!DNL Campaign] Standard ein Trigger-Ereignis erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446418?captions=ger&quality=12&learn=on)
 
 ## Konfigurieren von Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten
 
 Erfahren Sie, wie Sie Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten von Triggern konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450211?captions=ger&quality=12&learn=on)
