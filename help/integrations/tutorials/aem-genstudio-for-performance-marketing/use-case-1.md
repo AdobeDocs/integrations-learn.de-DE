@@ -15,9 +15,9 @@ index: true
 hidefromtoc: false
 badgeIntegration: label="AEM Asset und GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: 20e988c078ee926bbcf79f581ad9a60d5c478a83
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Assets in AEM Assets as a Cloud Service hochladen, überprüfen und genehmigen, um Ihren Inhalts-Workflow zu optimieren. Nach der Genehmigung lassen sich diese Assets nahtlos in GenStudio for Performance Marketing integrieren, sodass Sie problemlos auf markenbestätigte Materialien für Ihre Kampagnen zugreifen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439297/?learn=on&enablevpops&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)

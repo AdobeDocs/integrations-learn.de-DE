@@ -1,13 +1,13 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '138'
 ht-degree: 2%
 
 ---
 
 
-# Adobe Real-Time Customer Data [!DNL Platform] und Adobe [!DNL Target] Integration
+# Integration von Adobe Real-time Customer Data [!DNL Platform] und Adobe [!DNL Target]
 
 {{real-time-cdp-description}}
 
@@ -16,13 +16,13 @@ ht-degree: 2%
 Durch die Integration von Real-Time CDP mit [!DNL Target] können Sie Inhalte mithilfe bekannter Kundendaten personalisieren. Darüber hinaus stellen die Funktionen für Data Governance und Einverständnis von Real-Time CDP sicher, dass Sie diese bekannten Kundendaten verantwortungsvoll verwenden, gesetzliche, vertragliche und rechtliche Einschränkungen einhalten und Kundenpräferenzen respektieren. Zu den wichtigsten Vorteilen der Integration von Real-Time CDP und [!DNL Target] gehören:
 
 + **Bereitstellen personalisierter Erlebnisse** auf Ihrer Website und in Mobile Apps.
-+ **Freigeben von Segmenten und Profilattributen** von Adobe Real-Time CDP für Adobe-[!DNL Target].
++ **Freigeben von Segmenten und Profilattributen** von Adobe Real-Time CDP für Adobe [!DNL Target].
 + **[!DNL Target]von** auf Segmente und Anzeigen von Attributwerten.
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
@@ -43,7 +43,8 @@ Durch die Integration von Real-Time CDP mit [!DNL Target] können Sie Inhalte mi
             </ul>
         </td>
     </tr>
-    <!--<tr>
+    <!--
+    <tr>
         <td>Real-Time CDP and [!DNL Target]</a></td>
         <td><a href="../../integrations/tutorials/rtcdp-target/mobile-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Mobile SDK and [!DNL Target] destination</td>
         <td>
@@ -70,6 +71,7 @@ Durch die Integration von Real-Time CDP mit [!DNL Target] können Sie Inhalte mi
                 <li>Supports next-session personalization.</li>
             </ul>
         </td>
-    </tr>    -->
+    </tr>    
+    -->
     </tbody>
 </table>

@@ -13,10 +13,10 @@ thumbnail: null
 last-substantial-update: 2023-07-26T00:00:00Z
 badgeIntegration: label="Integration" type="positive"
 exl-id: dbbaeeff-2c31-45c2-85af-ad1b80ba6c9c
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 44%
+ht-degree: 46%
 
 ---
 
@@ -24,30 +24,30 @@ ht-degree: 44%
 
 Erfahren Sie, wie Sie Trigger für Transaktionsnachrichten konfigurieren und verwenden.
 
-## Konfigurieren der Adobe Experience [!DNL Platform]-Datenerfassung für Trigger
+## Konfigurieren der Datenerfassung von Adobe Experience [!DNL Platform] für Trigger
 
-Erfahren Sie, wie Sie die Experience [!DNL Platform]-Datenerfassung Adobe und die erforderlichen Eigenschaften zu Ihrer Website hinzufügen, um Ihre Konfiguration zu testen.
+Erfahren Sie, wie Sie die Datenerfassung in Adobe Experience [!DNL Platform] durchführen und die erforderlichen Eigenschaften zu Ihrer Website hinzufügen, um Ihre Konfiguration zu testen.
 
 >[!IMPORTANT]
 >
-> Launch ist jetzt die Tag-Funktion von Adobe Experience [!DNL Platform]. Sie finden sie unter **Adobe Experience [!DNL Platform]-Datenerfassungen**.
+> Launch ist jetzt die Tag-Funktion von Adobe Experience [!DNL Platform]. Sie finden sie unter **Datenerfassungen in Adobe Experience [!DNL Platform]**.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454025?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
 
 ## Trigger in Experience Cloud erstellen
 
 Erfahren Sie, wie Sie in Experience Cloud Trigger konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446147?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
 
 ## Erstellen eines Triggers in [!DNL Campaign] Standard
 
 Erfahren Sie, wie Sie in [!DNL Campaign] Standard ein Trigger-Ereignis erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446418?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
 
 ## Konfigurieren von Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten
 
 Erfahren Sie, wie Sie Transaktionsnachrichten mithilfe von Echtzeit-Ereignisdaten von Triggern konfigurieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450211?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
