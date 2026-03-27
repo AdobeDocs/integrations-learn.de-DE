@@ -2,9 +2,9 @@
 title: Anwendungsintegrationen für skalierbare Personalisierung
 description: Gestalten Sie personalisierte Erlebnisse zu einem Teil jedes Augenblicks.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: fc60646e49dcd32f833669e05e82397386eb68d9
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '610'
 ht-degree: 1%
 
 ---
@@ -175,7 +175,7 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>Web-Erlebnisse personalisieren</strong></td>
+      <td rowspan="3"><strong>Web-Erlebnisse personalisieren</strong></td>
       <td>
         Anpassen von Single Page Application (SPA)-Erlebnissen durch effektive
         Verwenden von AEM Headless in Verbindung mit Adobe [!DNL Target].
@@ -219,6 +219,29 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
         >
       </td>
     </tr>
+    <tr>
+      <td>
+        Praktische Tipps für die Integration von AEM und Adobe [!DNL Target]
+      </td>
+      <td>
+        <ul style="margin-top: 0;">
+          <li>Verwenden von Experience Fragments für skalierbare Personalization</li>
+          <li>Spiegeln von ContextHub-Segmenten an Zielgruppen</li>
+          <li>Machen Sie Experience Fragments Target-fähig</li>
+          <li>Target-Validierung in Launch-Workflows integrieren</li>
+          <li>Kombinieren von Dynamic Media und Target für Visual Personalization</li>
+          <li>Author für Edge Delivery</li>
+        </ul>
+      </td>
+      <td>
+        <a
+          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          target="_blank"
+          rel="noopener noreferrer"
+          >AEM Sites und [!DNL Target]</a
+        >
+      </td>
+    </tr>    
     <tr>
       <td><strong>Digitale Erlebnisse personalisieren</strong></td>
       <td>
