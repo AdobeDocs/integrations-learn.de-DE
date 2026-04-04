@@ -12,13 +12,12 @@ duration: 133
 last-substantial-update: 2024-11-21T00:00:00Z
 jira: KT-16480
 index: true
-hidefromtoc: false
 badgeIntegration: label="AEM Asset und GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: 2d898df7e49f6a14c162973145592f0d3fdd1646
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
 source-wordcount: '744'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -135,7 +134,7 @@ CARDS
                     <p class="is-size-6">Erkunden Sie den Anwendungsfall des Hochladens, Überprüfens und Genehmigens von Assets in AEM Assets, um sie für die Verwendung in GenStudio for Performance Marketing verfügbar zu machen.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
                 </a>
             </div>
         </div>
@@ -158,7 +157,7 @@ CARDS
                     <p class="is-size-6">Erkunden Sie das Nutzungsszenario der Verwendung von AEM Assets und Adobe Express zum Erstellen von Asset-Varianten, die in E-Mail- und Meta-Anzeigen verwendet werden, um dasselbe Marketing-Erlebnis zu fördern.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">beobachten</span>
                 </a>
             </div>
         </div>

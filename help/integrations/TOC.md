@@ -3,10 +3,10 @@ user-guide-title: Tutorials zur Integration in Experience Cloud
 breadcrumb-title: Experience Cloud-Integrationen
 user-guide-description: Integrationen – Lernmaterialien.
 mini-toc-levels: 1
-source-git-commit: a5f6fdd10569618e495750e1bcd4cf604cbf142c
+source-git-commit: ae78e4a9f706ce315a87715302f561ccedc858e9
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 26%
+source-wordcount: '226'
+ht-degree: 32%
 
 ---
 
@@ -56,15 +56,15 @@ ht-degree: 26%
       + [[!DNL Analytics]](./integrations-between-applications/experience-manager/experience-manager-analytics.md)
       + [[!DNL Campaign]](./integrations-between-applications/experience-manager/experience-manager-campaign.md)
       + [[!DNL Commerce]](./integrations-between-applications/experience-manager/experience-manager-commerce.md)
-      + [GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
-      + [[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
+      + {hide-from-toc}[GenStudio for Performance Marketing](./integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md)
+      + {hide-from-toc}[[!DNL Journey Optimizer]](./integrations-between-applications/experience-manager/experience-manager-journey-optimizer.md)
       + [[!DNL Marketo Engage]](./integrations-between-applications/experience-manager/experience-manager-marketo.md)
       + [[!DNL Target]](./integrations-between-applications/experience-manager/experience-manager-target.md)
       + [[!DNL Workfront]](./integrations-between-applications/experience-manager/experience-manager-workfront.md)
    + Experience [!DNL Platform]{#experience-platform}
       + [Überblick](./integrations-between-applications/experience-platform/platform.md)
    + Journey Optimizer{#journey-optimizer}
-      + [[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
+      + {hide-from-toc}[[!DNL Experience Manager]](./integrations-between-applications/journey-optimizer/journey-optimizer-experience-manager.md)
    + [!DNL Marketo Engage]{#marketo}
       + [[!DNL Experience Manager]](./integrations-between-applications/marketo/marketo-experience-manager.md)
    + [!DNL Real-Time CDP]{#rtcdp}
@@ -83,25 +83,25 @@ ht-degree: 26%
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
 + Tutorial{#tutorials}
    + [!DNL Analytics] und [!DNL Commerce]{#analytics-commerce}
-      + [[!DNL Analytics] und [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
+      + {hide-from-toc}[[!DNL Analytics] und [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
    + [!DNL Analytics] und CJA{#analytics-cja}
-      + [[!DNL Analytics] und CJA](./tutorials/analytics-cja/experience-platform-edge.md)
-      + [[!DNL Analytics] und CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
+      + {hide-from-toc}[[!DNL Analytics] und CJA](./tutorials/analytics-cja/experience-platform-edge.md)
+      + {hide-from-toc}[[!DNL Analytics] und CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
    + [!DNL Analytics] und Real-Time CDP{#analytics-real-time-cdp}
-      + [[!DNL Analytics] und Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
-      + [[!DNL Analytics] und Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
+      + {hide-from-toc}[[!DNL Analytics] und Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
+      + {hide-from-toc}[[!DNL Analytics] und Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] und [!DNL Target]{#analytics-target}
-      + [[!DNL Analytics] und [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
+      + {hide-from-toc}[[!DNL Analytics] und [!DNL Target]](./tutorials/analytics-target/analytics-target.md)
    + [!DNL Campaign] und [!DNL Analytics]{#campaign-analytics}
-      + [Tutorial  [!DNL Campaign]  Integration von Standard mit  [!DNL Analytics]  Verwendung von Trigger](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
+      + {hide-from-toc}[Tutorial  [!DNL Campaign] Integrieren mit [!DNL Analytics] Verwenden von Trigger&quot;](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign] und Experience Manager {#campaign-experience-manager}
-      + [[!DNL Campaign] v8 und Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
+      + {hide-from-toc}[[!DNL Campaign] v8 und Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
    + [!DNL Campaign] und Real-Time CDP{#campaign-real-time-cdp}
-      + [[!DNL Campaign] v8 und Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
+      + {hide-from-toc}[[!DNL Campaign] v8 und Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
    + Real-Team CDP{#rtcdp-target}
-      + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
-      + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
-      + [Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
+      + {hide-from-toc}[Real-Time CDP und [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
    + GenStudio for Performance Marketing und Experience Manager {#genstudio-for-performance-marketing-experience-manager}
       + [Überblick](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
       + [Einrichten](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
@@ -110,10 +110,10 @@ ht-degree: 26%
          + [Überprüfung und Genehmigung in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Erstellen von Varianten mit Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager und Target{#experience-manager-target}
-      + [Übersicht](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [Überblick](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/personalization/overview)
       + [Live-Demo](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/personalization/live-demo)
       + [Einrichten](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + Anwendungsfälle{#use-cases}
          + [Experimentieren (A/B-Tests)](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
-         + [Behavioral Targeting](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [Personalization für bekannten Benutzer](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [Verhaltens-Targeting](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [Personalization mit bekanntem Benutzer](https://experienceleague.adobe.com/de/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
