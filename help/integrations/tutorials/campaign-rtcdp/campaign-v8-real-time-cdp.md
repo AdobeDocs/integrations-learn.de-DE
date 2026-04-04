@@ -25,10 +25,10 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie ein Adobe Experience [!DNL Platform]-Segment mithilfe des Amazon S3-Verbindungstyps für ein Ziel aktivieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453130?captions=ger&quality=12&learn=on)
 
 ## Empfängerdaten aus Experience [!DNL Platform] importieren und E-Mail senden
 
 Erfahren Sie, wie Sie in Adobe [!DNL Campaign] ein externes Konto konfigurieren, um Empfängerdaten aus Adobe Experience [!DNL Platform] nach [!DNL Campaign] zu importieren. Erfahren Sie, wie Sie einen Workflow erstellen, um die vom Experience [!DNL Platform] empfangenen Empfänger hochzuladen und anzusprechen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453486?captions=ger&quality=12&learn=on)
