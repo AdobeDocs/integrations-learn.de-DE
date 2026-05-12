@@ -1,15 +1,19 @@
 ---
-title: Anwendungsintegrationen für die Content-Supply Chain
+title: Anwendungsintegrationen für Content supply chain
 description: Inhalte planen, erstellen, personalisieren und veröffentlichen.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 03f958e6a2754b23a4a7d21ee87107a777f10406
+TQID: https://experienceleague.adobe.com/1OyoS3OaD8POo-SLGbdX2fApV4MokuigC3sM9xv2ea0
+product_v2: id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2: id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2: id: beb7a3c1-66ab-4786-b879-7621375b3c40id: d00e9f03-e50b-4162-b143-0c0817c937c2id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: 332
 ht-degree: 1%
 
 ---
 
-# Inhaltslieferkette
+# Content supply chain
 
 Planen, erstellen, personalisieren und veröffentlichen Sie unvergessliche Inhalte für jeden Kunden - in der Geschwindigkeit von jetzt.
 
@@ -27,10 +31,10 @@ Die Erfüllung der Echtzeit-Kundenerwartungen an personalisierte Erlebnisse erfo
   <tbody>
 <tr>
   <td rowspan="2"><strong>Erstellen von Marketingmaterial mit Marken-Assets</strong><br/></td>
-  <td>Erstellen und überwachen Sie E-Mail-Marketing-Inhalte und -Vorlagen mithilfe von AEM- und Adobe-[!DNL Campaign].</td>
+  <td>Erstellen und überwachen Sie E-Mail-Marketing-Inhalte und -Vorlagen mithilfe von AEM und Adobe [!DNL Campaign].</td>
   <td>
     <ul>
-      <li>Mit AEM erstellte Marketing-E-Mails senden</li>
+      <li>Senden von mit AEM erstellten Marketing-E-Mails</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] und AEM</a></td>
@@ -40,7 +44,7 @@ Die Erfüllung der Echtzeit-Kundenerwartungen an personalisierte Erlebnisse erfo
   <td>
     <ul>
       <li>Senden Sie in GenStudio for Performance Marketing erstellte Marketing-E-Mails mit Markenbildern aus AEM Assets.</li>
-      <li>Erstellen Sie markeninterne Meta-Anzeigen in GenStudio for Performance Marketing mithilfe von markeninternen Bildern aus AEM Assets.</li>
+      <li>Erstellen Sie markeninterne Meta-Anzeigen in GenStudio for Performance Marketing mithilfe von Markenbildern aus AEM Assets.</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing und AEM</a></td>
@@ -71,7 +75,7 @@ Die Erfüllung der Echtzeit-Kundenerwartungen an personalisierte Erlebnisse erfo
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-workfront.md">AEM Assets Essentials und Workfront</a></td>
 </tr>
 <tr>
-  <td>Erstellen und Verwalten von Asset-Aktualisierungen für Creative Cloud- und Workfront-Anwendungen</td>
+  <td>Erstellen und Verwalten von Asset-Aktualisierungen in Creative Cloud- und Workfront-Programmen</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Hochladen und Freigeben von Assets über mehrere Plattformen hinweg</li>
@@ -83,7 +87,7 @@ Die Erfüllung der Echtzeit-Kundenerwartungen an personalisierte Erlebnisse erfo
 </tr>
 <tr>
   <td><strong>Erstellen von Marketingmaterial mit Marken-Assets</strong><br/></td>
-  <td>Nutzen Sie Marken-Assets effizient für alle Marketing-Kampagnen unter Verwendung von Adobe Experience Manager Assets Essentials und Adobe Journey Optimizer.
+  <td>Nutzen Sie Marken-Assets effizient für alle Marketing-Kampagnen mithilfe von Adobe Experience Manager Assets Essentials und Adobe Journey Optimizer.
   </td>
   <td>
     <ul>
