@@ -248,7 +248,7 @@ In der heutigen, stark vom Wettbewerb geprägten und digital geprägten Landscha
       </td>
       <td>
         <a
-          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          href="https://experienceleague.adobe.com/de/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
           target="_blank"
           rel="noopener noreferrer"
           >AEM Sites und [!DNL Target]</a
