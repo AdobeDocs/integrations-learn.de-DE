@@ -2,9 +2,20 @@
 title: Anwendungsintegrationen für die Kunden-Journey
 description: Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen, um personalisierte, kanalübergreifende Journey zu erstellen.
 exl-id: eb653b89-db0f-433a-8641-bbeb32197096
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+TQID: https://experienceleague.adobe.com/XkEYtGUFWDMXc-qm4PMeRVNK8hduYOZ7sj2fkyWMCZM
+product_v2:
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+feature_v2:
+  - id: fc7979f3-56c3-43ca-9784-f1ea3dc69c4b
+topic_v2:
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
+  - id: ff2b9b37-92e0-45fc-b853-379d44c08c89
+source-git-commit: 2a324011b3d235db3d4642c2797c4fa107267e6a
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: 298
 ht-degree: 2%
 
 ---
@@ -26,10 +37,10 @@ Entwickeln Sie Echtzeit-Kundenprofile, indem Sie Daten aus allen Quellen abrufen
   <tbody>
 <tr>
   <td><strong>Erstellen von Marketingmaterial mit Marken-Assets</strong><br></td>
-  <td>Erstellen und überwachen Sie E-Mail-Marketing-Inhalte und -Vorlagen mithilfe von AEM- und Adobe-[!DNL Campaign].</td>
+  <td>Erstellen und überwachen Sie E-Mail-Marketing-Inhalte und -Vorlagen mithilfe von AEM und Adobe [!DNL Campaign].</td>
   <td>
     <ul style="margin-top: 0;">
-      <li>Mit AEM erstellte Marketing-E-Mails senden</li>
+      <li>Senden von mit AEM erstellten Marketing-E-Mails</li>
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] und AEM</a></td>
