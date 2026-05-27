@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '124'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ Die Adobe [!DNL Campaign] Managed Cloud Service Destination- und Source-Connecto
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
@@ -31,10 +31,10 @@ Die Adobe [!DNL Campaign] Managed Cloud Service Destination- und Source-Connecto
     <tbody>
         <tr>
             <td><a href="../../integrations/tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md" target="_blank" rel="noreferrer">[!DNL Campaign] v8 mit Real-Time CDP</a></td>
-            <td>[!DNL Campaign] Ziel von verwalteten Cloud Services</td>
+            <td>[!DNL Campaign] Ziel von Managed Cloud Services</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Nutzen Sie die von Adobe Experience [!DNL Platform] unterstützten Smart-Segmente und aktivieren Sie sie mithilfe von Adobe-[!DNL Campaign], um sich über die verschiedenen von Adobe-[!DNL Campaign] unterstützten Kanäle mit dem Kundenstamm zu verbinden.</li>
+                    <li>Nutzen Sie die auf Adobe Experience [!DNL Platform] basierenden Smart-Segmente und aktivieren Sie sie mithilfe von Adobe-[!DNL Campaign], um sich über die verschiedenen von Adobe [!DNL Campaign] unterstützten Kanäle mit ihrem Kundenstamm zu verbinden.</li>
                 </ul>
             </td>
             <td>

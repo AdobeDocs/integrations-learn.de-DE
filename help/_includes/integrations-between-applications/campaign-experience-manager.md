@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '146'
 ht-degree: 2%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 {{experience-manager-description}}
 
-Die Integration von Adobe-[!DNL Campaign] und AEM-Experience Manager bietet folgende Vorteile:
+Die wichtigsten Vorteile der Integration von Adobe [!DNL Campaign] und AEM Experience Manager sind:
 
 + **Verwalten des Inhalts Ihrer E-Mail-Sendungen** Ihrer Formulare direkt in Adobe Experience Manager.
 + **Verwenden von Marken-Assets beim Bearbeiten einer E-Mail oder Landingpage** in Adobe [!DNL Campaign] über Adobe Experience Manager Assets.
@@ -23,7 +23,7 @@ Die Integration von Adobe-[!DNL Campaign] und AEM-Experience Manager bietet folg
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>

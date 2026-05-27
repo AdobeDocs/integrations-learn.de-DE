@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '155'
 ht-degree: 2%
 
 ---
@@ -13,10 +13,10 @@ ht-degree: 2%
 
 {{campaign-description}}
 
-Die Integration von Adobe [!DNL Analytics] mit Adobe [!DNL Campaign] ermöglicht eine nahtlose Datenfreigabe und E-Mail-Verfolgung und bietet die folgenden Vorteile:
+Die Integration von Adobe [!DNL Analytics] mit Adobe [!DNL Campaign] ermöglicht die nahtlose Datenfreigabe und das E-Mail-Tracking und bietet die folgenden Vorteile:
 
-+ **KPI-Daten freigeben** vom Adobe-[!DNL Campaign] zum Adobe-[!DNL Analytics].
-+ **Anreicherung von Tracking** Formeln mit Adobe-[!DNL Analytics].
++ **KPI-Daten freigeben** von Adobe [!DNL Campaign] zu Adobe [!DNL Analytics].
++ **Anreicherung von Tracking** Formeln mit Adobe [!DNL Analytics].
 + Verwenden Sie Trigger, um **personalisierte E-Mails** basierend auf bestimmten verfolgten Verhaltensweisen zu senden.
 
 ## Allgemeine Integrationen
@@ -24,7 +24,7 @@ Die Integration von Adobe [!DNL Analytics] mit Adobe [!DNL Campaign] ermöglicht
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
