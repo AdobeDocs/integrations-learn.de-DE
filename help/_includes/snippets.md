@@ -1,7 +1,7 @@
 ---
 source-git-commit: 6971ee8d5debeb4fd8941322a3c029b76a4aad95
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '957'
 ht-degree: 2%
 
 ---
@@ -9,15 +9,15 @@ ht-degree: 2%
 
 ## Acrobat Sign-Beschreibung {#acrobat-sign-description}
 
-Adobe Acrobat Sign ist ein von Adobe angebotener Dienst für digitale Signaturen, mit dem Benutzende Dokumente elektronisch signieren und abrufen können. Es wird verwendet, um Prozesse zum Signieren von Dokumenten zu optimieren, die Effizienz zu steigern und die Authentizität und rechtliche Gültigkeit von signierten Dateien sicherzustellen. Dies macht es zu einer beliebten Wahl für Unternehmen und Einzelpersonen, die einen sicheren und papierlosen Ansatz für das Dokumentenmanagement suchen.
+Adobe Acrobat Sign ist ein von Adobe bereitgestellter Service für digitale Signaturen, mit dem Benutzende Dokumente elektronisch signieren und Signaturen erfassen können. Es wird verwendet, um Prozesse zum Signieren von Dokumenten zu optimieren, die Effizienz zu steigern und die Authentizität und rechtliche Gültigkeit von signierten Dateien sicherzustellen. Dies macht es zu einer beliebten Wahl für Unternehmen und Einzelpersonen, die einen sicheren und papierlosen Ansatz für das Dokumentenmanagement suchen.
 
 ## [!DNL Analytics] {#analytics-description}
 
-Adobe [!DNL Analytics] ist eine Analyselösung, mit der Unternehmen das Benutzerverhalten in digitalen Bereichen wie Websites, Mobile Apps, Streaming-Medien und Social Media verfolgen, messen und analysieren können. Adobe [!DNL Analytics] bietet Einblicke in die Interaktion von Benutzenden mit digitalen Inhalten und hilft Unternehmen, ihre digitalen Erlebnisse zu optimieren und ihre Marketing-Strategien zu verbessern.
+Adobe [!DNL Analytics] ist eine Analyselösung, mit der Unternehmen das Benutzerverhalten in digitalen Bereichen wie Websites, Mobile Apps, Streaming-Medien und Social Media verfolgen, messen und analysieren können. Adobe [!DNL Analytics] bietet Einblicke in die Interaktion von Benutzern mit digitalen Inhalten und hilft Unternehmen, ihre digitalen Erlebnisse zu optimieren und ihre Marketing-Strategien zu verbessern.
 
-## Beschreibung des Audience Managers {#audience-manager-description}
+## Audience Manager-Beschreibung {#audience-manager-description}
 
-Adobe Audience Manager (AAM) ist eine Datenverwaltungsplattform (DMP) von Adobe. Sie ermöglicht Unternehmen die Erfassung, Organisation und Segmentierung großer Mengen von Zielgruppendaten aus verschiedenen Quellen und hilft Marketing-Experten, zielgerichtete und personalisierte Werbekampagnen zu erstellen, die Inhaltsbereitstellung zu optimieren und die allgemeinen Kundenerlebnisse zu verbessern, basierend auf wertvollen Einblicken aus dem Zielgruppenverhalten und den Vorlieben.
+Adobe Audience Manager (AAM) ist eine von Adobe bereitgestellte Datenverwaltungsplattform (DMP). Sie ermöglicht Unternehmen die Erfassung, Organisation und Segmentierung großer Mengen von Zielgruppendaten aus verschiedenen Quellen und hilft Marketing-Experten, zielgerichtete und personalisierte Werbekampagnen zu erstellen, die Inhaltsbereitstellung zu optimieren und die allgemeinen Kundenerlebnisse zu verbessern, basierend auf wertvollen Einblicken aus dem Zielgruppenverhalten und den Vorlieben.
 
 ## [!DNL Campaign] {#campaign-description}
 
@@ -25,19 +25,19 @@ Adobe [!DNL Campaign] bietet eine Plattform für die Gestaltung kanalübergreife
 
 ## [!DNL Commerce] {#commerce-description}
 
-Adobe [!DNL Commerce] ist eine branchenführende E-Commerce-Plattform, die Unternehmen eine flexible und robuste Lösung für die Erstellung und Verwaltung von Online-Shops bietet. Es bietet eine breite Palette von Funktionen und Möglichkeiten, mit denen Unternehmen einzigartige, skalierbare und personalisierte Einkaufserlebnisse für ihre Kunden erstellen können.
+Adobe [!DNL Commerce] ist eine branchenführende E-Commerce-Plattform, die Unternehmen eine flexible und robuste Lösung zur Erstellung und Verwaltung von Online-Shops bietet. Es bietet eine breite Palette von Funktionen und Möglichkeiten, mit denen Unternehmen einzigartige, skalierbare und personalisierte Einkaufserlebnisse für ihre Kunden erstellen können.
 
-## Creative Cloud für Enterprise-Beschreibung {#creative-cloud-description}
+## Beschreibung zu Creative Cloud for Enterprise {#creative-cloud-description}
 
-Adobe Creative Cloud for enterprise ist eine umfassende Suite kreativer Programme, Services und Collaboration-Tools, die von Adobe bereitgestellt werden. Es wurde für Unternehmen und Teams entwickelt und bietet professionelle Software wie Photoshop, Illustrator, InDesign und Premiere Pro sowie Cloud-basierte Speicher-, Asset-Management- und Zusammenarbeitsfunktionen, die es Unternehmen ermöglichen, hochwertige digitale Inhalte zu erstellen, zu bearbeiten und gemeinsam zu bearbeiten und kreative Workflows in einer sicheren und skalierbaren Umgebung zu optimieren.
+Adobe Creative Cloud für Unternehmen ist eine umfassende Suite kreativer Programme, Services und Collaboration-Tools, die von Adobe bereitgestellt werden. Es wurde für Unternehmen und Teams entwickelt und bietet professionelle Software wie Photoshop, Illustrator, InDesign und Premiere Pro sowie Cloud-basierte Speicher-, Asset-Management- und Zusammenarbeitsfunktionen, die es Unternehmen ermöglichen, hochwertige digitale Inhalte zu erstellen, zu bearbeiten und gemeinsam zu bearbeiten und kreative Workflows in einer sicheren und skalierbaren Umgebung zu optimieren.
 
 ## Kunden-Journey [!DNL Analytics] Beschreibung {#customer-journey-analytics-description}
 
-Adobe Customer Journey [!DNL Analytics] (CJA) ist eine Analyseplattform von Adobe, mit der Unternehmen Kundeninteraktionen über verschiedene Touchpoints und Kanäle hinweg analysieren und visualisieren können. Sie ermöglicht Unternehmen, tiefgehende Einblicke in das Kundenverhalten zu gewinnen, Kundenmuster zu identifizieren und Journey zu optimieren, und unterstützt sie dabei, datengestützte Entscheidungen zu treffen, um Marketing-Strategien zu verbessern, Kundenerlebnisse zu verbessern und das Geschäftswachstum zu steigern.
+Adobe Customer Journey [!DNL Analytics] (CJA) ist eine von Adobe angebotene Analyseplattform, mit der Unternehmen Kundeninteraktionen über verschiedene Touchpoints und Kanäle hinweg analysieren und visualisieren können. Sie ermöglicht Unternehmen, tiefgehende Einblicke in das Kundenverhalten zu gewinnen, Kundenmuster zu identifizieren und Journey zu optimieren, und unterstützt sie dabei, datengestützte Entscheidungen zu treffen, um Marketing-Strategien zu verbessern, Kundenerlebnisse zu verbessern und das Geschäftswachstum zu steigern.
 
-## Beschreibung des Experience Managers {#experience-manager-description}
+## Experience Manager-Beschreibung {#experience-manager-description}
 
-Adobe Experience Manager (AEM) ist ein Content-Management-System (CMS), mit dem Unternehmen digitale Inhalte über verschiedene Kanäle wie Websites, Mobile Apps und Social Media erstellen, verwalten und bereitstellen können. AEM ermöglicht es Unternehmen, Inhalte zu personalisieren, Kundenerlebnisse zu optimieren und die Effektivität ihrer Digitalstrategien zu messen.
+Adobe Experience Manager (AEM) ist ein Content-Management-System (CMS), mit dem Unternehmen digitale Inhalte über verschiedene Kanäle wie Websites, Mobile Apps und Social Media erstellen, verwalten und bereitstellen können. AEM ermöglicht es Unternehmen, Inhalte zu personalisieren, Kundenerlebnisse zu optimieren und die Effektivität ihrer digitalen Strategien zu messen.
 
 ## Experience Manager Forms-Beschreibung {#experience-manager-forms-description}
 
@@ -45,7 +45,7 @@ Adobe Experience Manager Forms ist eine Komponente von Adobe Experience Manager,
 
 ## Beschreibung von Experience [!DNL Platform] {#experience-platform-description}
 
-Adobe Experience [!DNL Platform] ist das leistungsfähigste, flexibelste und offenste System auf dem Markt für die Erstellung und Verwaltung kompletter Lösungen, die das Kundenerlebnis steigern. Mit Experience [!DNL Platform] können Unternehmen Kundendaten und Inhalte aus beliebigen Systemen zentral zusammenführen und standardisieren. Zusätzlich können mithilfe von Datenwissenschaft und maschinellem Lernen die Gestaltung und Bereitstellung umfassender, personalisierter Erlebnisse erheblich verbessert werden.
+Adobe Experience [!DNL Platform] ist das leistungsstärkste, flexibelste und offenste System auf dem Markt für die Erstellung und Verwaltung kompletter Lösungen, die das Kundenerlebnis steigern. Mit Experience [!DNL Platform] können Unternehmen Kundendaten und Inhalte aus beliebigen Systemen zentral zusammenführen und standardisieren. Zusätzlich können mithilfe von Datenwissenschaft und maschinellem Lernen die Gestaltung und Bereitstellung umfassender, personalisierter Erlebnisse erheblich verbessert werden.
 
 
 ## GenStudio for Performance Marketing-Beschreibung {#genstudio-for-performance-marketing-description}
@@ -62,7 +62,7 @@ Adobe Marketo Engage ist eine Marketing-Automatisierungsplattform und Kundeninte
 
 ## Marketo Measure-Beschreibung {#marketo-measure-description}
 
-Adobe Marketo Measure bietet Marketing-Fachleuten einen Einblick, welche Marketing-Maßnahmen am effektivsten zur Umsatzsteigerung für ihr Unternehmen beitragen. Marketo Measure ist eine Marketing-Attributionslösung, mit der die Kanalleistung automatisch verfolgt und Berichte darüber erstellt werden. So erhalten Sie Einblick in die Kanäle, die die meiste Kundeninteraktion fördern, und können Ihre Marketing-Ausgaben entsprechend optimieren.
+Mit Adobe Marketo Measure erhalten Marketing-Fachleute insight, welche Marketing-Maßnahmen am effektivsten zur Umsatzsteigerung für ihr Unternehmen beitragen. Marketo Measure ist eine Marketing-Attributionslösung, mit der die Kanalleistung automatisch verfolgt und Berichte darüber erstellt werden. So erhalten Sie Einblick in die Kanäle, die die meiste Kundeninteraktion fördern, und können Ihre Marketing-Ausgaben entsprechend optimieren.
 
 ## Real-Time CDP-Beschreibung {#real-time-cdp-description}
 

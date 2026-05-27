@@ -4,7 +4,7 @@ description: Entdecken Sie eine umfassende Lösung, mit der Sie mühelos persona
 exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '689'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Mit AEM erstellte Marketing-E-Mails senden</li>
+          <li>Senden von mit AEM erstellten Marketing-E-Mails</li>
         </ul>
       </td>
       <td>
@@ -113,7 +113,7 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     </tr>
     <tr>
       <td>
-        Erstellen und Verwalten von Asset-Aktualisierungen auf Creative Cloud und Workfront
+        Erstellen und Verwalten von Asset-Aktualisierungen in Creative Cloud und Workfront
         Anwendungen
       </td>
       <td>
@@ -162,7 +162,7 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Dynamisch generierte NDA basierend auf den Daten einer AEM präsentieren
+            Dynamisch generierte NDA basierend auf den Daten aus einer AEM präsentieren
             Forms-Übermittlung zum Signieren
           </li>
         </ul>
@@ -236,7 +236,7 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
             Bekannte Geräte- und Verhaltenseigenschaften
           </li>
           <li>
-            Nutzen Sie das Audience Manager-Datennetzwerk von Drittanbietern, um
+            Nutzen Sie das Audience Manager-Drittanbieterdatennetzwerk, um
             Zielgruppen für das Targeting verfeinern und erweitern
           </li>
           <li>Freigeben von Audience Manager-Segmenten für RTCDP</li>
@@ -247,7 +247,7 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager- und Echtzeit-[!DNL Platform]</a
+          >Audience Manager und Real-time Customer Data [!DNL Platform]</a
         >
       </td>
     </tr>
@@ -282,7 +282,7 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
       <td rowspan="2"><strong>Web-Erlebnisse personalisieren</strong></td>
       <td>
         Anpassen von Single Page Application (SPA)-Erlebnissen durch effektive
-        Verwendung von AEM Headless in Verbindung mit Adobe [!DNL Target].
+        Verwenden von AEM Headless in Verbindung mit Adobe [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -303,7 +303,7 @@ Entdecken Sie eine umfassende Lösung, mit der Sie mühelos personalisierte digi
     <tr>
       <td>
         Bereitstellen maßgeschneiderter Website-Erlebnisse durch effektive Nutzung von AEM Sites
-        und Adobe-[!DNL Target] zur Personalisierung.
+        und Adobe [!DNL Target] für Personalisierung.
       </td>
       <td>
         <ul style="margin-top: 0;">
