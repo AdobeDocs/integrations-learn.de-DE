@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 3%
+source-wordcount: '149'
+ht-degree: 2%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 3%
 
 Die Integration von Adobe [!DNL Analytics] mit Adobe [!DNL Campaign] ermöglicht die nahtlose Datenfreigabe und das E-Mail-Tracking:
 
-+ **KPI-Daten freigeben** vom Adobe-[!DNL Campaign] zum Adobe-[!DNL Analytics].
-+ **Anreicherung von Tracking** Formeln mit Adobe-[!DNL Analytics].
++ **KPI-Daten freigeben** von Adobe [!DNL Campaign] zu Adobe [!DNL Analytics].
++ **Anreicherung von Tracking** Formeln mit Adobe [!DNL Analytics].
 + Verwenden Sie Trigger, um **personalisierte E-Mails** basierend auf bestimmten verfolgten Verhaltensweisen zu senden.
 
 ## Allgemeine Integrationen
@@ -24,7 +24,7 @@ Die Integration von Adobe [!DNL Analytics] mit Adobe [!DNL Campaign] ermöglicht
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
@@ -33,7 +33,7 @@ Die Integration von Adobe [!DNL Analytics] mit Adobe [!DNL Campaign] ermöglicht
      <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] Standard mit [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=de" target="_blank" rel="noreferrer">Externes [!DNL Campaign], das mit der Adobe-[!DNL Analytics] und der Admin-Konfiguration in verknüpft ist [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Externes [!DNL Campaign], das mit der Adobe-[!DNL Analytics] und der Admin-Konfiguration in verknüpft ist [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Wenn Sie den Erfolg Ihrer E-Mail-Sendungen von [!DNL Campaign] direkt in Adobe [!DNL Analytics] verfolgen möchten.</li>
