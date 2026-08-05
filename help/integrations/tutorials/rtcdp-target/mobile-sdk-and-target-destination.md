@@ -48,7 +48,7 @@ ht-degree: 0%
 
 Verschaffen Sie sich einen Überblick und eine Demo zur Integration.
 
->[!VIDEO](https://video.tv.adobe.com/v/340091?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343070?captions=ger&quality=12&learn=on)
 
 
 ## Konfigurieren des Adobe [!DNL Target]-Ziels in Real-time Customer Data [!DNL Platform]
