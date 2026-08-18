@@ -1,8 +1,8 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 6%
+source-wordcount: '134'
+ht-degree: 5%
 
 ---
 
@@ -13,9 +13,9 @@ ht-degree: 6%
 
 {{target-description}}
 
-Die Integration von Adobe [!DNL Analytics] und Adobe [!DNL Target] (A4T) bietet folgende Hauptvorteile:
+Die wichtigsten Vorteile der Integration von Adobe [!DNL Analytics] und Adobe [!DNL Target] (A4T) sind:
 
-+ **Datengesteuerte Personalisierung**: Verwenden Sie [!DNL Analytics] für zielgerichtete Aktivitäten in Adobe-[!DNL Target], um Personalisierungsstrategien zu verbessern.
++ **Datengesteuerte Personalisierung**: Verwenden Sie [!DNL Analytics] für zielgerichtete Aktivitäten in Adobe [!DNL Target], um Personalisierungsstrategien zu verbessern.
 + **Einheitliches Reporting**: Die A4T-Integration kombiniert [!DNL Target]- und [!DNL Analytics]-Berichte, um eine umfassende Analyse zu ermöglichen.
 + **Optimiertes Targeting**: basieren Entscheidungen auf [!DNL Analytics] Daten für eine präzise Zielgruppensegmentierung und Inhaltsoptimierung.
 + **Freigegebene Zielgruppen**: Verwenden Sie [!DNL Analytics], um detaillierte Segmente zu erstellen, und geben Sie sie für [!DNL Target] frei, die als Zielgruppen für Tests verwendet werden können.
@@ -23,7 +23,7 @@ Die Integration von Adobe [!DNL Analytics] und Adobe [!DNL Target] (A4T) bietet 
 <table>
     <thead>
             <tr>
-                <th>Experience Cloud-Anwendungen</th>
+                <th>Experience Cloud-Programme</th>
                 <th>Integriert mit</th>
                 <th>Verwendungszeitpunkt</th>
                 <th>Häufige Anwendungsfälle</th>
@@ -39,7 +39,7 @@ Die Integration von Adobe [!DNL Analytics] und Adobe [!DNL Target] (A4T) bietet 
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Sie möchten die umfangreichen Reporting-Funktionen von Adobe [!DNL Analytics] verwenden, um [!DNL Target] Aktivitätsergebnisse anzuzeigen und zu analysieren.</li>
+                    <li>Sie möchten Adobe [!DNL Analytics] umfangreichen Reporting-Funktionen verwenden, um [!DNL Target] Aktivitätsergebnisse anzuzeigen und zu analysieren.</li>
                 </ul>
             </td>
             <td>
