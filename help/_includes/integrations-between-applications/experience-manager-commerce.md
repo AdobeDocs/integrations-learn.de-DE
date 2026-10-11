@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 2%
-
+source-wordcount: '226'
+ht-degree: 8%
 ---
-
 
 # Experience Manager und Adobe [!DNL Commerce]
 
@@ -25,7 +23,7 @@ Die Integration von AEM- und Adobe-[!DNL Commerce] mithilfe [!DNL Commerce] Inte
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
@@ -33,12 +31,12 @@ Die Integration von AEM- und Adobe-[!DNL Commerce] mithilfe [!DNL Commerce] Inte
     </thead>
     <tbody>
         <tr>
-            <td rowspan="3">AEM Sites als Cloud Service und [!DNL Commerce]</td>
+            <td rowspan="3">AEM Sites as a Cloud Service und [!DNL Commerce]</td>
             <td><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/getting-started.html?lang=de" target="_blank" rel="noreferrer">Erstellen einer einzelnen Storefront mithilfe [!DNL Commerce] Integration Framework (CIF)</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Wenn Sie eine einzige Storefront in AEM wünschen.</li>
-                    <li>Wenn Sie AEM-CIF-Kernkomponenten zum Erstellen der Storefronts verwenden möchten.</li>
+                    <li>Wenn Sie AEM CIF-Kernkomponenten zum Erstellen der Storefronts verwenden möchten.</li>
                 </ul>
             </td>
             <td>
@@ -54,7 +52,7 @@ Die Integration von AEM- und Adobe-[!DNL Commerce] mithilfe [!DNL Commerce] Inte
             <td>
                 <ul style="margin-top: 0;">
                     <li>Wenn Sie mehrere Storefronts in AEM benötigen.</li>
-                    <li>Wenn Sie AEM-CIF-Kernkomponenten zum Erstellen der Storefronts verwenden möchten.</li>
+                    <li>Wenn Sie AEM CIF-Kernkomponenten zum Erstellen der Storefronts verwenden möchten.</li>
                 </ul>
             </td>
             <td>

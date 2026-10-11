@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '319'
 ht-degree: 0%
-
 ---
-
 
 # Integrieren von Adobe [!DNL Analytics] mit Real-time Customer Data [!DNL Platform]
 
@@ -24,7 +22,7 @@ Durch die Kombination von Adobe [!DNL Analytics] und Real-Time CDP können Unter
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
@@ -35,7 +33,7 @@ Durch die Kombination von Adobe [!DNL Analytics] und Real-Time CDP können Unter
         <td><a href="../../integrations/tutorials/analytics-rtcdp/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Quell-Connector für Experience [!DNL Platform]</a></td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Empfohlener Ansatz für Kunden, die bereits Adobe [!DNL Analytics] implementiert haben und die am schnellsten diese Daten in Experience [!DNL Platform] aufnehmen möchten, um sie im Echtzeit-Kundenprofil zu verwenden.</li>
+                <li>Empfohlener Ansatz für Kunden, die Adobe [!DNL Analytics] bereits implementiert haben und die am schnellsten diese Daten in Experience [!DNL Platform] aufnehmen möchten, um sie im Echtzeit-Kundenprofil zu verwenden.</li>
                 <li>Wenn die Datenverfügbarkeit für das Echtzeit-Kundenprofil zwischen 2 und 30 Minuten ab dem Zeitpunkt der Datenerfassung betragen kann und die Verfügbarkeit für den Data Lake bis zu 90 Minuten beträgt.</li>
             </ul>
         </td>
@@ -52,7 +50,7 @@ Durch die Kombination von Adobe [!DNL Analytics] und Real-Time CDP können Unter
         <td>
             <ul style="margin-top: 0;">
                 <li>Empfohlener Ansatz für neue [!DNL Analytics]-Implementierungen oder wenn Sie eine langfristige Strategie implementieren möchten.</li>
-                <li>Sendet Daten mithilfe der AEP Web SDK, AEP Mobile SDK oder der Edge Network Server-API direkt von einem Gerät an Experience [!DNL Platform].</li>
+                <li>Sendet Daten mithilfe der AEP Web SDK, AEP Mobile SDK oder der Edge Network-Server-API direkt von einem Gerät an Experience [!DNL Platform].</li>
                 <li>Neue oder bestehende Kunden, die [!DNL Analytics] Datenverfügbarkeit für das Echtzeit-Kundenprofil benötigen, um Anwendungsfälle für die Personalisierung derselben und der nächsten Seite zu unterstützen.</li>
             </ul>
         </td>
