@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 3%
-
+source-wordcount: '112'
+ht-degree: 2%
 ---
-
 
 # Experience Manager und Adobe Experience [!DNL Platform]
 
@@ -24,7 +22,7 @@ Die Integration von AEM und Experience [!DNL Platform] bietet verschiedene Vorte
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
@@ -32,11 +30,11 @@ Die Integration von AEM und Experience [!DNL Platform] bietet verschiedene Vorte
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html?lang=de" target="_blank" rel="noreferrer">Experience Manager und Erfahrung [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html?lang=de" target="_blank" rel="noreferrer">Experience Manager und Experience Platform [!DNL Platform]</a></td>
             <td>Experience [!DNL Platform] Web SDK</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wenn Sie AEM positionieren möchten, um in andere Adobe Experience Cloud-Programme integrieren zu können.</li>
+                    <li>Positionieren Sie AEM so, dass es mit anderen Adobe Experience Cloud-Programmen integriert werden kann.</li>
                 </ul>
             </td>
             <td>
