@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '228'
 ht-degree: 1%
-
 ---
-
 
 # Integrieren von Adobe [!DNL Analytics] mit Kunden-Journey [!DNL Analytics]
 
@@ -26,7 +24,7 @@ Die Integration von Adobe [!DNL Analytics] mit Kunden-Journey [!DNL Analytics] b
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
@@ -38,7 +36,7 @@ Die Integration von Adobe [!DNL Analytics] mit Kunden-Journey [!DNL Analytics] b
             <td><a href="../../integrations/tutorials/analytics-cja/experience-platform-source-connector.md" target="_blank" rel="noreferrer">Quell-Connector für Experience [!DNL Platform]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Empfohlener Ansatz für Kunden, die bereits Adobe [!DNL Analytics] implementiert haben und die am schnellsten diese Daten in Experience [!DNL Platform] aufnehmen möchten, um sie in Kunden-Journey-[!DNL Analytics] zu verwenden.</li>
+                    <li>Empfohlener Ansatz für Kunden, die Adobe [!DNL Analytics] bereits implementiert haben und die am schnellsten diese Daten in Experience [!DNL Platform] aufnehmen möchten, um sie in Kunden-Journey-[!DNL Analytics] zu verwenden.</li>
                     <li>Wenn die Datenverfügbarkeit für das Kundenprofil zwischen 2 und 30 Minuten ab dem Zeitpunkt der Datenerfassung betragen kann und die Verfügbarkeit für den Data Lake bis zu 90 Minuten beträgt.</li>
                 </ul>
             </td>
@@ -55,7 +53,7 @@ Die Integration von Adobe [!DNL Analytics] mit Kunden-Journey [!DNL Analytics] b
             <td>
                 <ul style="margin-top: 0;">
                     <li>Empfohlener Ansatz für neue [!DNL Analytics]-Implementierungen oder wenn Sie eine langfristige Strategie implementieren möchten.</li>
-                    <li>Sendet Daten mithilfe der AEP Web SDK, AEP Mobile SDK oder der Edge Network Server-API direkt von einem Gerät an Experience [!DNL Platform].</li>
+                    <li>Sendet Daten mithilfe der AEP Web SDK, AEP Mobile SDK oder der Edge Network-Server-API direkt von einem Gerät an Experience [!DNL Platform].</li>
                 </ul>
             </td>
             <td>

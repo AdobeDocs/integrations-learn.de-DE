@@ -1,11 +1,9 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 1%
-
+source-wordcount: '258'
+ht-degree: 6%
 ---
-
 
 # Integration von Customer Journey [!DNL Analytics] und Real-time Customer Data [!DNL Platform] (Real-Time CDP)
 
@@ -28,7 +26,7 @@ Insgesamt ermöglicht die Integration von Adobe Customer Journey [!DNL Analytics
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
@@ -40,7 +38,7 @@ Insgesamt ermöglicht die Integration von Adobe Customer Journey [!DNL Analytics
             <td>Adobe Experience [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wenn Sie eine Zielgruppe vom Typ Customer Journey [!DNL Analytics] (CJA) für eine Journey in Adobe Journey Optimizer verwenden möchten.</li>
+                    <li>Wenn Sie eine Zielgruppe vom Typ Kunden-Journey [!DNL Analytics] (CJA) für eine Journey in Adobe Journey Optimizer verwenden möchten.</li>
                     <li>Wenn Sie die CJA-Zielgruppe über ein Experience [!DNL Platform]-Ziel zu einem Drittanbieter exportieren möchten.</li>
                     <li>Wenn Sie das Echtzeit-Kundenprofil mit nützlichen Attributen anreichern möchten, die aus ereignisbasierten Daten in CJA abgeleitet wurden.</li>
                     <li>Dies alles geschieht mit minimaler Latenz nach der Veröffentlichung der Zielgruppe in Real-Time CDP.</li>
