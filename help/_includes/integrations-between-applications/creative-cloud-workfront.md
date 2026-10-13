@@ -1,11 +1,9 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '126'
 ht-degree: 2%
-
 ---
-
 
 # Integration von Creative Cloud und Workfront
 
@@ -15,7 +13,7 @@ ht-degree: 2%
 
 Die Integration von Adobe Workfront und Adobe Creative Cloud bietet folgende Hauptvorteile:
 
-+ **Kreativ-Workflow**: Die Integration optimiert Aufgaben, Feedback und die Zeitprotokollierung in Creative Cloud-Apps.
++ **Creative-Workflow**: Die Integration optimiert Aufgaben, Feedback und die Zeitprotokollierung in Creative Cloud-Programmen.
 + **Effiziente Zusammenarbeit**: Workfront erleichtert die Überprüfung, Genehmigung und Zusammenarbeit von Kreativprofis.
 + **Höhere Produktivität**: Die Vorlieben einer nahtlosen Umgebung führen zu einer schnelleren und hochwertigeren Erstellung von Inhalten.
 
@@ -24,7 +22,7 @@ Die Integration von Adobe Workfront und Adobe Creative Cloud bietet folgende Hau
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
@@ -32,11 +30,11 @@ Die Integration von Adobe Workfront und Adobe Creative Cloud bietet folgende Hau
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html?lang=de" target="_blank" rel="noreferrer">Creative Cloud und Workfront</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.html" target="_blank" rel="noreferrer">Creative Cloud und Workfront</a></td>
             <td>Nativer Connector</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wenn Kreative zugewiesene Arbeit suchen und aktualisieren möchten, ohne Creative Cloud-Apps zu verlassen.</li>
+                    <li>Wenn Kreative zugewiesene Arbeit suchen und aktualisieren möchten, ohne Creative Cloud-Programme verlassen zu müssen.</li>
                 </ul>
             </td>
             <td>
