@@ -1,11 +1,9 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 1%
-
+source-wordcount: '237'
+ht-degree: 2%
 ---
-
 
 # Integration von Experience Manager und Workfront
 
@@ -26,7 +24,7 @@ AEM und Workfront optimieren die Inhaltserstellung und ermöglichen den nahtlose
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
@@ -34,7 +32,7 @@ AEM und Workfront optimieren die Inhaltserstellung und ermöglichen den nahtlose
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=de" target="_blank" rel="noreferrer">Workfront und AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront und AEM Assets Essentials</a></td>
             <td>Nativer Connector</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +48,7 @@ AEM und Workfront optimieren die Inhaltserstellung und ermöglichen den nahtlose
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=de" target="_blank" rel="noreferrer">Workfront und AEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">Workfront und AEM Assets</a></td>
             <td>Verbesserter Connector</td>
             <td>
                 <ul style="margin-top: 0;">

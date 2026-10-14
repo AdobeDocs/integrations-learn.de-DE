@@ -1,11 +1,9 @@
 ---
 source-git-commit: 954b4bd9b36496d3a5992316a985bf88d129baf5
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '120'
 ht-degree: 2%
-
 ---
-
 
 # GenStudio for Performance Marketing und Experience Manager Assets
 
@@ -24,7 +22,7 @@ Die Integration von Adobe GenStudio for Performance Marketing und Experience Man
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-Anwendungen</th>
+            <th>Experience Cloud-Programme</th>
             <th>Integriert mit</th>
             <th>Verwendungszeitpunkt</th>
             <th>Häufige Anwendungsfälle</th>
